@@ -1,0 +1,2370 @@
+{
+  "爱": {
+    "pinyin": "ài",
+    "explanation": "Verb. To love. Used to express affection for people, things, or activities. E.g., 我爱你 (Wǒ ài nǐ - I love you). 我爱吃米饭 (Wǒ ài chī mǐfàn - I love to eat rice)."
+  },
+  "八": {
+    "pinyin": "bā",
+    "explanation": "Numeral. Eight. The number 8. E.g., 他八岁了 (Tā bā suì le - He is eight years old)."
+  },
+  "爸爸": {
+    "pinyin": "bàba",
+    "explanation": "Noun. Father; dad. A male parent. E.g., 我爸爸是医生 (Wǒ bàba shì yīshēng - My father is a doctor).<br><strong>Component Breakdown:</strong><br>爸 (bà): dad, father.<br>爸 (ba): (suffix for certain kinship terms)."
+  },
+  "杯子": {
+    "pinyin": "bēizi",
+    "explanation": "Noun. Cup; glass. A container for drinking from. E.g., 桌子上有一个杯子 (Zhuōzi shàng yǒu yī ge bēizi - There is a cup on the table).<br><strong>Component Breakdown:</strong><br>杯 (bēi): cup, glass.<br>子 (zi): (noun suffix)."
+  },
+  "北京": {
+    "pinyin": "Běijīng",
+    "explanation": "Noun. Beijing. The capital city of China. E.g., 我想去北京旅游 (Wǒ xiǎng qù Běijīng lǚyóu - I want to travel to Beijing).<br><strong>Component Breakdown:</strong><br>北 (Běi): north.<br>京 (jīng): capital city."
+  },
+  "本": {
+    "pinyin": "běn",
+    "explanation": "Measure Word/Noun. (for books, periodicals, files, etc.); root; origin. E.g., (M.W.) 这是一本书 (Zhè shì yī běn shū - This is a book). (Noun) 忘本 (wàngběn - to forget one's roots)."
+  },
+  "不客气": {
+    "pinyin": "bú kèqi",
+    "explanation": "Phrase. You're welcome; don't be polite; you're welcome. A common response to 'thank you' (谢谢 xièxie). E.g., A: 谢谢你！ B: 不客气！ (A: Xièxie nǐ! B: Bú kèqi! - A: Thank you! B: You're welcome!).<br><strong>Component Breakdown:</strong><br>不 (bú): not, no.<br>客 (kè): guest, visitor, polite.<br>气 (qi): air, manner, spirit."
+  },
+  "不": {
+    "pinyin": "bù",
+    "explanation": "Adverb. Not; no. Used to negate verbs, adjectives, and other adverbs. E.g., 我不是学生 (Wǒ bú shì xuésheng - I am not a student). 天气不好 (Tiānqì bù hǎo - The weather is not good)."
+  },
+  "菜": {
+    "pinyin": "cài",
+    "explanation": "Noun. Dish (type of food); vegetable; cuisine. Cooked food served as part of a meal; plants grown for food. E.g., 我喜欢吃中国菜 (Wǒ xǐhuān chī Zhōngguó cài - I like to eat Chinese food). 这个菜很好吃 (Zhège cài hěn hǎochī - This dish is delicious)."
+  },
+  "茶": {
+    "pinyin": "chá",
+    "explanation": "Noun. Tea. A drink made by infusing dried, crushed leaves of the tea plant in boiling water. E.g., 你想喝茶吗？ (Nǐ xiǎng hē chá ma? - Would you like to drink tea?)."
+  },
+  "吃": {
+    "pinyin": "chī",
+    "explanation": "Verb. To eat. To take food into the mouth and swallow it. E.g., 我想吃米饭 (Wǒ xiǎng chī mǐfàn - I want to eat rice)."
+  },
+  "出租车": {
+    "pinyin": "chūzūchē",
+    "explanation": "Noun. Taxi; cab. A car licensed to transport passengers in return for payment of a fare. E.g., 我们坐出租车去机场 (Wǒmen zuò chūzūchē qù jīchǎng - We are taking a taxi to the airport).<br><strong>Component Breakdown:</strong><br>出 (chū): to go out, to pay out.<br>租 (zū): to rent, to hire.<br>车 (chē): vehicle, car."
+  },
+  "打电话": {
+    "pinyin": "dǎ diànhuà",
+    "explanation": "Verb phrase. To make a phone call. To use a telephone to talk to someone. E.g., 我要给妈妈打电话 (Wǒ yào gěi māma dǎ diànhuà - I want to call my mom).<br><strong>Component Breakdown:</strong><br>打 (dǎ): to hit, to make (a call), to play (a game).<br>电 (diàn): electricity, electric.<br>话 (huà): speech, talk, words, phone call."
+  },
+  "大": {
+    "pinyin": "dà",
+    "explanation": "Adjective. Big; large; old (for age). Of considerable size or extent. E.g., 这个苹果很大 (Zhège píngguǒ hěn dà - This apple is very big). 他比我大三岁 (Tā bǐ wǒ dà sān suì - He is three years older than me)."
+  },
+  "的": {
+    "pinyin": "de",
+    "explanation": "Particle. (possessive particle, used after an attribute). Used to show possession or to link an adjective/attributive phrase to a noun. E.g., 我的书 (wǒ de shū - my book). 红色的花 (hóngsè de huā - red flower)."
+  },
+  "点": {
+    "pinyin": "diǎn",
+    "explanation": "Noun/Verb/Measure Word. O'clock; a little bit; dot; point; to order (food); to light. E.g., (Time) 现在三点 (Xiànzài sān diǎn - It's three o'clock). (A little) 我会说一点儿汉语 (Wǒ huì shuō yīdiǎnr Hànyǔ - I can speak a little Chinese). (To order) 我想点一个菜 (Wǒ xiǎng diǎn yī ge cài - I want to order a dish)."
+  },
+  "电脑": {
+    "pinyin": "diànnǎo",
+    "explanation": "Noun. Computer. An electronic device for storing and processing data. E.g., 我用电脑工作 (Wǒ yòng diànnǎo gōngzuò - I use a computer for work).<br><strong>Component Breakdown:</strong><br>电 (diàn): electricity, electric.<br>脑 (nǎo): brain."
+  },
+  "电视": {
+    "pinyin": "diànshì",
+    "explanation": "Noun. Television; TV. A system for transmitting visual images and sound that are reproduced on screens. E.g., 我喜欢看电视 (Wǒ xǐhuān kàn diànshì - I like to watch TV).<br><strong>Component Breakdown:</strong><br>电 (diàn): electricity, electric.<br>视 (shì): to look at, to watch, vision."
+  },
+  "电影": {
+    "pinyin": "diànyǐng",
+    "explanation": "Noun. Movie; film. A story or event recorded by a camera as a set of moving images and shown in a cinema or on television. E.g., 我们去看电影吧 (Wǒmen qù kàn diànyǐng ba - Let's go watch a movie).<br><strong>Component Breakdown:</strong><br>电 (diàn): electricity, electric.<br>影 (yǐng): shadow, image, film."
+  },
+  "东西": {
+    "pinyin": "dōngxi",
+    "explanation": "Noun. Thing; stuff; object. An item or article. E.g., 你买了什么东西？ (Nǐ mǎi le shénme dōngxi? - What things did you buy?).<br><strong>Component Breakdown:</strong><br>东 (dōng): east.<br>西 (xī): west. (Historically, items from East and West markets)."
+  },
+  "都": {
+    "pinyin": "dōu",
+    "explanation": "Adverb. Both; all. Used to indicate inclusiveness, often referring to everything or everyone mentioned previously. E.g., 我们都喜欢中国菜 (Wǒmen dōu xǐhuān Zhōngguó cài - We all like Chinese food). 这些书我都看了 (Zhèxiē shū wǒ dōu kàn le - I have read all these books)."
+  },
+  "读": {
+    "pinyin": "dú",
+    "explanation": "Verb. To read; to study. To look at and comprehend the meaning of written or printed matter. E.g., 我喜欢读书 (Wǒ xǐhuān dúshū - I like to read books). 你在读什么？ (Nǐ zài dú shénme? - What are you reading?)."
+  },
+  "对不起": {
+    "pinyin": "duìbuqǐ",
+    "explanation": "Phrase. I'm sorry; excuse me; pardon me. Used to apologize. E.g., 对不起，我迟到了 (Duìbuqǐ, wǒ chídào le - I'm sorry, I'm late).<br><strong>Component Breakdown:</strong><br>对 (duì): to face, towards, correct.<br>不 (bu): not.<br>起 (qǐ): to rise, to get up, to afford."
+  },
+  "多": {
+    "pinyin": "duō",
+    "explanation": "Adjective/Adverb. Many; much; a lot; more; how (in questions about quantity or degree). E.g., (Adj) 这里有很多人 (Zhèli yǒu hěn duō rén - There are many people here). (Adv) 多吃点水果 (Duō chī diǎn shuǐguǒ - Eat more fruit). (How) 你多大？ (Nǐ duō dà? - How old are you?)."
+  },
+  "多少": {
+    "pinyin": "duōshao",
+    "explanation": "Pronoun. How much; how many. Used to ask about quantity or number (can be used for both countable and uncountable nouns, often for numbers expected to be larger than ten). E.g., 这个多少钱？ (Zhège duōshao qián? - How much is this?). 你们班有多少学生？ (Nǐmen bān yǒu duōshao xuésheng? - How many students are in your class?).<br><strong>Component Breakdown:</strong><br>多 (duō): many, much.<br>少 (shao): few, little."
+  },
+  "儿子": {
+    "pinyin": "érzi",
+    "explanation": "Noun. Son. A male child in relation to his parents. E.g., 我的儿子今年五岁 (Wǒ de érzi jīnnián wǔ suì - My son is five years old this year).<br><strong>Component Breakdown:</strong><br>儿 (ér): son, child.<br>子 (zi): son, child, (noun suffix)."
+  },
+  "二": {
+    "pinyin": "èr",
+    "explanation": "Numeral. Two. The number 2. (Often used for counting, phone numbers, room numbers. 两 liǎng is used with measure words). E.g., 一加一等于二 (Yī jiā yī děngyú èr - One plus one equals two)."
+  },
+  "饭店": {
+    "pinyin": "fàndiàn",
+    "explanation": "Noun. Restaurant; hotel (can also mean hotel, but restaurant is more common at HSK1). A place where meals are prepared and served to customers. E.g., 我们去饭店吃饭吧 (Wǒmen qù fàndiàn chīfàn ba - Let's go to a restaurant to eat).<br><strong>Component Breakdown:</strong><br>饭 (fàn): rice, meal, food.<br>店 (diàn): shop, store, inn."
+  },
+  "飞机": {
+    "pinyin": "fēijī",
+    "explanation": "Noun. Airplane. A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces. E.g., 我坐飞机去上海 (Wǒ zuò fēijī qù Shànghǎi - I am taking a plane to Shanghai).<br><strong>Component Breakdown:</strong><br>飞 (fēi): to fly.<br>机 (jī): machine, aircraft."
+  },
+  "分钟": {
+    "pinyin": "fēnzhōng",
+    "explanation": "Noun. Minute (of time). A period of sixty seconds. E.g., 请等我五分钟 (Qǐng děng wǒ wǔ fēnzhōng - Please wait for me for five minutes).<br><strong>Component Breakdown:</strong><br>分 (fēn): minute, to divide, point.<br>钟 (zhōng): clock, bell, o'clock."
+  },
+  "高兴": {
+    "pinyin": "gāoxìng",
+    "explanation": "Adjective. Happy; glad; pleased. Feeling or showing pleasure or contentment. E.g., 见到你很高兴 (Jiàndào nǐ hěn gāoxìng - I'm very happy to see you).<br><strong>Component Breakdown:</strong><br>高 (gāo): high, tall.<br>兴 (xìng): mood, excitement, interest."
+  },
+  "个": {
+    "pinyin": "ge",
+    "explanation": "Measure Word. (general measure word for people or things); individual. The most common measure word. E.g., 一个人 (yī ge rén - one person). 三个苹果 (sān ge píngguǒ - three apples)."
+  },
+  "工作": {
+    "pinyin": "gōngzuò",
+    "explanation": "Noun/Verb. Work; job; to work. Activity involving mental or physical effort done in order to achieve a purpose or result. E.g., (Noun) 我的工作很忙 (Wǒ de gōngzuò hěn máng - My work is very busy). (Verb) 他在银行工作 (Tā zài yínháng gōngzuò - He works at a bank).<br><strong>Component Breakdown:</strong><br>工 (gōng): work, labor, skill.<br>作 (zuò): to do, to make, work, to act as."
+  },
+  "狗": {
+    "pinyin": "gǒu",
+    "explanation": "Noun. Dog. A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice. E.g., 我家有一只小狗 (Wǒ jiā yǒu yī zhī xiǎo gǒu - My family has a small dog)."
+  },
+  "汉语": {
+    "pinyin": "Hànyǔ",
+    "explanation": "Noun. Chinese language. Specifically, the language of the Han people, Mandarin Chinese. E.g., 我在学习汉语 (Wǒ zài xuéxí Hànyǔ - I am learning Chinese).<br><strong>Component Breakdown:</strong><br>汉 (Hàn): Han ethnic group, Chinese.<br>语 (yǔ): language, speech, word."
+  },
+  "好": {
+    "pinyin": "hǎo",
+    "explanation": "Adjective/Adverb. Good; well; fine; okay. Of a high standard; satisfactory. E.g., (Adj) 今天天气很好 (Jīntiān tiānqì hěn hǎo - The weather is very good today). (Adv) 你做得很好 (Nǐ zuò de hěn hǎo - You did very well). (Okay) 好的，没问题 (Hǎo de, méi wèntí - Okay, no problem)."
+  },
+  "喝": {
+    "pinyin": "hē",
+    "explanation": "Verb. To drink. To take liquid into the mouth and swallow. E.g., 我想喝水 (Wǒ xiǎng hē shuǐ - I want to drink water)."
+  },
+  "和": {
+    "pinyin": "hé",
+    "explanation": "Conjunction/Preposition. And; with. Used to connect two nouns or noun phrases; together with. E.g., (Conj) 我喜欢米饭和面条 (Wǒ xǐhuān mǐfàn hé miàntiáo - I like rice and noodles). (Prep) 我和他一起去 (Wǒ hé tā yīqǐ qù - I go with him)."
+  },
+  "很": {
+    "pinyin": "hěn",
+    "explanation": "Adverb. Very; quite. To a high degree. E.g., 他很高 (Tā hěn gāo - He is very tall). 我很好 (Wǒ hěn hǎo - I am very well)."
+  },
+  "后面": {
+    "pinyin": "hòumiàn",
+    "explanation": "Noun/Position word. Back; behind; rear. At or to the far side or end. E.g., 椅子在桌子后面 (Yǐzi zài zhuōzi hòumiàn - The chair is behind the table).<br><strong>Component Breakdown:</strong><br>后 (hòu): back, behind, after.<br>面 (miàn): face, surface, side."
+  },
+  "回": {
+    "pinyin": "huí",
+    "explanation": "Verb/Measure Word. To return; to go back; (for occurrences or times). E.g., (Verb) 我想回家 (Wǒ xiǎng huí jiā - I want to go home). (M.W.) 这件事我去过一回 (Zhè jiàn shì wǒ qùguo yī huí - I've been there once for this matter)."
+  },
+  "会": {
+    "pinyin": "huì",
+    "explanation": "Verb/Auxiliary Verb. Can; to be able to (skill); will; to be likely to; meeting. (Skill) To know how to do something. (Future) Indicates a future possibility or intention. E.g., (Skill) 我会说汉语 (Wǒ huì shuō Hànyǔ - I can speak Chinese). (Future) 明天会下雨 (Míngtiān huì xiàyǔ - It will rain tomorrow). (Noun) 开会 (kāihuì - to have a meeting)."
+  },
+  "几": {
+    "pinyin": "jǐ",
+    "explanation": "Pronoun/Numeral. How many (for small numbers, usually less than 10); a few; some. E.g., (How many) 你有几个苹果？ (Nǐ yǒu jǐ ge píngguǒ? - How many apples do you have?). (A few) 我有几个朋友 (Wǒ yǒu jǐ ge péngyou - I have a few friends)."
+  },
+  "家": {
+    "pinyin": "jiā",
+    "explanation": "Noun/Measure Word. Home; family; house; (for families or businesses). A place where one lives; a group consisting of parents and children living together. E.g., (Noun) 这是我的家 (Zhè shì wǒ de jiā - This is my home). (M.W.) 一家饭店 (yī jiā fàndiàn - a restaurant)."
+  },
+  "叫": {
+    "pinyin": "jiào",
+    "explanation": "Verb. To be called; to call; to shout; to ask. To have a particular name; to make a loud cry. E.g., 我叫李明 (Wǒ jiào Lǐ Míng - My name is Li Ming). 请叫他过来 (Qǐng jiào tā guòlai - Please ask him to come over)."
+  },
+  "今天": {
+    "pinyin": "jīntiān",
+    "explanation": "Noun. Today. This present day. E.g., 今天是星期一 (Jīntiān shì Xīngqīyī - Today is Monday).<br><strong>Component Breakdown:</strong><br>今 (jīn): present, today, now.<br>天 (tiān): day, sky, heaven."
+  },
+  "九": {
+    "pinyin": "jiǔ",
+    "explanation": "Numeral. Nine. The number 9. E.g., 他九点了还没来 (Tā jiǔ diǎn le hái méi lái - It's nine o'clock and he still hasn't come)."
+  },
+  "开": {
+    "pinyin": "kāi",
+    "explanation": "Verb. To open; to start; to drive (a car); to turn on. E.g., 请开门 (Qǐng kāi mén - Please open the door). 我会开车 (Wǒ huì kāichē - I can drive a car). 开灯 (kāidēng - to turn on the light)."
+  },
+  "看": {
+    "pinyin": "kàn",
+    "explanation": "Verb. To see; to look at; to watch; to read. To perceive with the eyes; to visit. E.g., 我看电视 (Wǒ kàn diànshì - I watch TV). 我去看朋友 (Wǒ qù kàn péngyou - I go to see a friend)."
+  },
+  "看见": {
+    "pinyin": "kànjiàn",
+    "explanation": "Verb. To see (implies result of looking). To perceive with the eyes; to catch sight of. E.g., 我看见他了 (Wǒ kànjiàn tā le - I saw him).<br><strong>Component Breakdown:</strong><br>看 (kàn): to look, to see.<br>见 (jiàn): to see, to meet, (resultative complement indicating perception)."
+  },
+  "块": {
+    "pinyin": "kuài",
+    "explanation": "Measure Word/Noun. (for money, a basic unit of Chinese currency, Yuan); piece; lump. E.g., (Money) 这本书十块钱 (Zhè běn shū shí kuài qián - This book is ten yuan). (Piece) 一块蛋糕 (yī kuài dàngāo - a piece of cake)."
+  },
+  "来": {
+    "pinyin": "lái",
+    "explanation": "Verb. To come; to arrive. To move or travel towards or into a place thought of as near or familiar to the speaker. E.g., 他来了 (Tā lái le - He has come)."
+  },
+  "老师": {
+    "pinyin": "lǎoshī",
+    "explanation": "Noun. Teacher. A person who teaches, especially in a school. E.g., 我的老师是中国人 (Wǒ de lǎoshī shì Zhōngguórén - My teacher is Chinese).<br><strong>Component Breakdown:</strong><br>老 (lǎo): old, venerable (respectful prefix).<br>师 (shī): teacher, master."
+  },
+  "了": {
+    "pinyin": "le",
+    "explanation": "Particle. (modal particle indicating completed action or change of state). Placed after a verb to indicate completion, or at the end of a sentence to indicate a new situation or change. E.g., (Completed action) 我吃饭了 (Wǒ chīfàn le - I have eaten). (Change of state) 下雨了 (Xiàyǔ le - It's raining now)."
+  },
+  "冷": {
+    "pinyin": "lěng",
+    "explanation": "Adjective. Cold. Of or at a low or relatively low temperature. E.g., 今天天气很冷 (Jīntiān tiānqì hěn lěng - The weather is very cold today)."
+  },
+  "里": {
+    "pinyin": "lǐ",
+    "explanation": "Noun/Position word. Inside; in; inner. The interior part of something. E.g., 书在桌子上面，杯子在桌子里面 (Shū zài zhuōzi shàngmiàn, bēizi zài zhuōzi lǐmiàn - The book is on the table, the cup is inside the table - this example is slightly awkward, better: 水在杯子里 Shuǐ zài bēizi lǐ - Water is in the cup). 学校里面有很多学生 (Xuéxiào lǐmiàn yǒu hěn duō xuésheng - There are many students inside the school)."
+  },
+  "六": {
+    "pinyin": "liù",
+    "explanation": "Numeral. Six. The number 6. E.g., 我有六本书 (Wǒ yǒu liù běn shū - I have six books)."
+  },
+  "妈妈": {
+    "pinyin": "māma",
+    "explanation": "Noun. Mother; mom. A female parent. E.g., 我爱我妈妈 (Wǒ ài wǒ māma - I love my mom).<br><strong>Component Breakdown:</strong><br>妈 (mā): mom, mother.<br>妈 (ma): (suffix for certain kinship terms)."
+  },
+  "吗": {
+    "pinyin": "ma",
+    "explanation": "Particle. (question particle for yes/no questions). Placed at the end of a declarative sentence to turn it into a question. E.g., 你是中国人吗？ (Nǐ shì Zhōngguórén ma? - Are you Chinese?)."
+  },
+  "买": {
+    "pinyin": "mǎi",
+    "explanation": "Verb. To buy. To obtain something in exchange for payment. E.g., 我想买一个苹果 (Wǒ xiǎng mǎi yī ge píngguǒ - I want to buy an apple)."
+  },
+  "猫": {
+    "pinyin": "māo",
+    "explanation": "Noun. Cat. A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. E.g., 我喜欢猫 (Wǒ xǐhuān māo - I like cats)."
+  },
+  "没关系": {
+    "pinyin": "méi guānxi",
+    "explanation": "Phrase. It doesn't matter; never mind; that's all right. A common response to an apology (对不起 duìbuqǐ). E.g., A: 对不起。 B: 没关系。 (A: Duìbuqǐ. B: Méi guānxi. - A: I'm sorry. B: It's okay./Never mind.).<br><strong>Component Breakdown:</strong><br>没 (méi): not have, not.<br>关 (guān): to close, relation, to concern.<br>系 (xi): to connect, relation, system."
+  },
+  "没有": {
+    "pinyin": "méiyǒu",
+    "explanation": "Verb. Not to have; there isn't; to be without. Used to negate the verb 有 (yǒu) or to indicate that something does not exist. E.g., 我没有钱 (Wǒ méiyǒu qián - I don't have money). 这里没有人 (Zhèli méiyǒu rén - There is no one here).<br><strong>Component Breakdown:</strong><br>没 (méi): not have, not (used to negate past actions or 有).<br>有 (yǒu): to have, there is/are."
+  },
+  "米饭": {
+    "pinyin": "mǐfàn",
+    "explanation": "Noun. Cooked rice. Rice that has been cooked by boiling. E.g., 我喜欢吃米饭 (Wǒ xǐhuān chī mǐfàn - I like to eat cooked rice).<br><strong>Component Breakdown:</strong><br>米 (mǐ): rice (uncooked grain).<br>饭 (fàn): cooked rice, meal."
+  },
+  "名字": {
+    "pinyin": "míngzi",
+    "explanation": "Noun. Name. A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to. E.g., 你叫什么名字？ (Nǐ jiào shénme míngzi? - What is your name?).<br><strong>Component Breakdown:</strong><br>名 (míng): name, reputation, famous.<br>字 (zi): character, word, letter."
+  },
+  "明天": {
+    "pinyin": "míngtiān",
+    "explanation": "Noun. Tomorrow. The day after today. E.g., 明天是星期二 (Míngtiān shì Xīngqī'èr - Tomorrow is Tuesday).<br><strong>Component Breakdown:</strong><br>明 (míng): bright, clear, next (day/year).<br>天 (tiān): day, sky."
+  },
+  "哪": {
+    "pinyin": "nǎ",
+    "explanation": "Pronoun. Which; where. Used in questions to ask about specific identity or location from a set. E.g., 你是哪国人？ (Nǐ shì nǎ guó rén? - Which country are you from?). 哪本书是你的？ (Nǎ běn shū shì nǐ de? - Which book is yours?)."
+  },
+  "哪儿": {
+    "pinyin": "nǎr",
+    "explanation": "Pronoun. Where. Used in questions to ask about location. (Common in northern China, often interchangeable with 哪里 nǎli). E.g., 你在哪儿？ (Nǐ zài nǎr? - Where are you?).<br><strong>Component Breakdown:</strong><br>哪 (nǎ): which.<br>儿 (r): (retroflex suffix, common in spoken Mandarin)."
+  },
+  "那": {
+    "pinyin": "nà",
+    "explanation": "Pronoun/Adverb. That; those; then; in that case. Refers to something further away from the speaker. E.g., (Pron) 那是谁？ (Nà shì shéi? - Who is that?). (Adv) 那我们走吧 (Nà wǒmen zǒu ba - Then let's go)."
+  },
+  "那儿": {
+    "pinyin": "nàr",
+    "explanation": "Pronoun. There; that place. Refers to a place further away from the speaker. (Common in northern China, often interchangeable with 那里 nàli). E.g., 我家在那儿 (Wǒ jiā zài nàr - My home is there).<br><strong>Component Breakdown:</strong><br>那 (nà): that.<br>儿 (r): (retroflex suffix, common in spoken Mandarin)."
+  },
+  "呢": {
+    "pinyin": "ne",
+    "explanation": "Particle. (question particle for subjects already mentioned or for asking 'what about...?'); (particle indicating continuation of an action or state). E.g., (Question) 我很好，你呢？ (Wǒ hěn hǎo, nǐ ne? - I'm very well, and you?). (Continuation) 他在看书呢 (Tā zài kànshū ne - He is reading a book)."
+  },
+  "能": {
+    "pinyin": "néng",
+    "explanation": "Auxiliary Verb. Can; to be able to; may. Indicates ability or possibility (often due to circumstances or inherent capability). E.g., 我能帮你吗？ (Wǒ néng bāng nǐ ma? - Can I help you?). 你能来吗？ (Nǐ néng lái ma? - Can you come?)."
+  },
+  "你": {
+    "pinyin": "nǐ",
+    "explanation": "Pronoun. You (singular). Refers to the person being addressed. E.g., 你好！ (Nǐ hǎo! - Hello!)."
+  },
+  "年": {
+    "pinyin": "nián",
+    "explanation": "Noun/Measure Word. Year. A period of 365 or 366 days. E.g., (Noun) 今年是2023年 (Jīnnián shì èr líng èr sān nián - This year is 2023). (M.W.) 我在中国住了两年 (Wǒ zài Zhōngguó zhù le liǎng nián - I lived in China for two years)."
+  },
+  "女儿": {
+    "pinyin": "nǚ'ér",
+    "explanation": "Noun. Daughter. A female child in relation to her parents. E.g., 我的女儿喜欢画画 (Wǒ de nǚ'ér xǐhuān huàhuà - My daughter likes to draw).<br><strong>Component Breakdown:</strong><br>女 (nǚ): female, woman.<br>儿 (ér): child, son (here, part of a kinship term)."
+  },
+  "朋友": {
+    "pinyin": "péngyou",
+    "explanation": "Noun. Friend. A person whom one knows and with whom one has a bond of mutual affection. E.g., 他是我的好朋友 (Tā shì wǒ de hǎo péngyou - He is my good friend).<br><strong>Component Breakdown:</strong><br>朋 (péng): friend.<br>友 (yǒu): friend, companion."
+  },
+  "漂亮": {
+    "pinyin": "piàoliang",
+    "explanation": "Adjective. Beautiful; pretty. Pleasing the senses or mind aesthetically (often used for women, scenery, objects). E.g., 这件衣服很漂亮 (Zhè jiàn yīfu hěn piàoliang - This dress is very beautiful).<br><strong>Component Breakdown:</strong><br>漂 (piào): elegant, beautiful (also piǎo - to float).<br>亮 (liang): bright, light, pretty."
+  },
+  "苹果": {
+    "pinyin": "píngguǒ",
+    "explanation": "Noun. Apple. A round fruit with firm, white flesh and a green or red skin. E.g., 我想吃一个苹果 (Wǒ xiǎng chī yī ge píngguǒ - I want to eat an apple).<br><strong>Component Breakdown:</strong><br>苹 (píng): (used in 苹果).<br>果 (guǒ): fruit, result."
+  },
+  "七": {
+    "pinyin": "qī",
+    "explanation": "Numeral. Seven. The number 7. E.g., 一个星期有七天 (Yī ge xīngqī yǒu qī tiān - There are seven days in a week)."
+  },
+  "钱": {
+    "pinyin": "qián",
+    "explanation": "Noun. Money. A current medium of exchange in the form of coins and banknotes. E.g., 我没有钱了 (Wǒ méiyǒu qián le - I don't have any money left)."
+  },
+  "前面": {
+    "pinyin": "qiánmiàn",
+    "explanation": "Noun/Position word. Front; ahead; in front of. The position directly before something or someone. E.g., 商店在学校前面 (Shāngdiàn zài xuéxiào qiánmiàn - The store is in front of the school).<br><strong>Component Breakdown:</strong><br>前 (qián): front, before, ahead.<br>面 (miàn): face, surface, side."
+  },
+  "请": {
+    "pinyin": "qǐng",
+    "explanation": "Verb. Please; to invite; to ask; to request. Used to make a polite request or to invite someone. E.g., (Please) 请坐 (Qǐng zuò - Please sit). (To invite) 我请你吃饭 (Wǒ qǐng nǐ chīfàn - I invite you to a meal)."
+  },
+  "去": {
+    "pinyin": "qù",
+    "explanation": "Verb. To go; to leave. To move from one place to another; to depart. E.g., 我要去学校 (Wǒ yào qù xuéxiào - I want to go to school)."
+  },
+  "热": {
+    "pinyin": "rè",
+    "explanation": "Adjective. Hot; warm; enthusiastic. Having a high temperature. E.g., 今天天气很热 (Jīntiān tiānqì hěn rè - The weather is very hot today)."
+  },
+  "人": {
+    "pinyin": "rén",
+    "explanation": "Noun. Person; people; human being. A human individual. E.g., 他是一个好人 (Tā shì yī ge hǎorén - He is a good person)."
+  },
+  "认识": {
+    "pinyin": "rènshi",
+    "explanation": "Verb. To know (sb); to recognize; to be acquainted with. To be aware of someone or something through observation, inquiry, or information. E.g., 我认识他 (Wǒ rènshi tā - I know him). 很高兴认识你 (Hěn gāoxìng rènshi nǐ - Nice to meet you).<br><strong>Component Breakdown:</strong><br>认 (rèn): to recognize, to know, to admit.<br>识 (shi): to know, to recognize, knowledge."
+  },
+  "三": {
+    "pinyin": "sān",
+    "explanation": "Numeral. Three. The number 3. E.g., 我有三个苹果 (Wǒ yǒu sān ge píngguǒ - I have three apples)."
+  },
+  "商店": {
+    "pinyin": "shāngdiàn",
+    "explanation": "Noun. Shop; store. A place where goods are sold. E.g., 我要去商店买东西 (Wǒ yào qù shāngdiàn mǎi dōngxi - I want to go to the store to buy things).<br><strong>Component Breakdown:</strong><br>商 (shāng): commerce, business, trade.<br>店 (diàn): shop, store, inn."
+  },
+  "上": {
+    "pinyin": "shàng",
+    "explanation": "Verb/Position word. Up; on; above; to go up; to attend (class, work); previous. E.g., (On) 书在桌子上 (Shū zài zhuōzi shàng - The book is on the table). (To go up) 上楼 (shànglóu - to go upstairs). (To attend) 我去上学 (Wǒ qù shàngxué - I go to school)."
+  },
+  "上午": {
+    "pinyin": "shàngwǔ",
+    "explanation": "Noun. Morning (before noon, typically 9 a.m. - 12 p.m.). The period from sunrise or waking to noon. E.g., 我上午有课 (Wǒ shàngwǔ yǒu kè - I have class in the morning).<br><strong>Component Breakdown:</strong><br>上 (shàng): up, on, before (in time sequence for parts of the day).<br>午 (wǔ): noon."
+  },
+  "少": {
+    "pinyin": "shǎo",
+    "explanation": "Adjective/Verb. Few; little; less; to lack. A small number or amount. E.g., (Adj) 这里人很少 (Zhèli rén hěn shǎo - There are few people here). (Verb) 我少了一本书 (Wǒ shǎo le yī běn shū - I am missing one book)."
+  },
+  "谁": {
+    "pinyin": "shéi",
+    "explanation": "Pronoun. Who; whom. Used to ask about the identity of a person. (Also pronounced shuí). E.g., 他是谁？ (Tā shì shéi? - Who is he?)."
+  },
+  "什么": {
+    "pinyin": "shénme",
+    "explanation": "Pronoun. What; something; anything. Used in questions to ask for information specifying something. E.g., 这是什么？ (Zhè shì shénme? - What is this?). 你想吃什么？ (Nǐ xiǎng chī shénme? - What do you want to eat?).<br><strong>Component Breakdown:</strong><br>什 (shén): (part of 什么, not used alone with this meaning).<br>么 (me): (suffix, often used in interrogatives like 什么, 怎么)."
+  },
+  "十": {
+    "pinyin": "shí",
+    "explanation": "Numeral. Ten. The number 10. E.g., 我有十块钱 (Wǒ yǒu shí kuài qián - I have ten yuan)."
+  },
+  "时候": {
+    "pinyin": "shíhou",
+    "explanation": "Noun. Time; moment; when. A point of time or a period of time. E.g., 你什么时候来？ (Nǐ shénme shíhou lái? - When are you coming?). 吃饭的时候不要说话 (Chīfàn de shíhou bú yào shuōhuà - Don't talk while eating).<br><strong>Component Breakdown:</strong><br>时 (shí): time, o'clock, when.<br>候 (hou): time, moment, to wait, season."
+  },
+  "是": {
+    "pinyin": "shì",
+    "explanation": "Verb. To be (am, is, are, was, were); yes. Used to link a subject with a noun or noun phrase that identifies or describes it. E.g., 我是学生 (Wǒ shì xuésheng - I am a student). A: 这是你的书吗？ B: 是。 (A: Zhè shì nǐ de shū ma? B: Shì. - A: Is this your book? B: Yes.)."
+  },
+  "书": {
+    "pinyin": "shū",
+    "explanation": "Noun. Book. A written or printed work consisting of pages glued or sewn together along one side and bound in covers. E.g., 我喜欢看书 (Wǒ xǐhuān kànshū - I like to read books)."
+  },
+  "水": {
+    "pinyin": "shuǐ",
+    "explanation": "Noun. Water. A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms. E.g., 我想喝水 (Wǒ xiǎng hē shuǐ - I want to drink water)."
+  },
+  "水果": {
+    "pinyin": "shuǐguǒ",
+    "explanation": "Noun. Fruit. The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food. E.g., 我喜欢吃水果 (Wǒ xǐhuān chī shuǐguǒ - I like to eat fruit).<br><strong>Component Breakdown:</strong><br>水 (shuǐ): water (implying juicy).<br>果 (guǒ): fruit, result."
+  },
+  "睡觉": {
+    "pinyin": "shuìjiào",
+    "explanation": "Verb. To sleep; to go to bed. To rest your mind and body by closing your eyes and becoming unconscious. E.g., 我要去睡觉了 (Wǒ yào qù shuìjiào le - I'm going to sleep now).<br><strong>Component Breakdown:</strong><br>睡 (shuì): to sleep.<br>觉 (jiào): sleep (noun). (Also pronounced jué - to feel)."
+  },
+  "说话": {
+    "pinyin": "shuōhuà",
+    "explanation": "Verb. To speak; to talk; to say. To express one's thoughts and feelings by articulating words. E.g., 请不要大声说话 (Qǐng bú yào dàshēng shuōhuà - Please don't speak loudly).<br><strong>Component Breakdown:</strong><br>说 (shuō): to speak, to say, to talk.<br>话 (huà): speech, talk, words."
+  },
+  "四": {
+    "pinyin": "sì",
+    "explanation": "Numeral. Four. The number 4. E.g., 他有四支笔 (Tā yǒu sì zhī bǐ - He has four pens)."
+  },
+  "岁": {
+    "pinyin": "suì",
+    "explanation": "Measure Word/Noun. Year (of age). Used to indicate age. E.g., 我今年二十岁 (Wǒ jīnnián èrshí suì - I am twenty years old this year)."
+  },
+  "他": {
+    "pinyin": "tā",
+    "explanation": "Pronoun. He; him. Refers to a male person already mentioned or easily identified. E.g., 他是我的朋友 (Tā shì wǒ de péngyou - He is my friend)."
+  },
+  "她": {
+    "pinyin": "tā",
+    "explanation": "Pronoun. She; her. Refers to a female person already mentioned or easily identified. E.g., 她是我的老师 (Tā shì wǒ de lǎoshī - She is my teacher)."
+  },
+  "太": {
+    "pinyin": "tài",
+    "explanation": "Adverb. Too; excessively; very. To a higher degree than is desirable, permissible, or possible. E.g., 太热了！ (Tài rè le! - It's too hot!). 这个太贵了 (Zhège tài guì le - This is too expensive)."
+  },
+  "天气": {
+    "pinyin": "tiānqì",
+    "explanation": "Noun. Weather. The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc. E.g., 今天天气怎么样？ (Jīntiān tiānqì zěnmeyàng? - How is the weather today?).<br><strong>Component Breakdown:</strong><br>天 (tiān): sky, day, heaven.<br>气 (qì): air, gas, spirit, weather."
+  },
+  "听": {
+    "pinyin": "tīng",
+    "explanation": "Verb. To listen; to hear. To give one's attention to a sound; to perceive with the ear the sound made by (someone or something). E.g., 我喜欢听音乐 (Wǒ xǐhuān tīng yīnyuè - I like to listen to music)."
+  },
+  "同学": {
+    "pinyin": "tóngxué",
+    "explanation": "Noun. Classmate; schoolmate. A fellow student in a class or school. E.g., 他是我的同学 (Tā shì wǒ de tóngxué - He is my classmate).<br><strong>Component Breakdown:</strong><br>同 (tóng): same, together, with.<br>学 (xué): to learn, to study, school."
+  },
+  "喂": {
+    "pinyin": "wèi",
+    "explanation": "Interjection. Hello; hey (on the phone or to get attention). Used to answer the phone or to call out to someone. E.g., (Phone) 喂，你好！ (Wèi, nǐ hǎo! - Hello!). (Attention) 喂，请等一下！ (Wèi, qǐng děng yīxià! - Hey, please wait a moment!)."
+  },
+  "我": {
+    "pinyin": "wǒ",
+    "explanation": "Pronoun. I; me. Refers to the speaker. E.g., 我是中国人 (Wǒ shì Zhōngguórén - I am Chinese)."
+  },
+  "我们": {
+    "pinyin": "wǒmen",
+    "explanation": "Pronoun. We; us. Refers to the speaker along with one or more other people. E.g., 我们是好朋友 (Wǒmen shì hǎo péngyou - We are good friends).<br><strong>Component Breakdown:</strong><br>我 (wǒ): I, me.<br>们 (men): (plural suffix for pronouns and some nouns referring to people)."
+  },
+  "五": {
+    "pinyin": "wǔ",
+    "explanation": "Numeral. Five. The number 5. E.g., 我有五个苹果 (Wǒ yǒu wǔ ge píngguǒ - I have five apples)."
+  },
+  "喜欢": {
+    "pinyin": "xǐhuan",
+    "explanation": "Verb. To like; to prefer; to be fond of. To find pleasant or satisfactory. E.g., 我喜欢喝茶 (Wǒ xǐhuan hē chá - I like to drink tea).<br><strong>Component Breakdown:</strong><br>喜 (xǐ): to like, to be happy, joy.<br>欢 (huan): happy, joyous, to like."
+  },
+  "下": {
+    "pinyin": "xià",
+    "explanation": "Verb/Position word/Noun. Down; below; under; next (week, etc.); to go down; to fall (rain, snow); to finish (class, work). E.g., (Down) 请下楼 (Qǐng xiàlóu - Please go downstairs). (Next) 下个星期 (xià ge xīngqī - next week). (To fall) 下雨了 (Xiàyǔ le - It's raining)."
+  },
+  "下午": {
+    "pinyin": "xiàwǔ",
+    "explanation": "Noun. Afternoon (typically 1 p.m. - 5 p.m.). The time from noon or lunchtime to evening. E.g., 我下午有时间 (Wǒ xiàwǔ yǒu shíjiān - I have time in the afternoon).<br><strong>Component Breakdown:</strong><br>下 (xià): down, under, latter part of.<br>午 (wǔ): noon."
+  },
+  "下雨": {
+    "pinyin": "xià yǔ",
+    "explanation": "Verb phrase. To rain. When rain falls. E.g., 今天下雨了 (Jīntiān xià yǔ le - It rained today).<br><strong>Component Breakdown:</strong><br>下 (xià): to fall, to descend.<br>雨 (yǔ): rain."
+  },
+  "先生": {
+    "pinyin": "xiānsheng",
+    "explanation": "Noun. Mr.; sir; husband; gentleman. A polite title for a man. E.g., 李先生在家吗？ (Lǐ xiānsheng zài jiā ma? - Is Mr. Li at home?). 这是我先生 (Zhè shì wǒ xiānsheng - This is my husband).<br><strong>Component Breakdown:</strong><br>先 (xiān): first, earlier, elder, mister.<br>生 (shēng): to be born, life, mister (in this context)."
+  },
+  "现在": {
+    "pinyin": "xiànzài",
+    "explanation": "Noun. Now; at present. At the current time. E.g., 你现在在哪儿？ (Nǐ xiànzài zài nǎr? - Where are you now?).<br><strong>Component Breakdown:</strong><br>现 (xiàn): to appear, present, current, now.<br>在 (zài): to be at, in, on (indicates present time)."
+  },
+  "想": {
+    "pinyin": "xiǎng",
+    "explanation": "Verb/Auxiliary Verb. To think; to want; to miss; would like to. To have a particular opinion, belief, or idea about someone or something; to desire or wish for. E.g., (To think) 我想他是对的 (Wǒ xiǎng tā shì duì de - I think he is right). (To want) 我想喝水 (Wǒ xiǎng hē shuǐ - I want to drink water). (To miss) 我想家了 (Wǒ xiǎng jiā le - I miss home)."
+  },
+  "小": {
+    "pinyin": "xiǎo",
+    "explanation": "Adjective. Small; little; young. Of less than average size. E.g., 这是一只小猫 (Zhè shì yī zhī xiǎo māo - This is a small cat)."
+  },
+  "小姐": {
+    "pinyin": "xiǎojie",
+    "explanation": "Noun. Miss; young lady. A title for an unmarried woman or girl. E.g., 王小姐，你好！ (Wáng xiǎojie, nǐ hǎo! - Hello, Miss Wang!).<br><strong>Component Breakdown:</strong><br>小 (xiǎo): small, young.<br>姐 (jiě): elder sister, young lady."
+  },
+  "些": {
+    "pinyin": "xiē",
+    "explanation": "Measure Word. Some; a few; a little. Used after 这 (zhè), 那 (nà), 哪 (nǎ), or numerals to indicate an indefinite small number or amount. E.g., 这些书 (zhèxiē shū - these books). 我买了一些水果 (Wǒ mǎi le yīxiē shuǐguǒ - I bought some fruit)."
+  },
+  "写": {
+    "pinyin": "xiě",
+    "explanation": "Verb. To write. To mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement. E.g., 我会写汉字 (Wǒ huì xiě Hànzì - I can write Chinese characters)."
+  },
+  "谢谢": {
+    "pinyin": "xièxie",
+    "explanation": "Verb. To thank; thanks. An expression of gratitude. E.g., 谢谢你的帮助！ (Xièxie nǐ de bāngzhù! - Thank you for your help!).<br><strong>Component Breakdown:</strong><br>谢 (xiè): to thank.<br>谢 (xie): (repetition for emphasis or politeness)."
+  },
+  "星期": {
+    "pinyin": "xīngqī",
+    "explanation": "Noun. Week; day of the week. A period of seven days. E.g., 一个星期有七天 (Yī ge xīngqī yǒu qī tiān - There are seven days in a week). 今天星期几？ (Jīntiān xīngqī jǐ? - What day of the week is it today?).<br><strong>Component Breakdown:</strong><br>星 (xīng): star, celestial body.<br>期 (qī): period of time, phase, date."
+  },
+  "学生": {
+    "pinyin": "xuésheng",
+    "explanation": "Noun. Student; pupil. A person who is studying at a school or college. E.g., 我是一名学生 (Wǒ shì yī míng xuésheng - I am a student).<br><strong>Component Breakdown:</strong><br>学 (xué): to learn, to study, school.<br>生 (shēng): student, to be born, life."
+  },
+  "学习": {
+    "pinyin": "xuéxí",
+    "explanation": "Verb. To study; to learn. To acquire knowledge of or skill in (something) by study, experience, or being taught. E.g., 我喜欢学习汉语 (Wǒ xǐhuān xuéxí Hànyǔ - I like to study Chinese).<br><strong>Component Breakdown:</strong><br>学 (xué): to learn, to study.<br>习 (xí): to practice, to review, habit."
+  },
+  "学校": {
+    "pinyin": "xuéxiào",
+    "explanation": "Noun. School. An institution for educating children or students. E.g., 我每天去学校 (Wǒ měitiān qù xuéxiào - I go to school every day).<br><strong>Component Breakdown:</strong><br>学 (xué): to learn, to study, school.<br>校 (xiào): school, military officer."
+  },
+  "一": {
+    "pinyin": "yī",
+    "explanation": "Numeral. One; a; an; once. The number 1. E.g., 我有一个苹果 (Wǒ yǒu yī ge píngguǒ - I have one apple)."
+  },
+  "衣服": {
+    "pinyin": "yīfu",
+    "explanation": "Noun. Clothes; clothing. Items worn on the body. E.g., 我喜欢这件衣服 (Wǒ xǐhuān zhè jiàn yīfu - I like this piece of clothing).<br><strong>Component Breakdown:</strong><br>衣 (yī): clothes, garment.<br>服 (fu): clothes, garment, to serve (as in 服务 fúwù)."
+  },
+  "医生": {
+    "pinyin": "yīshēng",
+    "explanation": "Noun. Doctor; physician. A person qualified to practice medicine. E.g., 我爸爸是医生 (Wǒ bàba shì yīshēng - My father is a doctor).<br><strong>Component Breakdown:</strong><br>医 (yī): medical science, doctor, to cure.<br>生 (shēng): master, professional (in this context)."
+  },
+  "医院": {
+    "pinyin": "yīyuàn",
+    "explanation": "Noun. Hospital. An institution providing medical and surgical treatment and nursing care for sick or injured people. E.g., 我生病了，要去医院 (Wǒ shēngbìng le, yào qù yīyuàn - I am sick, I need to go to the hospital).<br><strong>Component Breakdown:</strong><br>医 (yī): medical science, doctor.<br>院 (yuàn): courtyard, institution, hospital, college."
+  },
+  "椅子": {
+    "pinyin": "yǐzi",
+    "explanation": "Noun. Chair. A separate seat for one person, typically with a back and four legs. E.g., 请坐在这把椅子上 (Qǐng zuò zài zhè bǎ yǐzi shàng - Please sit on this chair).<br><strong>Component Breakdown:</strong><br>椅 (yǐ): chair.<br>子 (zi): (noun suffix)."
+  },
+  "有": {
+    "pinyin": "yǒu",
+    "explanation": "Verb. To have; there is/are; to exist. To possess, own, or hold. E.g., 我有一个苹果 (Wǒ yǒu yī ge píngguǒ - I have an apple). 桌子上有一本书 (Zhuōzi shàng yǒu yī běn shū - There is a book on the table)."
+  },
+  "月": {
+    "pinyin": "yuè",
+    "explanation": "Noun/Measure Word. Month; moon. Each of the twelve named periods into which a year is divided. E.g., (Month) 一年有十二个月 (Yī nián yǒu shí'èr ge yuè - There are twelve months in a year). (Moon) 今晚的月亮很圆 (Jīnwǎn de yuèliang hěn yuán - Tonight's moon is very round)."
+  },
+  "再见": {
+    "pinyin": "zàijiàn",
+    "explanation": "Phrase. Goodbye; see you again. An expression used when leaving someone. E.g., 老师，再见！ (Lǎoshī, zàijiàn! - Goodbye, teacher!).<br><strong>Component Breakdown:</strong><br>再 (zài): again, once more, then.<br>见 (jiàn): to see, to meet."
+  },
+  "在": {
+    "pinyin": "zài",
+    "explanation": "Verb/Preposition/Adverb. To be at/in/on; at/in/on; (indicating an action in progress). E.g., (Location) 我在家 (Wǒ zài jiā - I am at home). (Action in progress) 我在看书 (Wǒ zài kànshū - I am reading a book)."
+  },
+  "怎么": {
+    "pinyin": "zěnme",
+    "explanation": "Pronoun/Adverb. How; what; why. Used in questions to ask about manner, reason, or state. E.g., (How) 这个汉字怎么写？ (Zhège Hànzì zěnme xiě? - How do you write this Chinese character?). (Why) 你怎么哭了？ (Nǐ zěnme kū le? - Why are you crying?).<br><strong>Component Breakdown:</strong><br>怎 (zěn): how, why.<br>么 (me): (suffix, often used in interrogatives)."
+  },
+  "怎么样": {
+    "pinyin": "zěnmeyàng",
+    "explanation": "Pronoun. How about it?; how is/are...?; what's up? Used to ask for an opinion or about the condition of something or someone. E.g., 今天天气怎么样？ (Jīntiān tiānqì zěnmeyàng? - How is the weather today?). 我们去看电影，怎么样？ (Wǒmen qù kàn diànyǐng, zěnmeyàng? - Let's go watch a movie, how about it?).<br><strong>Component Breakdown:</strong><br>怎 (zěn): how.<br>么 (me): (suffix).<br>样 (yàng): manner, appearance, type."
+  },
+  "这": {
+    "pinyin": "zhè",
+    "explanation": "Pronoun. This; these. Refers to a person or thing near the speaker. E.g., 这是我的书 (Zhè shì wǒ de shū - This is my book)."
+  },
+  "这儿": {
+    "pinyin": "zhèr",
+    "explanation": "Pronoun. Here; this place. Refers to a place near the speaker. (Common in northern China, often interchangeable with 这里 zhèli). E.g., 我在这儿 (Wǒ zài zhèr - I am here).<br><strong>Component Breakdown:</strong><br>这 (zhè): this.<br>儿 (r): (retroflex suffix, common in spoken Mandarin)."
+  },
+  "中国": {
+    "pinyin": "Zhōngguó",
+    "explanation": "Noun. China. The People's Republic of China. E.g., 我是中国人 (Wǒ shì Zhōngguórén - I am Chinese).<br><strong>Component Breakdown:</strong><br>中 (Zhōng): middle, center, China.<br>国 (guó): country, nation, state."
+  },
+  "中午": {
+    "pinyin": "zhōngwǔ",
+    "explanation": "Noun. Noon; midday. Twelve o'clock in the day. E.g., 我们中午一起吃饭吧 (Wǒmen zhōngwǔ yīqǐ chīfàn ba - Let's have lunch together at noon).<br><strong>Component Breakdown:</strong><br>中 (zhōng): middle, center.<br>午 (wǔ): noon."
+  },
+  "住": {
+    "pinyin": "zhù",
+    "explanation": "Verb. To live; to stay; to reside. To have one's home in a particular place. E.g., 我住北京 (Wǒ zhù Běijīng - I live in Beijing)."
+  },
+  "桌子": {
+    "pinyin": "zhuōzi",
+    "explanation": "Noun. Table; desk. A piece of furniture with a flat top and one or more legs. E.g., 书在桌子上 (Shū zài zhuōzi shàng - The book is on the table).<br><strong>Component Breakdown:</strong><br>桌 (zhuō): table, desk.<br>子 (zi): (noun suffix)."
+  },
+  "字": {
+    "pinyin": "zì",
+    "explanation": "Noun. Character; word. A symbol used in writing; a single distinct meaningful element of speech or writing. E.g., 我会写很多汉字 (Wǒ huì xiě hěn duō Hànzì - I can write many Chinese characters)."
+  },
+  "昨天": {
+    "pinyin": "zuótiān",
+    "explanation": "Noun. Yesterday. The day before today. E.g., 我昨天去看电影了 (Wǒ zuótiān qù kàn diànyǐng le - I went to watch a movie yesterday).<br><strong>Component Breakdown:</strong><br>昨 (zuó): yesterday.<br>天 (tiān): day, sky."
+  },
+  "坐": {
+    "pinyin": "zuò",
+    "explanation": "Verb. To sit; to take a seat; to travel by (bus, train, etc.). To rest one's weight on one's bottom. E.g., (To sit) 请坐 (Qǐng zuò - Please sit). (Travel by) 我坐飞机去中国 (Wǒ zuò fēijī qù Zhōngguó - I travel to China by plane)."
+  },
+  "做": {
+    "pinyin": "zuò",
+    "explanation": "Verb. To do; to make; to produce; to be. To perform an action, activity, or job. E.g., 你在做什么？ (Nǐ zài zuò shénme? - What are you doing?). 我会做饭 (Wǒ huì zuòfàn - I can cook)."
+  },
+  "吧": {
+    "pinyin": "ba",
+    "explanation": "Particle. (modal particle indicating suggestion, request, or mild command); ...right?; ...OK?. Often used at the end of a sentence. E.g., 我们走吧！ (Wǒmen zǒu ba! - Let's go!). 你是中国人吧？ (Nǐ shì Zhōngguórén ba? - You are Chinese, right?)."
+  },
+  "白": {
+    "pinyin": "bái",
+    "explanation": "Adjective. White; fair; pure; plain; in vain. The color of milk or fresh snow. E.g., 我喜欢白色的衣服 (Wǒ xǐhuān báisè de yīfu - I like white clothes). 他白来了 (Tā bái lái le - He came in vain)."
+  },
+  "百": {
+    "pinyin": "bǎi",
+    "explanation": "Numeral. Hundred. The number 100. E.g., 这本书一百块钱 (Zhè běn shū yī bǎi kuài qián - This book costs one hundred yuan)."
+  },
+  "帮助": {
+    "pinyin": "bāngzhù",
+    "explanation": "Verb/Noun. To help; to assist; help; assistance. To make it easier for someone to do something by offering one's services or resources. E.g., (Verb) 你能帮助我吗？ (Nǐ néng bāngzhù wǒ ma? - Can you help me?). (Noun) 谢谢你的帮助 (Xièxie nǐ de bāngzhù - Thank you for your help).<br><strong>Component Breakdown:</strong><br>帮 (bāng): to help, to assist.<br>助 (zhù): to help, to assist."
+  },
+  "报纸": {
+    "pinyin": "bàozhǐ",
+    "explanation": "Noun. Newspaper. A printed publication consisting of folded unstapled sheets and containing news, articles, advertisements, and correspondence. E.g., 我每天都看报纸 (Wǒ měitiān dōu kàn bàozhǐ - I read the newspaper every day).<br><strong>Component Breakdown:</strong><br>报 (bào): to report, to announce, newspaper.<br>纸 (zhǐ): paper."
+  },
+  "比": {
+    "pinyin": "bǐ",
+    "explanation": "Preposition/Verb. (comparison marker); to compare. Used to make comparisons. E.g., (Prep) 他比我高 (Tā bǐ wǒ gāo - He is taller than me). (Verb) 我们比一比谁快 (Wǒmen bǐ yī bǐ shéi kuài - Let's compare who is faster)."
+  },
+  "别": {
+    "pinyin": "bié",
+    "explanation": "Adverb/Verb. Don't; other. Used to tell someone not to do something; other, another (less common at HSK2 for 'other'). E.g., (Don't) 别说话 (Bié shuōhuà - Don't talk). (Other) 别人 (biérén - other people)."
+  },
+  "长": {
+    "pinyin": "cháng",
+    "explanation": "Adjective. Long (length). Measuring a great distance from end to end. E.g., 这条路很长 (Zhè tiáo lù hěn cháng - This road is very long). (Also zhang3 - to grow; chief)."
+  },
+  "唱歌": {
+    "pinyin": "chànggē",
+    "explanation": "Verb. To sing (a song). To make musical sounds with the voice. E.g., 我喜欢唱歌 (Wǒ xǐhuān chànggē - I like to sing).<br><strong>Component Breakdown:</strong><br>唱 (chàng): to sing.<br>歌 (gē): song."
+  },
+  "出": {
+    "pinyin": "chū",
+    "explanation": "Verb. To go out; to come out; to happen; to occur. To move or travel out of or away from a place. E.g., 他出去了 (Tā chūqù le - He went out). 太阳出来了 (Tàiyáng chūlái le - The sun came out)."
+  },
+  "穿": {
+    "pinyin": "chuān",
+    "explanation": "Verb. To wear (clothes, shoes, socks); to put on; to pass through. To have clothing, shoes, etc. on one's body. E.g., 我今天穿了一件新衣服 (Wǒ jīntiān chuān le yī jiàn xīn yīfu - I wore a new piece of clothing today)."
+  },
+  "次": {
+    "pinyin": "cì",
+    "explanation": "Measure Word/Noun. (for frequency) time(s); order; sequence. E.g., (Frequency) 我去过一次北京 (Wǒ qùguo yī cì Běijīng - I have been to Beijing once). (Order) 第一次 (dì yī cì - the first time)."
+  },
+  "从": {
+    "pinyin": "cóng",
+    "explanation": "Preposition. From; since. Indicating the starting point of a motion or a period of time. E.g., 我从北京来 (Wǒ cóng Běijīng lái - I come from Beijing). 从明天开始 (Cóng míngtiān kāishǐ - Starting from tomorrow)."
+  },
+  "错": {
+    "pinyin": "cuò",
+    "explanation": "Adjective/Noun. Wrong; incorrect; mistake; error. Not correct or true. E.g., (Adj) 这个答案是错的 (Zhège dá'àn shì cuò de - This answer is wrong). (Noun) 这是我的错 (Zhè shì wǒ de cuò - This is my mistake)."
+  },
+  "打篮球": {
+    "pinyin": "dǎ lánqiú",
+    "explanation": "Verb phrase. To play basketball. E.g., 我喜欢打篮球 (Wǒ xǐhuān dǎ lánqiú - I like to play basketball).<br><strong>Component Breakdown:</strong><br>打 (dǎ): to hit, to play (a ball game).<br>篮 (lán): basket.<br>球 (qiú): ball."
+  },
+  "大家": {
+    "pinyin": "dàjiā",
+    "explanation": "Pronoun. Everybody; everyone; all. All people. E.g., 大家好！ (Dàjiā hǎo! - Hello everyone!).<br><strong>Component Breakdown:</strong><br>大 (dà): big, great.<br>家 (jiā): family, home (here implies a collective group)."
+  },
+  "到": {
+    "pinyin": "dào",
+    "explanation": "Verb/Preposition. To arrive; to reach; to (a place); until (a time). To get to a destination or point. E.g., (Verb) 我到家了 (Wǒ dào jiā le - I have arrived home). (Prep) 从学校到公园 (Cóng xuéxiào dào gōngyuán - From school to the park). (Time) 等到明天 (Děng dào míngtiān - Wait until tomorrow)."
+  },
+  "得": {
+    "pinyin": "de",
+    "explanation": "Particle. (structural particle used after a verb or adjective, linking it to a complement of degree or result). E.g., 他跑得很快 (Tā pǎo de hěn kuài - He runs very fast). 他高兴得跳了起来 (Tā gāoxìng de tiào le qǐlái - He was so happy that he jumped up)."
+  },
+  "等": {
+    "pinyin": "děng",
+    "explanation": "Verb. To wait; to wait for. To stay where one is or delay action until a particular time or event. E.g., 请等一下 (Qǐng děng yīxià - Please wait a moment)."
+  },
+  "弟弟": {
+    "pinyin": "dìdi",
+    "explanation": "Noun. Younger brother. A male sibling younger than oneself. E.g., 我有一个弟弟 (Wǒ yǒu yī ge dìdi - I have a younger brother).<br><strong>Component Breakdown:</strong><br>弟 (dì): younger brother.<br>弟 (di): (suffix for certain kinship terms)."
+  },
+  "第一": {
+    "pinyin": "dì-yī",
+    "explanation": "Ordinal number. First; number one. E.g., 这是我第一次来中国 (Zhè shì wǒ dì-yī cì lái Zhōngguó - This is my first time coming to China).<br><strong>Component Breakdown:</strong><br>第 (dì): (prefix for ordinal numbers).<br>一 (yī): one."
+  },
+  "懂": {
+    "pinyin": "dǒng",
+    "explanation": "Verb. To understand; to know. To perceive the meaning of; to grasp the idea of. E.g., 你懂我的意思吗？ (Nǐ dǒng wǒ de yìsi ma? - Do you understand my meaning?)."
+  },
+  "对": {
+    "pinyin": "duì",
+    "explanation": "Adjective/Preposition. Right; correct; towards; to; for. (Adj) Conforming to fact or reason. (Prep) Indicating direction or object. E.g., (Adj) 这个答案是对的 (Zhège dá'àn shì duì de - This answer is correct). (Prep) 他对我很好 (Tā duì wǒ hěn hǎo - He is very good to me)."
+  },
+  "房间": {
+    "pinyin": "fángjiān",
+    "explanation": "Noun. Room. A space that can be occupied or where something can be done, typically one of several within a building. E.g., 我的房间很大 (Wǒ de fángjiān hěn dà - My room is very big).<br><strong>Component Breakdown:</strong><br>房 (fáng): house, building, room.<br>间 (jiān): room, space between, (measure word for rooms)."
+  },
+  "非常": {
+    "pinyin": "fēicháng",
+    "explanation": "Adverb. Very; extremely; highly. To a great degree. E.g., 我非常喜欢这个礼物 (Wǒ fēicháng xǐhuān zhège lǐwù - I like this gift very much).<br><strong>Component Breakdown:</strong><br>非 (fēi): not, un-, wrong.<br>常 (cháng): ordinary, common, often (here means 'unusually')."
+  },
+  "服务员": {
+    "pinyin": "fúwùyuán",
+    "explanation": "Noun. Waiter; waitress; attendant; service person. A person whose job is to serve customers in a restaurant, shop, etc. E.g., 服务员，请给我一杯水 (Fúwùyuán, qǐng gěi wǒ yī bēi shuǐ - Waiter, please give me a glass of water).<br><strong>Component Breakdown:</strong><br>服 (fú): to serve, clothes.<br>务 (wù): affair, business, service.<br>员 (yuán): person, member, staff."
+  },
+  "高": {
+    "pinyin": "gāo",
+    "explanation": "Adjective. Tall; high. Of great or more than average height. E.g., 他很高 (Tā hěn gāo - He is very tall). 这座山很高 (Zhè zuò shān hěn gāo - This mountain is very high)."
+  },
+  "告诉": {
+    "pinyin": "gàosu",
+    "explanation": "Verb. To tell; to inform; to let know. To communicate information to someone. E.g., 请告诉我你的名字 (Qǐng gàosu wǒ nǐ de míngzi - Please tell me your name).<br><strong>Component Breakdown:</strong><br>告 (gào): to tell, to inform, to announce.<br>诉 (sù): to tell, to complain, to accuse."
+  },
+  "哥哥": {
+    "pinyin": "gēge",
+    "explanation": "Noun. Elder brother. A male sibling older than oneself. E.g., 我哥哥是大学生 (Wǒ gēge shì dàxuéshēng - My elder brother is a university student).<br><strong>Component Breakdown:</strong><br>哥 (gē): elder brother.<br>哥 (ge): (suffix for certain kinship terms)."
+  },
+  "给": {
+    "pinyin": "gěi",
+    "explanation": "Verb/Preposition. To give; to; for. (Verb) To hand over. (Prep) Indicates the recipient or beneficiary. E.g., (Verb) 我给你一本书 (Wǒ gěi nǐ yī běn shū - I give you a book). (Prep) 我给他打电话 (Wǒ gěi tā dǎ diànhuà - I make a phone call to him)."
+  },
+  "公共汽车": {
+    "pinyin": "gōnggòng qìchē",
+    "explanation": "Noun. Bus (public). A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare. E.g., 我坐公共汽车上班 (Wǒ zuò gōnggòng qìchē shàngbān - I take the bus to work).<br><strong>Component Breakdown:</strong><br>公 (gōng): public, common.<br>共 (gòng): common, together, to share.<br>汽 (qì): steam, vapor.<br>车 (chē): vehicle, car."
+  },
+  "公司": {
+    "pinyin": "gōngsī",
+    "explanation": "Noun. Company; corporation; firm. A commercial business. E.g., 他在这家公司工作 (Tā zài zhè jiā gōngsī gōngzuò - He works at this company).<br><strong>Component Breakdown:</strong><br>公 (gōng): public, official.<br>司 (sī): to manage, to control, department, company."
+  },
+  "贵": {
+    "pinyin": "guì",
+    "explanation": "Adjective. Expensive; valuable; noble. Costing a lot of money. E.g., 这件衣服太贵了 (Zhè jiàn yīfu tài guì le - This dress is too expensive)."
+  },
+  "过": {
+    "pinyin": "guo",
+    "explanation": "Particle. (aspect particle indicating past experience). Used after a verb to indicate that an action has been experienced in the past. E.g., 我去过中国 (Wǒ qùguo Zhōngguó - I have been to China)."
+  },
+  "还": {
+    "pinyin": "hái",
+    "explanation": "Adverb. Still; yet; also; in addition; fairly. E.g., (Still) 他还在睡觉 (Tā hái zài shuìjiào - He is still sleeping). (Also) 我喜欢苹果，还喜欢香蕉 (Wǒ xǐhuān píngguǒ, hái xǐhuān xiāngjiāo - I like apples, and also bananas). (Fairly) 这个菜还不错 (Zhège cài hái búcuò - This dish is fairly good). (Also huán - to return)."
+  },
+  "孩子": {
+    "pinyin": "háizi",
+    "explanation": "Noun. Child; children. A young human being below the age of puberty or below the legal age of majority. E.g., 他有两个孩子 (Tā yǒu liǎng ge háizi - He has two children).<br><strong>Component Breakdown:</strong><br>孩 (hái): child.<br>子 (zi): child, son, (noun suffix)."
+  },
+  "好吃": {
+    "pinyin": "hǎochī",
+    "explanation": "Adjective. Delicious; tasty (for food). Having a very pleasant taste. E.g., 这个菜很好吃 (Zhège cài hěn hǎochī - This dish is delicious).<br><strong>Component Breakdown:</strong><br>好 (hǎo): good, well.<br>吃 (chī): to eat."
+  },
+  "黑": {
+    "pinyin": "hēi",
+    "explanation": "Adjective. Black; dark. The color of coal or the night sky. E.g., 我喜欢黑色的猫 (Wǒ xǐhuān hēisè de māo - I like black cats). 天黑了 (Tiān hēi le - It's dark now)."
+  },
+  "红": {
+    "pinyin": "hóng",
+    "explanation": "Adjective. Red. The color of blood or fire. E.g., 我喜欢红色的花 (Wǒ xǐhuān hóngsè de huā - I like red flowers)."
+  },
+  "欢迎": {
+    "pinyin": "huānyíng",
+    "explanation": "Verb. To welcome; to greet. To receive someone gladly. E.g., 欢迎你来我家！ (Huānyíng nǐ lái wǒ jiā! - Welcome to my home!).<br><strong>Component Breakdown:</strong><br>欢 (huān): joyous, happy, pleased.<br>迎 (yíng): to welcome, to greet, to meet."
+  },
+  "回答": {
+    "pinyin": "huídá",
+    "explanation": "Verb/Noun. To answer; to reply; answer; reply. To say or write something as a reaction to a question, statement, or situation. E.g., (Verb) 请回答我的问题 (Qǐng huídá wǒ de wèntí - Please answer my question). (Noun) 你的回答是正确的 (Nǐ de huídá shì zhèngquè de - Your answer is correct).<br><strong>Component Breakdown:</strong><br>回 (huí): to return, to answer.<br>答 (dá): to answer, to reply."
+  },
+  "机场": {
+    "pinyin": "jīchǎng",
+    "explanation": "Noun. Airport. A complex of runways and buildings for the takeoff, landing, accommodation, and maintenance of aircraft. E.g., 我要去机场接朋友 (Wǒ yào qù jīchǎng jiē péngyou - I'm going to the airport to pick up a friend).<br><strong>Component Breakdown:</strong><br>机 (jī): machine, aircraft (as in 飞机 fēijī).<br>场 (chǎng): place, field, ground."
+  },
+  "鸡蛋": {
+    "pinyin": "jīdàn",
+    "explanation": "Noun. Egg (hen's egg). An oval or round object laid by a female bird, reptile, fish, etc., containing an ovum which if fertilized can develop into a new animal. E.g., 我喜欢吃鸡蛋 (Wǒ xǐhuān chī jīdàn - I like to eat eggs).<br><strong>Component Breakdown:</strong><br>鸡 (jī): chicken.<br>蛋 (dàn): egg."
+  },
+  "件": {
+    "pinyin": "jiàn",
+    "explanation": "Measure Word. (for clothes, matters, items, etc.). E.g., 一件衣服 (yī jiàn yīfu - a piece of clothing). 这件事 (zhè jiàn shì - this matter)."
+  },
+  "教室": {
+    "pinyin": "jiàoshì",
+    "explanation": "Noun. Classroom. A room in a school where a class of students is taught. E.g., 学生们在教室里上课 (Xuéshēngmen zài jiàoshì lǐ shàngkè - The students are having class in the classroom).<br><strong>Component Breakdown:</strong><br>教 (jiào): to teach, education.<br>室 (shì): room, chamber."
+  },
+  "姐姐": {
+    "pinyin": "jiějie",
+    "explanation": "Noun. Elder sister. A female sibling older than oneself. E.g., 我姐姐是医生 (Wǒ jiějie shì yīshēng - My elder sister is a doctor).<br><strong>Component Breakdown:</strong><br>姐 (jiě): elder sister.<br>姐 (jie): (suffix for certain kinship terms)."
+  },
+  "介绍": {
+    "pinyin": "jièshào",
+    "explanation": "Verb/Noun. To introduce; to recommend; introduction. To present someone or something to another so that they become acquainted. E.g., (Verb) 我来介绍一下，这是我的朋友 (Wǒ lái jièshào yīxià, zhè shì wǒ de péngyou - Let me introduce, this is my friend). (Noun) 感谢你的介绍 (Gǎnxiè nǐ de jièshào - Thank you for your introduction).<br><strong>Component Breakdown:</strong><br>介 (jiè): to introduce, to be situated between, to mediate.<br>绍 (shào): to continue, to carry on, to introduce."
+  },
+  "进": {
+    "pinyin": "jìn",
+    "explanation": "Verb. To enter; to come/go in; to advance. To move or go into (a place, state, or profession). E.g., 请进！ (Qǐng jìn! - Please come in!)."
+  },
+  "近": {
+    "pinyin": "jìn",
+    "explanation": "Adjective/Verb. Near; close (to). At or to a short distance away; nearby. E.g., (Adj) 我家离学校很近 (Wǒ jiā lí xuéxiào hěn jìn - My home is very close to the school). (Verb) 走近一点 (Zǒu jìn yīdiǎn - Come a bit closer)."
+  },
+  "就": {
+    "pinyin": "jiù",
+    "explanation": "Adverb. Then; precisely; exactly; just; as early as; right away. Used to indicate a consequence, emphasis, or something happening sooner than expected. E.g., (Consequence) 如果你来，我就去 (Rúguǒ nǐ lái, wǒ jiù qù - If you come, then I'll go). (Emphasis) 我就是他 (Wǒ jiù shì tā - I am precisely him). (Early) 他早上五点就起床了 (Tā zǎoshang wǔ diǎn jiù qǐchuáng le - He got up as early as 5 a.m.)."
+  },
+  "觉得": {
+    "pinyin": "juéde",
+    "explanation": "Verb. To feel; to think; to consider. To have a belief or opinion. E.g., 我觉得这个电影很好看 (Wǒ juéde zhège diànyǐng hěn hǎokàn - I think this movie is very good). 我觉得有点冷 (Wǒ juéde yǒudiǎn lěng - I feel a bit cold).<br><strong>Component Breakdown:</strong><br>觉 (jué): to feel, to perceive.<br>得 (de): (particle indicating state or result)."
+  },
+  "咖啡": {
+    "pinyin": "kāfēi",
+    "explanation": "Noun. Coffee. A drink made from the roasted and ground beans of the coffee plant. (Loanword). E.g., 我想喝一杯咖啡 (Wǒ xiǎng hē yī bēi kāfēi - I want to drink a cup of coffee)."
+  },
+  "开始": {
+    "pinyin": "kāishǐ",
+    "explanation": "Verb/Noun. To start; to begin; beginning. To perform or undergo the first part of (an action or activity). E.g., (Verb) 我们什么时候开始？ (Wǒmen shénme shíhou kāishǐ? - When do we start?). (Noun) 这是一个新的开始 (Zhè shì yī ge xīn de kāishǐ - This is a new beginning).<br><strong>Component Breakdown:</strong><br>开 (kāi): to open, to start.<br>始 (shǐ): to begin, to start, beginning."
+  },
+  "考试": {
+    "pinyin": "kǎoshì",
+    "explanation": "Noun/Verb. Exam; test; to take an exam. A formal test of a person's knowledge or proficiency in a subject or skill. E.g., (Noun) 明天有汉语考试 (Míngtiān yǒu Hànyǔ kǎoshì - There is a Chinese exam tomorrow). (Verb) 我明天要考试 (Wǒ míngtiān yào kǎoshì - I have an exam tomorrow).<br><strong>Component Breakdown:</strong><br>考 (kǎo): to test, to examine.<br>试 (shì): to try, to test, exam."
+  },
+  "可能": {
+    "pinyin": "kěnéng",
+    "explanation": "Auxiliary Verb/Adjective/Noun. May; maybe; perhaps; possible; possibility. E.g., (Aux.V./Adj.) 明天可能会下雨 (Míngtiān kěnéng huì xiàyǔ - It may rain tomorrow). (Noun) 有没有这种可能？ (Yǒu méiyǒu zhè zhǒng kěnéng? - Is there this possibility?).<br><strong>Component Breakdown:</strong><br>可 (kě): can, may, able to.<br>能 (néng): can, to be able to, ability, possibility."
+  },
+  "可以": {
+    "pinyin": "kěyǐ",
+    "explanation": "Auxiliary Verb. Can; may; be permitted. Used to express ability or permission. E.g., (Ability) 我可以帮你 (Wǒ kěyǐ bāng nǐ - I can help you). (Permission) 我可以进来吗？ (Wǒ kěyǐ jìnlái ma? - May I come in?)."
+  },
+  "课": {
+    "pinyin": "kè",
+    "explanation": "Noun. Class; lesson; course. A period of time in which students are taught a subject. E.g., 我今天有三节课 (Wǒ jīntiān yǒu sān jié kè - I have three classes today)."
+  },
+  "快": {
+    "pinyin": "kuài",
+    "explanation": "Adjective/Adverb. Fast; quick; quickly; soon; happy (as in 快乐 kuàilè). Moving or capable of moving at high speed. E.g., (Fast) 他跑得很快 (Tā pǎo de hěn kuài - He runs very fast). (Soon) 快下雨了 (Kuài xiàyǔ le - It's going to rain soon)."
+  },
+  "快乐": {
+    "pinyin": "kuàilè",
+    "explanation": "Adjective. Happy; joyful; cheerful. Feeling or showing pleasure or contentment. E.g., 祝你生日快乐！ (Zhù nǐ shēngrì kuàilè! - Happy birthday to you!).<br><strong>Component Breakdown:</strong><br>快 (kuài): fast, quick (here means cheerful, happy).<br>乐 (lè): happy, joyful, music (yuè)."
+  },
+  "累": {
+    "pinyin": "lèi",
+    "explanation": "Adjective. Tired; weary. Feeling in need of rest or sleep. E.g., 我今天很累 (Wǒ jīntiān hěn lèi - I am very tired today)."
+  },
+  "离": {
+    "pinyin": "lí",
+    "explanation": "Preposition/Verb. From (distance); away from; to leave. (Prep) Indicating distance from a place. (Verb) To go away from. E.g., (Prep) 我家离学校很远 (Wǒ jiā lí xuéxiào hěn yuǎn - My home is far from the school). (Verb) 他离开北京了 (Tā líkāi Běijīng le - He has left Beijing)."
+  },
+  "两": {
+    "pinyin": "liǎng",
+    "explanation": "Numeral. Two (used with measure words); a couple of. E.g., 我有两个苹果 (Wǒ yǒu liǎng ge píngguǒ - I have two apples). 两本书 (liǎng běn shū - two books)."
+  },
+  "路": {
+    "pinyin": "lù",
+    "explanation": "Noun/Measure Word. Road; path; way; (for bus routes). A long, narrow stretch with a smoothed or paved surface, made for traveling along. E.g., (Noun) 这条路很长 (Zhè tiáo lù hěn cháng - This road is very long). (M.W.) 10路公共汽车 (shí lù gōnggòng qìchē - No. 10 bus)."
+  },
+  "旅游": {
+    "pinyin": "lǚyóu",
+    "explanation": "Verb/Noun. To travel; to tour; journey; trip. To go from one place to another, typically over a distance of some length for pleasure. E.g., (Verb) 我喜欢旅游 (Wǒ xǐhuān lǚyóu - I like to travel). (Noun) 这是一次愉快的旅游 (Zhè shì yī cì yúkuài de lǚyóu - This was a pleasant trip).<br><strong>Component Breakdown:</strong><br>旅 (lǚ): to travel, trip, journey.<br>游 (yóu): to travel, to tour, to swim."
+  },
+  "卖": {
+    "pinyin": "mài",
+    "explanation": "Verb. To sell. To give or hand over (something) in exchange for money. E.g., 这个商店卖水果 (Zhège shāngdiàn mài shuǐguǒ - This store sells fruit)."
+  },
+  "慢": {
+    "pinyin": "màn",
+    "explanation": "Adjective. Slow. Moving or operating at a low speed; not quick or fast. E.g., 他走得很慢 (Tā zǒu de hěn màn - He walks very slowly)."
+  },
+  "忙": {
+    "pinyin": "máng",
+    "explanation": "Adjective/Verb. Busy; to be busy with. Having a great deal to do. E.g., (Adj) 我今天很忙 (Wǒ jīntiān hěn máng - I am very busy today). (Verb) 你在忙什么？ (Nǐ zài máng shénme? - What are you busy with?)."
+  },
+  "每": {
+    "pinyin": "měi",
+    "explanation": "Pronoun. Every; each. Used before a noun to refer to all the individual members of a set without exception. E.g., 我每天都喝咖啡 (Wǒ měi tiān dōu hē kāfēi - I drink coffee every day)."
+  },
+  "妹妹": {
+    "pinyin": "mèimei",
+    "explanation": "Noun. Younger sister. A female sibling younger than oneself. E.g., 我妹妹很可爱 (Wǒ mèimei hěn kě'ài - My younger sister is very cute).<br><strong>Component Breakdown:</strong><br>妹 (mèi): younger sister.<br>妹 (mei): (suffix for certain kinship terms)."
+  },
+  "门": {
+    "pinyin": "mén",
+    "explanation": "Noun/Measure Word. Door; gate; entrance; (for subjects/courses or languages). E.g., (Noun) 请开门 (Qǐng kāi mén - Please open the door). (M.W.) 这门课很有意思 (Zhè mén kè hěn yǒuyìsi - This course is very interesting)."
+  },
+  "面条": {
+    "pinyin": "miàntiáo",
+    "explanation": "Noun. Noodles. A food in the form of long, thin strips made from a mixture of flour, water, and eggs, cooked in boiling water or stock. E.g., 我喜欢吃面条 (Wǒ xǐhuān chī miàntiáo - I like to eat noodles).<br><strong>Component Breakdown:</strong><br>面 (miàn): flour, noodles, surface.<br>条 (tiáo): strip, long narrow piece, (measure word for long thin things)."
+  },
+  "男": {
+    "pinyin": "nán",
+    "explanation": "Adjective/Noun. Male. Of or denoting the sex that produces gametes, typically sperm, with which a female may be fertilized or which fertilizes the ovum of a female. E.g., 他是男的 (Tā shì nán de - He is male). 这个男孩子是谁？ (Zhège nán háizi shì shéi? - Who is this boy?)."
+  },
+  "您": {
+    "pinyin": "nín",
+    "explanation": "Pronoun. You (polite form, singular). Respectful form of 你 (nǐ). E.g., 您好！ (Nín hǎo! - Hello! (polite))."
+  },
+  "牛奶": {
+    "pinyin": "niúnǎi",
+    "explanation": "Noun. Milk (cow's milk). An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young. E.g., 我每天早上喝牛奶 (Wǒ měitiān zǎoshang hē niúnǎi - I drink milk every morning).<br><strong>Component Breakdown:</strong><br>牛 (niú): cow, ox, bull.<br>奶 (nǎi): milk, breast."
+  },
+  "女": {
+    "pinyin": "nǚ",
+    "explanation": "Adjective/Noun. Female; woman. Of or denoting the sex that can bear offspring or produce eggs. E.g., 她是女的 (Tā shì nǚ de - She is female). 这个女孩子很漂亮 (Zhège nǚ háizi hěn piàoliang - This girl is very pretty)."
+  },
+  "旁边": {
+    "pinyin": "pángbiān",
+    "explanation": "Noun/Position word. Side; beside; next to. At the side or next to. E.g., 学校旁边有一个商店 (Xuéxiào pángbiān yǒu yī ge shāngdiàn - There is a store next to the school).<br><strong>Component Breakdown:</strong><br>旁 (páng): side, beside.<br>边 (biān): side, edge, margin, border."
+  },
+  "跑步": {
+    "pinyin": "pǎobù",
+    "explanation": "Verb. To run; to jog. To move at a speed faster than a walk, never having both or all the feet on the ground at the same time. E.g., 我喜欢早上跑步 (Wǒ xǐhuān zǎoshang pǎobù - I like to run in the morning).<br><strong>Component Breakdown:</strong><br>跑 (pǎo): to run.<br>步 (bù): step, pace, to walk."
+  },
+  "便宜": {
+    "pinyin": "piányi",
+    "explanation": "Adjective. Cheap; inexpensive. Low in price; worth more than its cost. E.g., 这件衣服很便宜 (Zhè jiàn yīfu hěn piányi - This dress is very cheap).<br><strong>Component Breakdown:</strong><br>便 (pián): convenient, advantageous (here related to price advantage).<br>宜 (yi): suitable, appropriate, cheap."
+  },
+  "票": {
+    "pinyin": "piào",
+    "explanation": "Noun. Ticket. A piece of paper or card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event. E.g., 我买了两张电影票 (Wǒ mǎi le liǎng zhāng diànyǐng piào - I bought two movie tickets)."
+  },
+  "妻子": {
+    "pinyin": "qīzi",
+    "explanation": "Noun. Wife. A married woman considered in relation to her spouse. E.g., 他和他的妻子一起来的 (Tā hé tā de qīzi yīqǐ lái de - He came with his wife).<br><strong>Component Breakdown:</strong><br>妻 (qī): wife.<br>子 (zi): (noun suffix), son, child."
+  },
+  "起床": {
+    "pinyin": "qǐchuáng",
+    "explanation": "Verb. To get up (from bed). To rise from bed after sleeping. E.g., 我每天早上七点起床 (Wǒ měitiān zǎoshang qī diǎn qǐchuáng - I get up at 7 a.m. every day).<br><strong>Component Breakdown:</strong><br>起 (qǐ): to rise, to get up.<br>床 (chuáng): bed."
+  },
+  "千": {
+    "pinyin": "qiān",
+    "explanation": "Numeral. Thousand. The number 1000. E.g., 这台电脑三千块 (Zhè tái diànnǎo sān qiān kuài - This computer costs three thousand yuan)."
+  },
+  "铅笔": {
+    "pinyin": "qiānbǐ",
+    "explanation": "Noun. Pencil. An instrument for writing or drawing, consisting of a thin stick of graphite or a similar solid pigment encased in a cylinder of wood or plastic. E.g., 我用铅笔写字 (Wǒ yòng qiānbǐ xiězì - I write with a pencil).<br><strong>Component Breakdown:</strong><br>铅 (qiān): lead (metal).<br>笔 (bǐ): pen, pencil, writing brush."
+  },
+  "晴": {
+    "pinyin": "qíng",
+    "explanation": "Adjective. Sunny; fine; clear (weather). (Of the weather) free from cloud, rain, or mist. E.g., 今天天气很晴 (Jīntiān tiānqì hěn qíng - The weather is very sunny today)."
+  },
+  "去年": {
+    "pinyin": "qùnián",
+    "explanation": "Noun. Last year. The year before the current one. E.g., 我去年去了中国 (Wǒ qùnián qù le Zhōngguó - I went to China last year).<br><strong>Component Breakdown:</strong><br>去 (qù): to go, past.<br>年 (nián): year."
+  },
+  "让": {
+    "pinyin": "ràng",
+    "explanation": "Verb. To let; to allow; to make (sb do sth); to ask; to yield. To permit; to cause. E.g., (To let/allow) 妈妈不让我出去玩 (Māma bú ràng wǒ chūqù wán - Mom doesn't let me go out to play). (To ask/make) 老师让我们写作业 (Lǎoshī ràng wǒmen xiě zuòyè - The teacher asked us to do homework)."
+  },
+  "日": {
+    "pinyin": "rì",
+    "explanation": "Noun. Day; sun; date. A period of twenty-four hours as a unit of time, reckoned from one midnight to the next. E.g., 今天是几月几日？ (Jīntiān shì jǐ yuè jǐ rì? - What is the date today?)."
+  },
+  "上班": {
+    "pinyin": "shàngbān",
+    "explanation": "Verb. To go to work; to be on duty; to start work. To begin one's period of work. E.g., 我每天早上八点上班 (Wǒ měitiān zǎoshang bā diǎn shàngbān - I go to work at 8 a.m. every day).<br><strong>Component Breakdown:</strong><br>上 (shàng): to go up, to attend, to start.<br>班 (bān): class, team, shift, work."
+  },
+  "身体": {
+    "pinyin": "shēntǐ",
+    "explanation": "Noun. Body; health. The physical structure, including the bones, flesh, and organs, of a person or an animal. E.g., 他的身体很好 (Tā de shēntǐ hěn hǎo - His health is very good / His body is very good).<br><strong>Component Breakdown:</strong><br>身 (shēn): body, person, oneself.<br>体 (tǐ): body, form, style, system."
+  },
+  "生病": {
+    "pinyin": "shēngbìng",
+    "explanation": "Verb. To fall ill; to get sick. To suffer from an illness. E.g., 我生病了，不能去上学 (Wǒ shēngbìng le, bùnéng qù shàngxué - I'm sick, I can't go to school).<br><strong>Component Breakdown:</strong><br>生 (shēng): to be born, to live, to produce.<br>病 (bìng): illness, disease, to be sick."
+  },
+  "生日": {
+    "pinyin": "shēngrì",
+    "explanation": "Noun. Birthday. The anniversary of the day on which a person was born. E.g., 祝你生日快乐！ (Zhù nǐ shēngrì kuàilè! - Happy birthday to you!).<br><strong>Component Breakdown:</strong><br>生 (shēng): to be born, life.<br>日 (rì): day, date."
+  },
+  "时间": {
+    "pinyin": "shíjiān",
+    "explanation": "Noun. Time; period. The indefinite continued progress of existence and events in the past, present, and future regarded as a whole. E.g., 我没有时间 (Wǒ méiyǒu shíjiān - I don't have time).<br><strong>Component Breakdown:</strong><br>时 (shí): time, o'clock, when.<br>间 (jiān): space between, interval, room."
+  },
+  "事情": {
+    "pinyin": "shìqing",
+    "explanation": "Noun. Matter; affair; thing; business. An event or occurrence. E.g., 我今天有很多事情要做 (Wǒ jīntiān yǒu hěn duō shìqing yào zuò - I have many things to do today).<br><strong>Component Breakdown:</strong><br>事 (shì): matter, affair, thing, business, event.<br>情 (qíng): feeling, emotion, affection, situation, condition."
+  },
+  "手表": {
+    "pinyin": "shǒubiǎo",
+    "explanation": "Noun. Wristwatch. A watch worn typically on a strap around the wrist. E.g., 这块手表很漂亮 (Zhè kuài shǒubiǎo hěn piàoliang - This wristwatch is very beautiful).<br><strong>Component Breakdown:</strong><br>手 (shǒu): hand.<br>表 (biǎo): watch, meter, table, form, to show."
+  },
+  "手机": {
+    "pinyin": "shǒujī",
+    "explanation": "Noun. Mobile phone; cell phone. A portable wireless telephone. E.g., 我的手机没电了 (Wǒ de shǒujī méi diàn le - My mobile phone is out of battery).<br><strong>Component Breakdown:</strong><br>手 (shǒu): hand.<br>机 (jī): machine, device."
+  },
+  "送": {
+    "pinyin": "sòng",
+    "explanation": "Verb. To give (as a present); to send; to deliver; to see sb off. To provide someone with something; to take someone or something to a particular place. E.g., (Give) 我送你一个礼物 (Wǒ sòng nǐ yī ge lǐwù - I'll give you a gift). (See off) 我去机场送朋友 (Wǒ qù jīchǎng sòng péngyou - I'm going to the airport to see off a friend)."
+  },
+  "虽然...但是...": {
+    "pinyin": "suīrán...dànshì...",
+    "explanation": "Conjunction. Although...but...; though...yet.... Used to connect two contrasting clauses. E.g., 虽然天气很冷，但是他还是去游泳了 (Suīrán tiānqì hěn lěng, dànshì tā háishi qù yóuyǒng le - Although the weather was very cold, he still went swimming)."
+  },
+  "它": {
+    "pinyin": "tā",
+    "explanation": "Pronoun. It. Refers to an animal or inanimate object already mentioned or easily identified. E.g., 我有一只猫，它很可爱 (Wǒ yǒu yī zhī māo, tā hěn kě'ài - I have a cat, it is very cute)."
+  },
+  "踢足球": {
+    "pinyin": "tī zúqiú",
+    "explanation": "Verb phrase. To play football (soccer). E.g., 男孩子们喜欢踢足球 (Nánháizimen xǐhuān tī zúqiú - Boys like to play football).<br><strong>Component Breakdown:</strong><br>踢 (tī): to kick.<br>足 (zú): foot.<br>球 (qiú): ball."
+  },
+  "题": {
+    "pinyin": "tí",
+    "explanation": "Noun. Topic; subject; question (in a test); problem. A matter dealt with in a text, discourse, or conversation; a question set to test knowledge. E.g., 这道题太难了 (Zhè dào tí tài nán le - This question is too difficult)."
+  },
+  "跳舞": {
+    "pinyin": "tiàowǔ",
+    "explanation": "Verb. To dance. To move rhythmically to music, typically following a set sequence of steps. E.g., 她喜欢跳舞 (Tā xǐhuān tiàowǔ - She likes to dance).<br><strong>Component Breakdown:</strong><br>跳 (tiào): to jump, to leap.<br>舞 (wǔ): dance."
+  },
+  "外": {
+    "pinyin": "wài",
+    "explanation": "Noun/Position word. Outside; outer; foreign; external. The external side or surface of something. E.g., 外面很冷 (Wàimiàn hěn lěng - It's cold outside). 他是外国人 (Tā shì wàiguórén - He is a foreigner)."
+  },
+  "完": {
+    "pinyin": "wán",
+    "explanation": "Verb. To finish; to complete; to be over. To bring (a task or activity) to an end. E.g., 我做完作业了 (Wǒ zuòwán zuòyè le - I have finished my homework). 电影看完了 (Diànyǐng kànwán le - The movie is finished)."
+  },
+  "玩": {
+    "pinyin": "wán",
+    "explanation": "Verb. To play; to have fun; to hang out. To engage in activity for enjoyment and recreation rather than a serious or practical purpose. E.g., 孩子们在公园里玩 (Háizimen zài gōngyuán lǐ wán - The children are playing in the park)."
+  },
+  "晚上": {
+    "pinyin": "wǎnshang",
+    "explanation": "Noun. Evening; night. The period of time at the end of the day, usually from about 6 p.m. to bedtime. E.g., 我晚上喜欢看书 (Wǒ wǎnshang xǐhuān kànshū - I like to read books in the evening).<br><strong>Component Breakdown:</strong><br>晚 (wǎn): late, evening, night.<br>上 (shang): on, upon (here denotes a period)."
+  },
+  "为什么": {
+    "pinyin": "wèishénme",
+    "explanation": "Pronoun. Why; for what reason. Used to ask about the reason or purpose. E.g., 你为什么迟到了？ (Nǐ wèishénme chídào le? - Why are you late?).<br><strong>Component Breakdown:</strong><br>为 (wèi): for, because of.<br>什 (shén): (part of 什么).<br>么 (me): (suffix)."
+  },
+  "问": {
+    "pinyin": "wèn",
+    "explanation": "Verb. To ask (a question). To say something in order to obtain an answer or some information. E.g., 我想问一个问题 (Wǒ xiǎng wèn yī ge wèntí - I want to ask a question)."
+  },
+  "问题": {
+    "pinyin": "wèntí",
+    "explanation": "Noun. Question; problem; issue; trouble. A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome; a sentence worded or expressed so as to elicit information. E.g., (Question) 我有一个问题 (Wǒ yǒu yī ge wèntí - I have a question). (Problem) 这个问题很难 (Zhège wèntí hěn nán - This problem is very difficult).<br><strong>Component Breakdown:</strong><br>问 (wèn): to ask.<br>题 (tí): topic, subject, question, problem."
+  },
+  "西瓜": {
+    "pinyin": "xīguā",
+    "explanation": "Noun. Watermelon. A large, round or oval fruit with a hard green rind, sweet watery reddish pulp, and black seeds. E.g., 夏天我喜欢吃西瓜 (Xiàtiān wǒ xǐhuān chī xīguā - I like to eat watermelon in summer).<br><strong>Component Breakdown:</strong><br>西 (xī): west (as it was introduced from the West).<br>瓜 (guā): melon, gourd."
+  },
+  "希望": {
+    "pinyin": "xīwàng",
+    "explanation": "Verb/Noun. To hope; to wish; hope; wish. To want something to happen or be the case. E.g., (Verb) 我希望明天天气好 (Wǒ xīwàng míngtiān tiānqì hǎo - I hope the weather will be good tomorrow). (Noun) 这是我最大的希望 (Zhè shì wǒ zuìdà de xīwàng - This is my biggest hope).<br><strong>Component Breakdown:</strong><br>希 (xī): to hope, to wish, rare.<br>望 (wàng): to hope, to expect, to look towards, full moon."
+  },
+  "洗": {
+    "pinyin": "xǐ",
+    "explanation": "Verb. To wash; to bathe. To clean with water and, typically, soap or detergent. E.g., 我要去洗手 (Wǒ yào qù xǐshǒu - I'm going to wash my hands)."
+  },
+  "小时": {
+    "pinyin": "xiǎoshí",
+    "explanation": "Noun. Hour. A period of sixty minutes. E.g., 我学习了一个小时汉语 (Wǒ xuéxí le yī ge xiǎoshí Hànyǔ - I studied Chinese for an hour).<br><strong>Component Breakdown:</strong><br>小 (xiǎo): small.<br>时 (shí): time, hour, o'clock."
+  },
+  "笑": {
+    "pinyin": "xiào",
+    "explanation": "Verb. To laugh; to smile. To make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement and sometimes also of derision. E.g., 他笑得很开心 (Tā xiào de hěn kāixīn - He laughed very happily)."
+  },
+  "新": {
+    "pinyin": "xīn",
+    "explanation": "Adjective. New; fresh. Recently made, obtained, or established. E.g., 这是一本新书 (Zhè shì yī běn xīn shū - This is a new book)."
+  },
+  "姓": {
+    "pinyin": "xìng",
+    "explanation": "Noun/Verb. Surname; family name; to be surnamed. A hereditary name common to all members of a family, as distinct from a given name. E.g., (Noun) 我的姓是王 (Wǒ de xìng shì Wáng - My surname is Wang). (Verb) 您贵姓？ (Nín guìxìng? - What is your honorable surname?)."
+  },
+  "休息": {
+    "pinyin": "xiūxi",
+    "explanation": "Verb/Noun. To rest; to take a break; rest. To cease work or movement in order to relax, refresh oneself, or recover strength. E.g., (Verb) 我太累了，想休息一下 (Wǒ tài lèi le, xiǎng xiūxi yīxià - I'm too tired, I want to rest a bit). (Noun) 我们需要休息 (Wǒmen xūyào xiūxi - We need a rest).<br><strong>Component Breakdown:</strong><br>休 (xiū): to rest, to stop.<br>息 (xi): breath, to rest, news."
+  },
+  "雪": {
+    "pinyin": "xuě",
+    "explanation": "Noun. Snow. Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer. E.g., 冬天这里会下雪 (Dōngtiān zhèli huì xià xuě - It snows here in winter)."
+  },
+  "颜色": {
+    "pinyin": "yánsè",
+    "explanation": "Noun. Color. The property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light. E.g., 你喜欢什么颜色？ (Nǐ xǐhuān shénme yánsè? - What color do you like?).<br><strong>Component Breakdown:</strong><br>颜 (yán): face, color.<br>色 (sè): color, look, appearance."
+  },
+  "眼睛": {
+    "pinyin": "yǎnjing",
+    "explanation": "Noun. Eye. Each of a pair of globular organs in the head through which people and vertebrate animals see, the visible part typically appearing almond-shaped in humans. E.g., 她的眼睛很漂亮 (Tā de yǎnjing hěn piàoliang - Her eyes are very beautiful).<br><strong>Component Breakdown:</strong><br>眼 (yǎn): eye.<br>睛 (jing): eyeball, pupil of the eye."
+  },
+  "羊肉": {
+    "pinyin": "yángròu",
+    "explanation": "Noun. Mutton; lamb. The flesh of sheep used as food. E.g., 我喜欢吃羊肉 (Wǒ xǐhuān chī yángròu - I like to eat mutton/lamb).<br><strong>Component Breakdown:</strong><br>羊 (yáng): sheep, goat.<br>肉 (ròu): meat, flesh."
+  },
+  "药": {
+    "pinyin": "yào",
+    "explanation": "Noun. Medicine; drug. A compound or preparation used for the treatment or prevention of disease. E.g., 我生病了，需要吃药 (Wǒ shēngbìng le, xūyào chī yào - I'm sick, I need to take medicine)."
+  },
+  "要": {
+    "pinyin": "yào",
+    "explanation": "Verb/Auxiliary Verb. To want; to ask for; to need; will; to be going to; must. (Want/Need) To desire or require. (Future/Intention) Indicates a future action or intention. (Must) Indicates necessity or obligation. E.g., (Want) 我要一杯水 (Wǒ yào yī bēi shuǐ - I want a glass of water). (Will) 明天要下雨 (Míngtiān yào xiàyǔ - It's going to rain tomorrow). (Must) 你要努力学习 (Nǐ yào nǔlì xuéxí - You must study hard)."
+  },
+  "也": {
+    "pinyin": "yě",
+    "explanation": "Adverb. Also; too; as well. In addition. E.g., 我是中国人，他也是中国人 (Wǒ shì Zhōngguórén, tā yě shì Zhōngguórén - I am Chinese, he is also Chinese)."
+  },
+  "已经": {
+    "pinyin": "yǐjīng",
+    "explanation": "Adverb. Already. Before or by now or the time in question. E.g., 我已经吃过饭了 (Wǒ yǐjīng chīguo fàn le - I have already eaten).<br><strong>Component Breakdown:</strong><br>已 (yǐ): already, to stop, then.<br>经 (jīng): to pass through, to experience, already, classic text."
+  },
+  "一起": {
+    "pinyin": "yīqǐ",
+    "explanation": "Adverb. Together; in company. With or in proximity to another person or people. E.g., 我们一起去公园吧 (Wǒmen yīqǐ qù gōngyuán ba - Let's go to the park together).<br><strong>Component Breakdown:</strong><br>一 (yī): one, same.<br>起 (qǐ): to rise, to get up, together."
+  },
+  "意思": {
+    "pinyin": "yìsi",
+    "explanation": "Noun. Meaning; idea; opinion; interest. What is intended to be, or actually is, expressed or represented; significance. E.g., (Meaning) 这个词是什么意思？ (Zhège cí shì shénme yìsi? - What does this word mean?). (Interest) 这个电影没什么意思 (Zhège diànyǐng méi shénme yìsi - This movie is not very interesting).<br><strong>Component Breakdown:</strong><br>意 (yì): idea, meaning, intention, wish.<br>思 (si): to think, to consider, thought."
+  },
+  "因为...所以...": {
+    "pinyin": "yīnwèi...suǒyǐ...",
+    "explanation": "Conjunction. Because...so...; because...therefore.... Used to connect a reason with a result. E.g., 因为下雨了，所以我们没去公园 (Yīnwèi xiàyǔ le, suǒyǐ wǒmen méi qù gōngyuán - Because it rained, so we didn't go to the park)."
+  },
+  "阴": {
+    "pinyin": "yīn",
+    "explanation": "Adjective. Overcast; cloudy; (of weather) gloomy; hidden; shade. (Of the sky or weather) covered with clouds; dull. E.g., 今天是阴天 (Jīntiān shì yīn tiān - It's an overcast day today)."
+  },
+  "游泳": {
+    "pinyin": "yóuyǒng",
+    "explanation": "Verb. To swim. To propel the body through water by using the limbs. E.g., 我喜欢夏天去游泳 (Wǒ xǐhuān xiàtiān qù yóuyǒng - I like to go swimming in summer).<br><strong>Component Breakdown:</strong><br>游 (yóu): to swim, to travel, to tour.<br>泳 (yǒng): to swim."
+  },
+  "右边": {
+    "pinyin": "yòubian",
+    "explanation": "Noun/Position word. Right side; on the right. The side opposite to the left. E.g., 邮局在银行的右边 (Yóujú zài yínháng de yòubian - The post office is on the right side of the bank).<br><strong>Component Breakdown:</strong><br>右 (yòu): right (direction).<br>边 (bian): side, edge, margin."
+  },
+  "鱼": {
+    "pinyin": "yú",
+    "explanation": "Noun. Fish. A limbless cold-blooded vertebrate animal with gills and fins living wholly in water. E.g., 我喜欢吃鱼 (Wǒ xǐhuān chī yú - I like to eat fish)."
+  },
+  "远": {
+    "pinyin": "yuǎn",
+    "explanation": "Adjective. Far; distant; remote. At, to, or by a great distance. E.g., 我家离学校很远 (Wǒ jiā lí xuéxiào hěn yuǎn - My home is far from the school)."
+  },
+  "运动": {
+    "pinyin": "yùndòng",
+    "explanation": "Noun/Verb. Sports; exercise; movement; to exercise. Activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment. E.g., (Noun) 我喜欢做运动 (Wǒ xǐhuān zuò yùndòng - I like to do sports/exercise). (Verb) 我们去运动吧 (Wǒmen qù yùndòng ba - Let's go exercise).<br><strong>Component Breakdown:</strong><br>运 (yùn): to move, to transport, fortune, luck.<br>动 (dòng): to move, to act, to stir."
+  },
+  "再": {
+    "pinyin": "zài",
+    "explanation": "Adverb. Again; once more; then; further. E.g., 请再说一遍 (Qǐng zài shuō yī biàn - Please say it again). 我吃完饭再看电视 (Wǒ chīwán fàn zài kàn diànshì - I'll watch TV after I finish eating)."
+  },
+  "早上": {
+    "pinyin": "zǎoshang",
+    "explanation": "Noun. Morning (early, typically before 9 a.m.). The period from sunrise or waking to mid-morning. E.g., 我早上六点起床 (Wǒ zǎoshang liù diǎn qǐchuáng - I get up at 6 a.m.).<br><strong>Component Breakdown:</strong><br>早 (zǎo): early, morning.<br>上 (shang): on, upon (here denotes a period)."
+  },
+  "丈夫": {
+    "pinyin": "zhàngfu",
+    "explanation": "Noun. Husband. A married man considered in relation to his spouse. E.g., 我的丈夫是工程师 (Wǒ de zhàngfu shì gōngchéngshī - My husband is an engineer).<br><strong>Component Breakdown:</strong><br>丈 (zhàng): unit of length, elder, husband (in this context).<br>夫 (fu): man, husband, worker."
+  },
+  "找": {
+    "pinyin": "zhǎo",
+    "explanation": "Verb. To look for; to seek; to find; to give change. To try to find. E.g., (Look for) 我在找我的手机 (Wǒ zài zhǎo wǒ de shǒujī - I am looking for my mobile phone). (Give change) 找你五块钱 (Zhǎo nǐ wǔ kuài qián - Here's your change of five yuan)."
+  },
+  "着": {
+    "pinyin": "zhe",
+    "explanation": "Particle. (aspect particle indicating action in progress or a state). Used after a verb to indicate the continuation of an action or state. E.g., (State) 门开着 (Mén kāizhe - The door is open). (Action in progress) 他笑着说 (Tā xiàozhe shuō - He said with a smile / He was smiling as he spoke)."
+  },
+  "真": {
+    "pinyin": "zhēn",
+    "explanation": "Adverb/Adjective. Really; truly; indeed; real; true. In a true way or manner; genuine. E.g., (Adv) 这个菜真好吃！ (Zhège cài zhēn hǎochī! - This dish is really delicious!). (Adj) 这是真花吗？ (Zhè shì zhēn huā ma? - Is this a real flower?)."
+  },
+  "正在": {
+    "pinyin": "zhèngzài",
+    "explanation": "Adverb. In the process of (doing something); right now. Indicates an action is in progress. (Often interchangeable with 在 zài for this meaning, but 正在 can add more emphasis on 'right at this moment'). E.g., 我正在看书 (Wǒ zhèngzài kànshū - I am reading a book right now).<br><strong>Component Breakdown:</strong><br>正 (zhèng): just, right, precisely.<br>在 (zài): at, in, on (indicating an action in progress)."
+  },
+  "知道": {
+    "pinyin": "zhīdào",
+    "explanation": "Verb. To know; to be aware of; to realize. To have knowledge or understanding of. E.g., 我知道这件事 (Wǒ zhīdào zhè jiàn shì - I know about this matter).<br><strong>Component Breakdown:</strong><br>知 (zhī): to know, to be aware of.<br>道 (dào): way, path, principle, to say (here part of the verb 'to know')."
+  },
+  "准备": {
+    "pinyin": "zhǔnbèi",
+    "explanation": "Verb/Noun. To prepare; to get ready; preparation. To make something ready for use or consideration. E.g., (Verb) 我要准备考试 (Wǒ yào zhǔnbèi kǎoshì - I need to prepare for the exam). (Noun) 我们做了充分的准备 (Wǒmen zuò le chōngfèn de zhǔnbèi - We made full preparations).<br><strong>Component Breakdown:</strong><br>准 (zhǔn): to allow, to grant, accurate, standard (here related to setting up).<br>备 (bèi): to prepare, to get ready, equipped."
+  },
+  "自行车": {
+    "pinyin": "zìxíngchē",
+    "explanation": "Noun. Bicycle; bike. A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel. E.g., 我骑自行车上学 (Wǒ qí zìxíngchē shàngxué - I ride a bicycle to school).<br><strong>Component Breakdown:</strong><br>自 (zì): self, oneself.<br>行 (xíng): to walk, to travel, to move.<br>车 (chē): vehicle, car."
+  },
+  "走": {
+    "pinyin": "zǒu",
+    "explanation": "Verb. To walk; to go; to leave. To move at a regular pace by lifting and setting down each foot in turn. E.g., 我们走吧 (Wǒmen zǒu ba - Let's go). 他走了 (Tā zǒu le - He has left)."
+  },
+  "最": {
+    "pinyin": "zuì",
+    "explanation": "Adverb. Most; (the) -est; superlative. To the highest degree or extent. E.g., 他是最高的 (Tā shì zuì gāo de - He is the tallest). 我最喜欢夏天 (Wǒ zuì xǐhuān xiàtiān - I like summer the most)."
+  },
+  "左边": {
+    "pinyin": "zuǒbian",
+    "explanation": "Noun/Position word. Left side; on the left. The side opposite to the right. E.g., 银行在邮局的左边 (Yínháng zài yóujú de zuǒbian - The bank is on the left side of the post office).<br><strong>Component Breakdown:</strong><br>左 (zuǒ): left (direction).<br>边 (bian): side, edge, margin."
+  },
+ "阿姨": {
+    "pinyin": "āyí",
+    "explanation": "Noun. Aunt (mother's sister); auntie (address for woman of mother's generation); housekeeper; nanny. E.g., 这是我的阿姨 (Zhè shì wǒ de āyí - This is my aunt). 阿姨，你好！ (Āyí, nǐ hǎo! - Hello, Auntie!).<br><strong>Component Breakdown:</strong><br>阿 (ā): (prefix for kinship terms or names).<br>姨 (yí): mother's sister, aunt."
+  },
+  "啊": {
+    "pinyin": "a",
+    "explanation": "Particle. (interjection expressing surprise, admiration, agreement, etc., often at the end of a sentence). Used to express various emotions or to soften tone. E.g., 好啊！ (Hǎo a! - Great!). 你是谁啊？ (Nǐ shì shéi a? - Who are you?)."
+  },
+  "矮": {
+    "pinyin": "ǎi",
+    "explanation": "Adjective. Short (in height). Of less than average height. E.g., 他比我矮 (Tā bǐ wǒ ǎi - He is shorter than me)."
+  },
+  "爱好": {
+    "pinyin": "àihào",
+    "explanation": "Noun/Verb. Hobby; interest; to like; to be fond of. An activity done regularly in one's leisure time for pleasure. E.g., (Noun) 我的爱好是看书 (Wǒ de àihào shì kànshū - My hobby is reading). (Verb) 我爱好音乐 (Wǒ àihào yīnyuè - I am fond of music).<br><strong>Component Breakdown:</strong><br>爱 (ài): to love, to like.<br>好 (hào): to like, to be fond of (also hǎo - good)."
+  },
+  "安静": {
+    "pinyin": "ānjìng",
+    "explanation": "Adjective/Verb. Quiet; peaceful; calm; to quiet down. Free from noise or disturbance. E.g., (Adj) 这个地方很安静 (Zhège dìfang hěn ānjìng - This place is very quiet). (Verb) 请安静！ (Qǐng ānjìng! - Please be quiet!).<br><strong>Component Breakdown:</strong><br>安 (ān): peaceful, calm, safe.<br>静 (jìng): quiet, still, calm."
+  },
+  "把": {
+    "pinyin": "bǎ",
+    "explanation": "Preposition/Measure Word. (introduces the object of a verb, indicating disposal or handling); (for things with handles, handfuls). E.g., (Prep) 请把门打开 (Qǐng bǎ mén dǎkāi - Please open the door). (M.W.) 一把椅子 (yī bǎ yǐzi - a chair). 一把米 (yī bǎ mǐ - a handful of rice)."
+  },
+  "班": {
+    "pinyin": "bān",
+    "explanation": "Noun/Measure Word. Class; team; shift; work; (for groups, scheduled transport). E.g., (Noun) 我们班有三十个学生 (Wǒmen bān yǒu sānshí ge xuésheng - Our class has thirty students). (M.W.) 这班火车 (zhè bān huǒchē - this train)."
+  },
+  "搬": {
+    "pinyin": "bān",
+    "explanation": "Verb. To move (house, objects); to take away. To carry or transport something from one place to another. E.g., 我下个月要搬家 (Wǒ xià ge yuè yào bānjiā - I am moving house next month). 请帮我把这个箱子搬走 (Qǐng bāng wǒ bǎ zhège xiāngzi bānzǒu - Please help me move this box away)."
+  },
+  "办法": {
+    "pinyin": "bànfǎ",
+    "explanation": "Noun. Way; means; method; measure. A way of doing something. E.g., 我们要想个办法解决这个问题 (Wǒmen yào xiǎng ge bànfǎ jiějué zhège wèntí - We need to think of a way to solve this problem).<br><strong>Component Breakdown:</strong><br>办 (bàn): to do, to manage, to handle.<br>法 (fǎ): law, method, way."
+  },
+  "办公室": {
+    "pinyin": "bàngōngshì",
+    "explanation": "Noun. Office. A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work. E.g., 他在办公室里工作 (Tā zài bàngōngshì lǐ gōngzuò - He is working in the office).<br><strong>Component Breakdown:</strong><br>办 (bàn): to do, to handle, to manage.<br>公 (gōng): public, official.<br>室 (shì): room, chamber."
+  },
+  "半": {
+    "pinyin": "bàn",
+    "explanation": "Numeral/Adjective. Half; semi-; incomplete. E.g., 我吃了一半苹果 (Wǒ chī le yī bàn píngguǒ - I ate half an apple). 现在是三点半 (Xiànzài shì sān diǎn bàn - It's half past three now)."
+  },
+  "帮忙": {
+    "pinyin": "bāngmáng",
+    "explanation": "Verb. To help; to do a favor; to give a hand. To assist someone. E.g., 你能帮我一个忙吗？ (Nǐ néng bāng wǒ yī ge máng ma? - Can you do me a favor?).<br><strong>Component Breakdown:</strong><br>帮 (bāng): to help, to assist.<br>忙 (máng): busy, to hurry, favor, help."
+  },
+  "包": {
+    "pinyin": "bāo",
+    "explanation": "Noun/Verb/Measure Word. Bag; sack; package; to wrap; to cover; (for packages, bundles). E.g., (Noun) 我的包在哪里？ (Wǒ de bāo zài nǎli? - Where is my bag?). (Verb) 请把礼物包起来 (Qǐng bǎ lǐwù bāo qǐlai - Please wrap the gift). (M.W.) 一包糖 (yī bāo táng - a bag of sugar)."
+  },
+  "饱": {
+    "pinyin": "bǎo",
+    "explanation": "Adjective/Verb. Full (after eating); to eat one's fill; satisfied. Having eaten enough. E.g., 我吃饱了 (Wǒ chībǎo le - I am full)."
+  },
+  "北方": {
+    "pinyin": "běifāng",
+    "explanation": "Noun. North; the northern part of a country. The direction towards the North Pole. E.g., 冬天北方很冷 (Dōngtiān běifāng hěn lěng - It's very cold in the north in winter).<br><strong>Component Breakdown:</strong><br>北 (běi): north.<br>方 (fāng): direction, side, place."
+  },
+  "被": {
+    "pinyin": "bèi",
+    "explanation": "Preposition/Noun. (introduces the agent in a passive sentence); by; quilt; to cover. E.g., (Passive) 我的钱包被偷了 (Wǒ de qiánbāo bèi tōu le - My wallet was stolen). (Noun) 盖被子 (gài bèizi - to cover with a quilt)."
+  },
+  "鼻子": {
+    "pinyin": "bízi",
+    "explanation": "Noun. Nose. The part projecting above the mouth on the face of a person or animal, containing the nostrils and used for breathing and smelling. E.g., 他的鼻子很高 (Tā de bízi hěn gāo - His nose is very prominent/high).<br><strong>Component Breakdown:</strong><br>鼻 (bí): nose.<br>子 (zi): (noun suffix)."
+  },
+  "比较": {
+    "pinyin": "bǐjiào",
+    "explanation": "Adverb/Verb. Relatively; comparatively; rather; to compare. To a moderate degree; when compared with others. E.g., (Adv) 这个房间比较大 (Zhège fángjiān bǐjiào dà - This room is relatively large). (Verb) 我们比较一下这两个方案 (Wǒmen bǐjiào yīxià zhè liǎng ge fāng'àn - Let's compare these two plans).<br><strong>Component Breakdown:</strong><br>比 (bǐ): to compare.<br>较 (jiào): to compare, relatively, rather."
+  },
+  "比赛": {
+    "pinyin": "bǐsài",
+    "explanation": "Noun/Verb. Competition; match; game; to compete. An event or contest in which people compete. E.g., (Noun) 明天有足球比赛 (Míngtiān yǒu zúqiú bǐsài - There is a football match tomorrow). (Verb) 我们去比赛跑步吧 (Wǒmen qù bǐsài pǎobù ba - Let's compete in running).<br><strong>Component Breakdown:</strong><br>比 (bǐ): to compare, to compete.<br>赛 (sài): match, competition, to compete."
+  },
+  "笔记本": {
+    "pinyin": "bǐjìběn",
+    "explanation": "Noun. Notebook; laptop computer. A small book with blank or ruled pages for writing notes in; a portable computer. E.g., (Notebook) 我在笔记本上写笔记 (Wǒ zài bǐjìběn shàng xiě bǐjì - I write notes in my notebook). (Laptop) 我买了一台新的笔记本电脑 (Wǒ mǎi le yī tái xīn de bǐjìběn diànnǎo - I bought a new laptop).<br><strong>Component Breakdown:</strong><br>笔 (bǐ): pen, pencil, writing brush.<br>记 (jì): to record, to remember, notes.<br>本 (běn): book, notebook."
+  },
+  "必须": {
+    "pinyin": "bìxū",
+    "explanation": "Adverb. Must; have to; be obliged to. Indicates necessity or obligation. E.g., 你必须按时完成作业 (Nǐ bìxū ànshí wánchéng zuòyè - You must finish your homework on time).<br><strong>Component Breakdown:</strong><br>必 (bì): certainly, must, will.<br>须 (xū): must, have to, beard."
+  },
+  "变化": {
+    "pinyin": "biànhuà",
+    "explanation": "Noun/Verb. Change; variation; to change; to vary. The act or instance of making or becoming different. E.g., (Noun) 这几年城市的变化很大 (Zhè jǐ nián chéngshì de biànhuà hěn dà - The city has changed a lot in recent years). (Verb) 天气变化很快 (Tiānqì biànhuà hěn kuài - The weather changes quickly).<br><strong>Component Breakdown:</strong><br>变 (biàn): to change, to become different, to transform.<br>化 (huà): to change, to transform, -ize, -ify."
+  },
+  "别人": {
+    "pinyin": "biérén",
+    "explanation": "Pronoun. Other people; another person; others. People apart from oneself or the person specified. E.g., 不要打扰别人 (Bú yào dǎrǎo biérén - Don't disturb other people).<br><strong>Component Breakdown:</strong><br>别 (bié): other, another, don't.<br>人 (rén): person, people."
+  },
+  "宾馆": {
+    "pinyin": "bīnguǎn",
+    "explanation": "Noun. Hotel; guesthouse. An establishment providing accommodation, meals, and other services for travelers and tourists. E.g., 我们住在这家宾馆 (Wǒmen zhù zài zhè jiā bīnguǎn - We are staying at this hotel).<br><strong>Component Breakdown:</strong><br>宾 (bīn): guest, visitor.<br>馆 (guǎn): building, shop, embassy, hotel."
+  },
+  "冰箱": {
+    "pinyin": "bīngxiāng",
+    "explanation": "Noun. Refrigerator; freezer. An appliance or compartment which is artificially kept cool and used to store food and drink. E.g., 把牛奶放进冰箱里 (Bǎ niúnǎi fàng jìn bīngxiāng lǐ - Put the milk in the refrigerator).<br><strong>Component Breakdown:</strong><br>冰 (bīng): ice, to freeze.<br>箱 (xiāng): box, chest, case."
+  },
+  "不但...而且...": {
+    "pinyin": "búdàn...érqiě...",
+    "explanation": "Conjunction. Not only...but also.... Used to connect two clauses, with the second adding more information or emphasis. E.g., 他不但会说英语，而且会说法语 (Tā búdàn huì shuō Yīngyǔ, érqiě huì shuō Fǎyǔ - He not only speaks English, but also speaks French)."
+  },
+  "才": {
+    "pinyin": "cái",
+    "explanation": "Adverb. Not until; only then; just; (indicating lateness or difficulty). Indicates that something happened later than expected or only under certain conditions. E.g., (Lateness) 他九点才来 (Tā jiǔ diǎn cái lái - He didn't come until nine o'clock). (Difficulty/Condition) 只有努力才能成功 (Zhǐyǒu nǔlì cái néng chénggōng - Only with hard work can one succeed)."
+  },
+  "菜单": {
+    "pinyin": "càidān",
+    "explanation": "Noun. Menu. A list of dishes available in a restaurant. E.g., 服务员，请给我看一下菜单 (Fúwùyuán, qǐng gěi wǒ kàn yīxià càidān - Waiter, please let me see the menu).<br><strong>Component Breakdown:</strong><br>菜 (cài): dish, vegetable, cuisine.<br>单 (dān): list, bill, single, odd."
+  },
+  "参加": {
+    "pinyin": "cānjiā",
+    "explanation": "Verb. To participate in; to take part in; to join; to attend. To be involved in an activity or event. E.g., 我想参加这个活动 (Wǒ xiǎng cānjiā zhège huódòng - I want to participate in this activity).<br><strong>Component Breakdown:</strong><br>参 (cān): to participate, to join, to consult.<br>加 (jiā): to add, to increase, to join."
+  },
+  "草": {
+    "pinyin": "cǎo",
+    "explanation": "Noun. Grass; straw; weed. Vegetation consisting of typically short plants with long, narrow leaves. E.g., 公园里有很多绿草 (Gōngyuán lǐ yǒu hěn duō lǜ cǎo - There is a lot of green grass in the park)."
+  },
+  "层": {
+    "pinyin": "céng",
+    "explanation": "Noun/Measure Word. Layer; story (of a building); floor; stratum. E.g., (Story/Floor) 我家住在三层 (Wǒ jiā zhù zài sān céng - My home is on the third floor). (Layer) 一层灰 (yī céng huī - a layer of dust)."
+  },
+  "差": {
+    "pinyin": "chà",
+    "explanation": "Adjective/Verb. To differ from; short of; lacking; poor; inferior; wrong. (Adj) Not good enough. (Verb) To be less than. E.g., (Adj) 他的成绩很差 (Tā de chéngjì hěn chà - His grades are very poor). (Verb) 现在差十分钟三点 (Xiànzài chà shí fēnzhōng sān diǎn - It's ten minutes to three now)."
+  },
+  "超市": {
+    "pinyin": "chāoshì",
+    "explanation": "Noun. Supermarket. A large self-service shop selling groceries and household goods. (Short for 超级市场 chāojí shìchǎng). E.g., 我去超市买东西 (Wǒ qù chāoshì mǎi dōngxi - I'm going to the supermarket to buy things).<br><strong>Component Breakdown:</strong><br>超 (chāo): to exceed, to surpass, super-.<br>市 (shì): market, city."
+  },
+  "衬衫": {
+    "pinyin": "chènshān",
+    "explanation": "Noun. Shirt; blouse. A garment for the upper body made of cotton or a similar fabric, with a collar and sleeves, and buttons down the front. E.g., 我今天穿了一件白衬衫 (Wǒ jīntiān chuān le yī jiàn bái chènshān - I wore a white shirt today).<br><strong>Component Breakdown:</strong><br>衬 (chèn): lining, to line, inner garment.<br>衫 (shān): shirt, unlined upper garment."
+  },
+  "成绩": {
+    "pinyin": "chéngjì",
+    "explanation": "Noun. Achievement; result (of work or study); score; grade. The result of an examination or competition. E.g., 他这次考试成绩很好 (Tā zhè cì kǎoshì chéngjì hěn hǎo - His score in this exam is very good).<br><strong>Component Breakdown:</strong><br>成 (chéng): to succeed, to complete, result.<br>绩 (jì): achievement, result, merit."
+  },
+  "城市": {
+    "pinyin": "chéngshì",
+    "explanation": "Noun. City; town. A large and densely populated urban area. E.g., 北京是一个大城市 (Běijīng shì yī ge dà chéngshì - Beijing is a big city).<br><strong>Component Breakdown:</strong><br>城 (chéng): city, town, wall.<br>市 (shì): market, city."
+  },
+  "迟到": {
+    "pinyin": "chídào",
+    "explanation": "Verb. To be late; to arrive late. To arrive after the expected, scheduled, or usual time. E.g., 对不起，我迟到了 (Duìbuqǐ, wǒ chídào le - I'm sorry, I'm late).<br><strong>Component Breakdown:</strong><br>迟 (chí): late, delayed, slow.<br>到 (dào): to arrive, to reach."
+  },
+  "除了": {
+    "pinyin": "chúle",
+    "explanation": "Preposition. Besides; apart from (... also...); except (for); in addition to. Used to indicate exclusion or inclusion. E.g., (Exclusion) 除了他，我们都去了 (Chúle tā, wǒmen dōu qù le - Except for him, we all went). (Inclusion) 除了唱歌，他还喜欢跳舞 (Chúle chànggē, tā hái xǐhuān tiàowǔ - Besides singing, he also likes dancing)."
+  },
+  "船": {
+    "pinyin": "chuán",
+    "explanation": "Noun. Boat; ship. A vessel for travel on water. E.g., 我们坐船去那个岛 (Wǒmen zuò chuán qù nàge dǎo - We are taking a boat to that island)."
+  },
+  "春": {
+    "pinyin": "chūn",
+    "explanation": "Noun. Spring (season). The season after winter and before summer, in which vegetation begins to appear. E.g.,春天来了，花儿都开了 (Chūntiān lái le, huār dōu kāi le - Spring has come, and the flowers are all blooming)."
+  },
+  "词典": {
+    "pinyin": "cídiǎn",
+    "explanation": "Noun. Dictionary. A book or electronic resource that lists the words of a language (typically in alphabetical order) and gives their meaning. E.g., 我有一本汉英词典 (Wǒ yǒu yī běn Hàn-Yīng cídiǎn - I have a Chinese-English dictionary).<br><strong>Component Breakdown:</strong><br>词 (cí): word, term, phrase.<br>典 (diǎn): canon, standard, dictionary, classic."
+  },
+  "聪明": {
+    "pinyin": "cōngming",
+    "explanation": "Adjective. Intelligent; clever; bright; smart. Having or showing quick intelligence or ready mental capacity. E.g., 这个孩子很聪明 (Zhège háizi hěn cōngming - This child is very intelligent).<br><strong>Component Breakdown:</strong><br>聪 (cōng): intelligent, clever, acute (of hearing).<br>明 (míng): bright, clear, intelligent, to understand."
+  },
+  "打扫": {
+    "pinyin": "dǎsǎo",
+    "explanation": "Verb. To clean; to sweep. To remove dirt from (a place or thing) by sweeping, wiping, or brushing. E.g., 我每个周末都打扫房间 (Wǒ měi ge zhōumò dōu dǎsǎo fángjiān - I clean the room every weekend).<br><strong>Component Breakdown:</strong><br>打 (dǎ): to hit, to strike (here used as a prefix for certain actions).<br>扫 (sǎo): to sweep, to clean."
+  },
+  "打算": {
+    "pinyin": "dǎsuàn",
+    "explanation": "Verb/Noun. To plan; to intend; plan; intention. To have in mind as a purpose. E.g., (Verb) 我打算明天去看电影 (Wǒ dǎsuàn míngtiān qù kàn diànyǐng - I plan to watch a movie tomorrow). (Noun) 你有什么打算？ (Nǐ yǒu shénme dǎsuàn? - What are your plans?).<br><strong>Component Breakdown:</strong><br>打 (dǎ): to make (a plan), to calculate.<br>算 (suàn): to calculate, to count, to plan, to consider."
+  },
+  "带": {
+    "pinyin": "dài",
+    "explanation": "Verb. To take; to bring; to carry; to look after; belt; band. To have something with you when you go somewhere. E.g., (To bring/take) 请带上你的书 (Qǐng dài shàng nǐ de shū - Please bring your book). (To look after) 他在带孩子 (Tā zài dài háizi - He is looking after the child). (Noun) 皮带 (pídài - leather belt)."
+  },
+  "担心": {
+    "pinyin": "dānxīn",
+    "explanation": "Verb. To worry; to feel anxious. To feel uneasy or troubled about something. E.g., 别担心，我会帮你的 (Bié dānxīn, wǒ huì bāng nǐ de - Don't worry, I will help you).<br><strong>Component Breakdown:</strong><br>担 (dān): to carry (a burden), to bear, to undertake.<br>心 (xīn): heart, mind, feeling."
+  },
+  "蛋糕": {
+    "pinyin": "dàngāo",
+    "explanation": "Noun. Cake. A sweet baked food made from a mixture of flour, sugar, eggs, fat, etc. E.g., 我喜欢吃巧克力蛋糕 (Wǒ xǐhuān chī qiǎokèlì dàngāo - I like to eat chocolate cake).<br><strong>Component Breakdown:</strong><br>蛋 (dàn): egg.<br>糕 (gāo): cake, pastry."
+  },
+  "当然": {
+    "pinyin": "dāngrán",
+    "explanation": "Adverb. Of course; certainly; without doubt. As is to be expected; naturally. E.g., A: 你能帮我吗？ B: 当然可以！ (A: Nǐ néng bāng wǒ ma? B: Dāngrán kěyǐ! - A: Can you help me? B: Of course!).<br><strong>Component Breakdown:</strong><br>当 (dāng): should, ought to, when, proper.<br>然 (rán): so, thus, like this, -ly (adverbial suffix), correct."
+  },
+  "灯": {
+    "pinyin": "dēng",
+    "explanation": "Noun. Lamp; light; lantern. A device for giving light. E.g., 请开灯 (Qǐng kāi dēng - Please turn on the light)."
+  },
+  "地": {
+    "pinyin": "de",
+    "explanation": "Particle. (structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct). Similar to -ly in English. E.g., 他高兴地笑了 (Tā gāoxìng de xiào le - He laughed happily). (Also dì - ground, earth)."
+  },
+  "地方": {
+    "pinyin": "dìfang",
+    "explanation": "Noun. Place; space; room; part; local. A particular position or point in space. E.g., 这是一个美丽的地方 (Zhè shì yī ge měilì de dìfang - This is a beautiful place).<br><strong>Component Breakdown:</strong><br>地 (dì): earth, ground, land, place.<br>方 (fāng): square, direction, side, place, region."
+  },
+  "地铁": {
+    "pinyin": "dìtiě",
+    "explanation": "Noun. Subway; metro; underground railway. An underground electric railway. E.g., 我坐地铁上班 (Wǒ zuò dìtiě shàngbān - I take the subway to work).<br><strong>Component Breakdown:</strong><br>地 (dì): earth, ground (implying underground).<br>铁 (tiě): iron, railway (short for 铁路 tiělù)."
+  },
+  "地图": {
+    "pinyin": "dìtú",
+    "explanation": "Noun. Map. A diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc. E.g., 我需要一张中国地图 (Wǒ xūyào yī zhāng Zhōngguó dìtú - I need a map of China).<br><strong>Component Breakdown:</strong><br>地 (dì): earth, ground, land.<br>图 (tú): picture, drawing, map, chart."
+  },
+  "电梯": {
+    "pinyin": "diàntī",
+    "explanation": "Noun. Elevator; lift. A platform or compartment housed in a shaft for raising and lowering people or things to different levels. E.g., 我们坐电梯上楼吧 (Wǒmen zuò diàntī shànglóu ba - Let's take the elevator upstairs).<br><strong>Component Breakdown:</strong><br>电 (diàn): electricity, electric.<br>梯 (tī): ladder, stairs, escalator."
+  },
+  "电子邮件": {
+    "pinyin": "diànzǐ yóujiàn",
+    "explanation": "Noun. Email; electronic mail. Messages distributed by electronic means from one computer user to one or more recipients via a network. E.g., 请把文件通过电子邮件发给我 (Qǐng bǎ wénjiàn tōngguò diànzǐ yóujiàn fā gěi wǒ - Please send the document to me via email).<br><strong>Component Breakdown:</strong><br>电 (diàn): electric.<br>子 (zǐ): child, son (here, as in 电子 diànzǐ - electronic).<br>邮 (yóu): post, mail.<br>件 (jiàn): item, letter, document."
+  },
+  "东": {
+    "pinyin": "dōng",
+    "explanation": "Noun. East. The direction from which the sun rises. E.g., 太阳从东边升起 (Tàiyáng cóng dōngbian shēngqǐ - The sun rises from the east)."
+  },
+  "冬": {
+    "pinyin": "dōng",
+    "explanation": "Noun. Winter. The coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August. E.g., 我喜欢冬天，因为可以看雪 (Wǒ xǐhuān dōngtiān, yīnwèi kěyǐ kàn xuě - I like winter because I can see snow)."
+  },
+  "动物": {
+    "pinyin": "dòngwù",
+    "explanation": "Noun. Animal. A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli. E.g., 我喜欢小动物 (Wǒ xǐhuān xiǎo dòngwù - I like small animals).<br><strong>Component Breakdown:</strong><br>动 (dòng): to move, to act.<br>物 (wù): thing, object, matter, creature."
+  },
+  "短": {
+    "pinyin": "duǎn",
+    "explanation": "Adjective. Short (in length, duration, height); brief; lacking. Measuring a small distance from end to end or from top to bottom. E.g., 这条裤子太短了 (Zhè tiáo kùzi tài duǎn le - These pants are too short)."
+  },
+  "段": {
+    "pinyin": "duàn",
+    "explanation": "Measure Word/Noun. Section; segment; part; paragraph; period (of time). E.g., (Section) 这篇文章有三段 (Zhè piān wénzhāng yǒu sān duàn - This article has three paragraphs). (Period of time) 一段时间 (yī duàn shíjiān - a period of time)."
+  },
+  "锻炼": {
+    "pinyin": "duànliàn",
+    "explanation": "Verb. To exercise; to work out; to undergo physical training. To engage in physical activity to sustain or improve health and fitness. E.g., 我每天都去公园锻炼身体 (Wǒ měitiān dōu qù gōngyuán duànliàn shēntǐ - I go to the park to exercise every day).<br><strong>Component Breakdown:</strong><br>锻 (duàn): to forge, to discipline, to train.<br>炼 (liàn): to refine, to smelt, to train, to temper."
+  },
+  "多么": {
+    "pinyin": "duōme",
+    "explanation": "Adverb. How (wonderful, etc.); what (a great idea, etc.). Used in exclamations to express a high degree, similar to 'how' or 'what a...'. E.g., 这朵花多么漂亮啊！ (Zhè duǒ huā duōme piàoliang a! - How beautiful this flower is!)."
+  },
+  "饿": {
+    "pinyin": "è",
+    "explanation": "Adjective. Hungry. Feeling or displaying the need for food. E.g., 我饿了，想吃东西 (Wǒ è le, xiǎng chī dōngxi - I'm hungry, I want to eat something)."
+  },
+  "耳朵": {
+    "pinyin": "ěrduo",
+    "explanation": "Noun. Ear. The organ of hearing and balance in humans and other vertebrates. E.g., 小狗的耳朵很可爱 (Xiǎo gǒu de ěrduo hěn kě'ài - The puppy's ears are very cute).<br><strong>Component Breakdown:</strong><br>耳 (ěr): ear.<br>朵 (duo): (noun suffix for ears, flowers, clouds)."
+  },
+  "发": {
+    "pinyin": "fā",
+    "explanation": "Verb. To send out; to issue; to develop; to discover; to feel; to become; (hair - fà). E.g., (Send) 我给他发了一个邮件 (Wǒ gěi tā fā le yī ge yóujiàn - I sent him an email). (Develop) 发生 (fāshēng - to happen). (Feel) 发烧 (fāshāo - to have a fever). (Hair - fà) 头发 (tóufa - hair)."
+  },
+  "发烧": {
+    "pinyin": "fāshāo",
+    "explanation": "Verb. To have a fever; to have a high temperature. To have an abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium. E.g., 我好像发烧了 (Wǒ hǎoxiàng fāshāo le - I seem to have a fever).<br><strong>Component Breakdown:</strong><br>发 (fā): to send out, to develop, to feel.<br>烧 (shāo): to burn, to heat, to cook, fever."
+  },
+  "发现": {
+    "pinyin": "fāxiàn",
+    "explanation": "Verb/Noun. To discover; to find; discovery. To become aware of (something) by observation or investigation. E.g., (Verb) 我发现了一个秘密 (Wǒ fāxiàn le yī ge mìmì - I discovered a secret). (Noun) 这是一个重要的发现 (Zhè shì yī ge zhòngyào de fāxiàn - This is an important discovery).<br><strong>Component Breakdown:</strong><br>发 (fā): to send out, to issue, to discover.<br>现 (xiàn): to appear, present, current, to realize."
+  },
+  "方便": {
+    "pinyin": "fāngbiàn",
+    "explanation": "Adjective/Verb. Convenient; to make convenient; to go to the toilet. Fitting in well with a person's needs, activities, and plans; not causing trouble or difficulty. E.g., (Adj) 这里的交通很方便 (Zhèli de jiāotōng hěn fāngbiàn - The transportation here is very convenient). (Verb - to go to toilet) 我要去方便一下 (Wǒ yào qù fāngbiàn yīxià - I need to go to the toilet)."
+  },
+  "放": {
+    "pinyin": "fàng",
+    "explanation": "Verb. To put; to place; to let go; to release; to set off (fireworks, etc.). To move to or place in a particular position. E.g., 请把书放在桌子上 (Qǐng bǎ shū fàng zài zhuōzi shàng - Please put the book on the table). 放学 (fàngxué - to finish school for the day)."
+  },
+  "放心": {
+    "pinyin": "fàngxīn",
+    "explanation": "Verb. To set one's mind at rest; to be at ease; to rest assured. To stop worrying. E.g., 你放心吧，我会照顾好自己的 (Nǐ fàngxīn ba, wǒ huì zhàogù hǎo zìjǐ de - Rest assured, I will take good care of myself).<br><strong>Component Breakdown:</strong><br>放 (fàng): to put, to release, to let go.<br>心 (xīn): heart, mind."
+  },
+  "分": {
+    "pinyin": "fēn",
+    "explanation": "Noun/Verb/Measure Word. Minute (of time); point (in a game, test, etc.); cent (one hundredth of a yuan); to divide; to separate; to distinguish. E.g., (Minute) 等我五分钟 (Děng wǒ wǔ fēnzhōng - Wait for me for five minutes). (Point) 这道题十分 (Zhè dào tí shí fēn - This question is worth ten points). (To divide) 我们把蛋糕分成两块 (Wǒmen bǎ dàngāo fēnchéng liǎng kuài - We divide the cake into two pieces)."
+  },
+  "附近": {
+    "pinyin": "fùjìn",
+    "explanation": "Noun/Position word. Nearby; in the vicinity; neighborhood. The area near or surrounding a particular place. E.g., 学校附近有很多商店 (Xuéxiào fùjìn yǒu hěn duō shāngdiàn - There are many shops near the school).<br><strong>Component Breakdown:</strong><br>附 (fù): to attach, to be near, to adjoin.<br>近 (jìn): near, close to."
+  },
+  "复习": {
+    "pinyin": "fùxí",
+    "explanation": "Verb. To review; to revise. To go over lessons or notes in preparation for an exam. E.g., 考试前要好好复习 (Kǎoshì qián yào hǎohao fùxí - One must review well before the exam).<br><strong>Component Breakdown:</strong><br>复 (fù): to repeat, to go over again, to recover.<br>习 (xí): to practice, to study, to review, habit."
+  },
+  "干净": {
+    "pinyin": "gānjìng",
+    "explanation": "Adjective. Clean; neat; tidy. Free from dirt, marks, or stains. E.g., 他的房间很干净 (Tā de fángjiān hěn gānjìng - His room is very clean).<br><strong>Component Breakdown:</strong><br>干 (gān): dry, clean (in this context).<br>净 (jìng): clean, net (weight)."
+  },
+  "感冒": {
+    "pinyin": "gǎnmào",
+    "explanation": "Verb/Noun. To catch a cold; common cold. A common viral infection of the nose and throat. E.g., (Verb) 我感冒了 (Wǒ gǎnmào le - I have caught a cold). (Noun) 他得了重感冒 (Tā dé le zhòng gǎnmào - He has a severe cold).<br><strong>Component Breakdown:</strong><br>感 (gǎn): to feel, to sense, to be affected by.<br>冒 (mào): to emit, to brave, to risk, to cover."
+  },
+  "感兴趣": {
+    "pinyin": "gǎn xìngqù",
+    "explanation": "Verb phrase. To be interested in. To have a feeling of wanting to know or learn about something or someone. Usually '对...感兴趣' (duì...gǎn xìngqù - to be interested in...). E.g., 我对中国历史很感兴趣 (Wǒ duì Zhōngguó lìshǐ hěn gǎn xìngqù - I am very interested in Chinese history).<br><strong>Component Breakdown:</strong><br>感 (gǎn): to feel, to sense.<br>兴 (xìng): interest, mood, excitement.<br>趣 (qù): interest, fun."
+  },
+  "刚才": {
+    "pinyin": "gāngcái",
+    "explanation": "Noun/Adverb. Just now; a moment ago. A very short time before the present. E.g., 他刚才出去了 (Tā gāngcái chūqù le - He just went out a moment ago).<br><strong>Component Breakdown:</strong><br>刚 (gāng): just, only a short while ago.<br>才 (cái): just now, only then (here as part of the time word)."
+  },
+  "个子": {
+    "pinyin": "gèzi",
+    "explanation": "Noun. Height; stature; build. The natural height of a person or animal in an upright position. E.g., 他的个子很高 (Tā de gèzi hěn gāo - His height is very tall / He is very tall).<br><strong>Component Breakdown:</strong><br>个 (gè): individual, (measure word).<br>子 (zi): (noun suffix)."
+  },
+  "根据": {
+    "pinyin": "gēnjù",
+    "explanation": "Preposition/Noun. According to; based on; basis; grounds. In accordance with; the foundation or evidence for something. E.g., (Prep) 根据天气预报，明天会下雨 (Gēnjù tiānqì yùbào, míngtiān huì xiàyǔ - According to the weather forecast, it will rain tomorrow). (Noun) 你这样说的根据是什么？ (Nǐ zhèyàng shuō de gēnjù shì shénme? - What is the basis for you saying that?).<br><strong>Component Breakdown:</strong><br>根 (gēn): root, basis, foundation.<br>据 (jù): according to, based on, evidence."
+  },
+  "跟": {
+    "pinyin": "gēn",
+    "explanation": "Preposition/Verb/Conjunction. With; to follow; and. (Prep) In the company of. (Verb) To go after. (Conj) And (similar to 和 hé, more common in spoken language). E.g., (Prep) 我跟他一起去 (Wǒ gēn tā yīqǐ qù - I go with him). (Verb) 你跟着我 (Nǐ gēnzhe wǒ - You follow me). (Conj) 我跟你都是学生 (Wǒ gēn nǐ dōu shì xuésheng - You and I are both students)."
+  },
+  "更": {
+    "pinyin": "gèng",
+    "explanation": "Adverb. More; even more; further. To a greater extent. E.g., 他比我更高 (Tā bǐ wǒ gèng gāo - He is even taller than me)."
+  },
+  "公斤": {
+    "pinyin": "gōngjīn",
+    "explanation": "Measure Word/Noun. Kilogram (kg). The SI unit of mass. E.g., 这个西瓜有五公斤重 (Zhège xīguā yǒu wǔ gōngjīn zhòng - This watermelon weighs five kilograms).<br><strong>Component Breakdown:</strong><br>公 (gōng): public, common, metric (as in 公里 gōnglǐ - kilometer).<br>斤 (jīn): jin (Chinese unit of weight, approx. 0.5 kg)."
+  },
+  "公园": {
+    "pinyin": "gōngyuán",
+    "explanation": "Noun. Park (public). A large public garden or area of land used for recreation. E.g., 我喜欢去公园散步 (Wǒ xǐhuān qù gōngyuán sànbù - I like to go for a walk in the park).<br><strong>Component Breakdown:</strong><br>公 (gōng): public, common.<br>园 (yuán): garden, park, orchard."
+  },
+  "故事": {
+    "pinyin": "gùshi",
+    "explanation": "Noun. Story; tale. An account of imaginary or real people and events told for entertainment. E.g., 我喜欢听故事 (Wǒ xǐhuān tīng gùshi - I like to listen to stories).<br><strong>Component Breakdown:</strong><br>故 (gù): past, event, incident, reason.<br>事 (shì): matter, affair, thing, event, story."
+  },
+  "刮风": {
+    "pinyin": "guāfēng",
+    "explanation": "Verb. To be windy; (of wind) to blow. When the wind blows. E.g., 今天刮大风了 (Jīntiān guā dàfēng le - It's very windy today).<br><strong>Component Breakdown:</strong><br>刮 (guā): to blow (wind), to scrape, to shave.<br>风 (fēng): wind."
+  },
+  "关": {
+    "pinyin": "guān",
+    "explanation": "Verb. To close; to shut; to turn off; to concern; to involve. E.g., 请关门 (Qǐng guān mén - Please close the door). 关灯 (guāndēng - to turn off the light). 这件事跟我没关系 (Zhè jiàn shì gēn wǒ méi guānxi - This matter has nothing to do with me)."
+  },
+  "关系": {
+    "pinyin": "guānxi",
+    "explanation": "Noun. Relation; relationship; connection; relevance. The way in which two or more people or things are connected. E.g., 我和他关系很好 (Wǒ hé tā guānxi hěn hǎo - I have a good relationship with him). 这件事和你有什么关系？ (Zhè jiàn shì hé nǐ yǒu shénme guānxi? - What does this matter have to do with you?).<br><strong>Component Breakdown:</strong><br>关 (guān): to concern, relation, to close.<br>系 (xì): to connect, to tie, system, department, relation."
+  },
+  "关心": {
+    "pinyin": "guānxīn",
+    "explanation": "Verb/Noun. To care for; to be concerned about; concern. To show interest in and worry about someone or something. E.g., (Verb) 妈妈很关心我的学习 (Māma hěn guānxīn wǒ de xuéxí - Mom is very concerned about my studies). (Noun) 谢谢你的关心 (Xièxie nǐ de guānxīn - Thank you for your concern).<br><strong>Component Breakdown:</strong><br>关 (guān): to concern, relation.<br>心 (xīn): heart, mind, feeling."
+  },
+  "关于": {
+    "pinyin": "guānyú",
+    "explanation": "Preposition. About; concerning; regarding; with regard to. On the subject of; in connection with. E.g., 关于这个问题，我们明天再讨论 (Guānyú zhège wèntí, wǒmen míngtiān zài tǎolùn - Regarding this issue, we will discuss it again tomorrow).<br><strong>Component Breakdown:</strong><br>关 (guān): to concern, related to.<br>于 (yú): in, at, to, from, out of, than, concerning."
+  },
+  "国家": {
+    "pinyin": "guójiā",
+    "explanation": "Noun. Country; nation; state. A nation with its own government, occupying a particular territory. E.g., 中国是一个美丽的国家 (Zhōngguó shì yī ge měilì de guójiā - China is a beautiful country).<br><strong>Component Breakdown:</strong><br>国 (guó): country, nation, state.<br>家 (jiā): family, home (here, implies the 'state' as a larger entity)."
+  },
+  "果汁": {
+    "pinyin": "guǒzhī",
+    "explanation": "Noun. Fruit juice. The liquid obtained from fruit. E.g., 我想喝一杯苹果汁 (Wǒ xiǎng hē yī bēi píngguǒ zhī - I want to drink a glass of apple juice). (苹果汁 is a type of 果汁).<br><strong>Component Breakdown:</strong><br>果 (guǒ): fruit, result.<br>汁 (zhī): juice, liquid."
+  },
+  "过去": {
+    "pinyin": "guòqù",
+    "explanation": "Noun/Verb. Past; former times; to go over; to pass by. The time before the moment of speaking or writing. E.g., (Noun) 过去的事情就不要再提了 (Guòqù de shìqing jiù bú yào zài tí le - Don't mention past matters anymore). (Verb) 他从我身边走过去 (Tā cóng wǒ shēnbiān zǒu guòqù - He walked past me).<br><strong>Component Breakdown:</strong><br>过 (guò): to pass, to cross, to go through.<br>去 (qù): to go, to leave (here indicates direction away or past time)."
+  },
+  "还是": {
+    "pinyin": "háishi",
+    "explanation": "Adverb/Conjunction. Or (in a question); still; nevertheless; had better. (Or) Used in questions offering a choice. (Still) Indicates continuation. E.g., (Or) 你喝茶还是喝咖啡？ (Nǐ hē chá háishi hē kāfēi? - Do you drink tea or coffee?). (Still) 我还是觉得有点冷 (Wǒ háishi juéde yǒudiǎn lěng - I still feel a bit cold). (Had better) 我们还是早点走吧 (Wǒmen háishi zǎodiǎn zǒu ba - We had better leave early)."
+  },
+  "害怕": {
+    "pinyin": "hàipà",
+    "explanation": "Verb. To be afraid; to fear; to dread. To feel an unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat. E.g., 我害怕黑 (Wǒ hàipà hēi - I am afraid of the dark).<br><strong>Component Breakdown:</strong><br>害 (hài): to harm, to cause trouble (here implying a sense of being vulnerable to harm).<br>怕 (pà): to fear, to be afraid of."
+  },
+  "黑板": {
+    "pinyin": "hēibǎn",
+    "explanation": "Noun. Blackboard. A large board with a smooth, typically dark, surface, used for writing on with chalk in a classroom. E.g., 老师在黑板上写字 (Lǎoshī zài hēibǎn shàng xiězì - The teacher is writing on the blackboard).<br><strong>Component Breakdown:</strong><br>黑 (hēi): black, dark.<br>板 (bǎn): board, plank, panel."
+  },
+  "后来": {
+    "pinyin": "hòulái",
+    "explanation": "Noun/Adverb. Afterwards; later. At a time in the future, or after the time you have mentioned (referring to past events). E.g., 我们先吃饭，后来去看电影 (Wǒmen xiān chīfàn, hòulái qù kàn diànyǐng - We ate first, and later went to watch a movie).<br><strong>Component Breakdown:</strong><br>后 (hòu): after, behind, later.<br>来 (lái): to come, to arrive (here indicates sequence in time)."
+  },
+  "护照": {
+    "pinyin": "hùzhào",
+    "explanation": "Noun. Passport. An official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries. E.g., 出国需要护照 (Chūguó xūyào hùzhào - A passport is needed to go abroad).<br><strong>Component Breakdown:</strong><br>护 (hù): to protect, to guard.<br>照 (zhào): license, permit, to illuminate, according to."
+  },
+  "花": {
+    "pinyin": "huā",
+    "explanation": "Noun/Verb. Flower; to spend (money, time); fancy; pattern. E.g., (Noun) 这朵花很漂亮 (Zhè duǒ huā hěn piàoliang - This flower is very beautiful). (Verb) 我花了很多钱 (Wǒ huā le hěn duō qián - I spent a lot of money)."
+  },
+  "花园": {
+    "pinyin": "huāyuán",
+    "explanation": "Noun. Garden. A piece of ground, often near a house, used for growing flowers, fruit, or vegetables. E.g., 我家后面有一个小花园 (Wǒ jiā hòumiàn yǒu yī ge xiǎo huāyuán - There is a small garden behind my house).<br><strong>Component Breakdown:</strong><br>花 (huā): flower.<br>园 (yuán): garden, park, orchard."
+  },
+  "画": {
+    "pinyin": "huà",
+    "explanation": "Verb/Noun. To draw; to paint; picture; painting. To produce a picture or diagram by making lines and marks on a surface with a pen, pencil, or paintbrush. E.g., (Verb) 我喜欢画画 (Wǒ xǐhuān huàhuà - I like to draw). (Noun) 这是一幅美丽的画 (Zhè shì yī fú měilì de huà - This is a beautiful painting)."
+  },
+  "坏": {
+    "pinyin": "huài",
+    "explanation": "Adjective/Verb. Bad; broken; spoiled; to go bad; to spoil. Of a poor quality or low standard; no longer working. E.g., (Adj) 这个苹果坏了 (Zhège píngguǒ huài le - This apple is spoiled). (Adj) 他是个坏人 (Tā shì ge huàirén - He is a bad person). (Verb) 我的手表坏了 (Wǒ de shǒubiǎo huài le - My watch is broken)."
+  },
+  "还": {
+    "pinyin": "huán",
+    "explanation": "Verb. To return; to give back; to pay back. To give, put, or send (something) back to its previous owner or place. E.g., 请把书还给我 (Qǐng bǎ shū huán gěi wǒ - Please return the book to me). (Also hái - still, also)."
+  },
+  "环境": {
+    "pinyin": "huánjìng",
+    "explanation": "Noun. Environment; surroundings; circumstances. The conditions that affect the behaviour and development of someone or something; the natural world. E.g., 我们要保护环境 (Wǒmen yào bǎohù huánjìng - We should protect the environment).<br><strong>Component Breakdown:</strong><br>环 (huán): ring, to surround, to encircle.<br>境 (jìng): border, boundary, territory, circumstances, environment."
+  },
+  "换": {
+    "pinyin": "huàn",
+    "explanation": "Verb. To change; to exchange; to switch. To take something and use or have something else instead. E.g., 我想换一件衣服 (Wǒ xiǎng huàn yī jiàn yīfu - I want to change my clothes). 我想换人民币 (Wǒ xiǎng huàn Rénmínbì - I want to exchange for RMB)."
+  },
+  "黄": {
+    "pinyin": "huáng",
+    "explanation": "Adjective. Yellow. The color between green and orange in the spectrum, a primary subtractive color. E.g., 我喜欢黄色的花 (Wǒ xǐhuān huángsè de huā - I like yellow flowers)."
+  },
+  "会议": {
+    "pinyin": "huìyì",
+    "explanation": "Noun. Meeting; conference. An assembly of people, especially the members of a society or committee, for discussion or entertainment. E.g., 我要去参加一个会议 (Wǒ yào qù cānjiā yī ge huìyì - I am going to attend a meeting).<br><strong>Component Breakdown:</strong><br>会 (huì): to meet, meeting, association, can.<br>议 (yì): to discuss, to consult, opinion, proposal, meeting."
+  },
+  "或者": {
+    "pinyin": "huòzhě",
+    "explanation": "Conjunction. Or (used in statements, not questions); perhaps; maybe. Used to link alternatives. E.g., 你可以喝茶或者咖啡 (Nǐ kěyǐ hē chá huòzhě kāfēi - You can drink tea or coffee).<br><strong>Component Breakdown:</strong><br>或 (huò): or, perhaps, maybe.<br>者 (zhě): (particle indicating a person or thing), -er, -ist."
+  },
+  "几乎": {
+    "pinyin": "jīhū",
+    "explanation": "Adverb. Almost; nearly; practically. Not completely or all the way but very close. E.g., 我几乎忘了这件事 (Wǒ jīhū wàng le zhè jiàn shì - I almost forgot about this matter).<br><strong>Component Breakdown:</strong><br>几 (jī): how many, a few, almost (in this context).<br>乎 (hū): (particle indicating uncertainty or approximation)."
+  },
+  "机会": {
+    "pinyin": "jīhuì",
+    "explanation": "Noun. Opportunity; chance. A set of circumstances that makes it possible to do something. E.g., 这是一个好机会 (Zhè shì yī ge hǎo jīhuì - This is a good opportunity).<br><strong>Component Breakdown:</strong><br>机 (jī): machine, opportunity, critical moment.<br>会 (huì): to meet, meeting, can, (here, an opportune meeting/moment)."
+  },
+  "极": {
+    "pinyin": "jí",
+    "explanation": "Adverb/Adjective. Extremely; pole (geography, physics); utmost; top. To a very high degree. Often used in '...极了' (...jí le) construction. E.g., 好极了！ (Hǎo jí le! - Excellent! / Extremely good!)."
+  },
+  "记得": {
+    "pinyin": "jìde",
+    "explanation": "Verb. To remember; to recall. To have in or be able to bring to one's mind an awareness of (someone or something that one has seen, known, or experienced in the past). E.g., 我不记得他的名字了 (Wǒ bú jìde tā de míngzi le - I don't remember his name anymore).<br><strong>Component Breakdown:</strong><br>记 (jì): to record, to remember, mark.<br>得 (de): (particle indicating attainment or result)."
+  },
+  "季节": {
+    "pinyin": "jìjié",
+    "explanation": "Noun. Season. Each of the four divisions of the year (spring, summer, autumn, and winter) marked by particular weather patterns and daylight hours. E.g., 你最喜欢哪个季节？ (Nǐ zuì xǐhuān nǎge jìjié? - Which season do you like the most?).<br><strong>Component Breakdown:</strong><br>季 (jì): season, period.<br>节 (jié): festival, holiday, joint, section, period."
+  },
+  "检查": {
+    "pinyin": "jiǎnchá",
+    "explanation": "Verb/Noun. To check; to inspect; to examine; examination. To look at (something) carefully in order to discover something or to make sure that it is correct. E.g., (Verb) 医生给我检查了身体 (Yīshēng gěi wǒ jiǎnchá le shēntǐ - The doctor examined my body). (Noun) 请做一次全面检查 (Qǐng zuò yī cì quánmiàn jiǎnchá - Please have a comprehensive check-up).<br><strong>Component Breakdown:</strong><br>检 (jiǎn): to check, to examine, to inspect.<br>查 (chá): to check, to investigate, to examine."
+  },
+  "简单": {
+    "pinyin": "jiǎndān",
+    "explanation": "Adjective. Simple; easy; uncomplicated. Easily understood or done; presenting no difficulty. E.g., 这个问题很简单 (Zhège wèntí hěn jiǎndān - This question is very simple).<br><strong>Component Breakdown:</strong><br>简 (jiǎn): simple, brief, to simplify.<br>单 (dān): single, list, bill, simple."
+  },
+  "见面": {
+    "pinyin": "jiànmiàn",
+    "explanation": "Verb. To meet; to see (sb). To come into the presence or company of (someone) by chance or arrangement. E.g., 我们明天下午三点见面吧 (Wǒmen míngtiān xiàwǔ sān diǎn jiànmiàn ba - Let's meet at 3 p.m. tomorrow).<br><strong>Component Breakdown:</strong><br>见 (jiàn): to see, to meet.<br>面 (miàn): face, surface, side, to meet."
+  },
+  "健康": {
+    "pinyin": "jiànkāng",
+    "explanation": "Noun/Adjective. Health; healthy. The state of being free from illness or injury. E.g., (Noun) 健康很重要 (Jiànkāng hěn zhòngyào - Health is very important). (Adj) 他的身体很健康 (Tā de shēntǐ hěn jiànkāng - His body is very healthy).<br><strong>Component Breakdown:</strong><br>健 (jiàn): healthy, strong, robust.<br>康 (kāng): healthy, peaceful, abundant."
+  },
+  "讲": {
+    "pinyin": "jiǎng",
+    "explanation": "Verb. To speak; to say; to tell; to explain; to discuss; to stress. To utter words. E.g., 老师在讲课 (Lǎoshī zài jiǎngkè - The teacher is giving a lecture). 他给我讲了一个故事 (Tā gěi wǒ jiǎng le yī ge gùshi - He told me a story)."
+  },
+  "教": {
+    "pinyin": "jiāo",
+    "explanation": "Verb. To teach. To impart knowledge to or instruct (someone) as to how to do something. E.g., 他教我汉语 (Tā jiāo wǒ Hànyǔ - He teaches me Chinese). (Also jiào - religion)."
+  },
+  "脚": {
+    "pinyin": "jiǎo",
+    "explanation": "Noun. Foot. The part of the leg below the ankle, on which a person stands or walks. E.g., 我的脚受伤了 (Wǒ de jiǎo shòushāng le - My foot is injured)."
+  },
+  "角": {
+    "pinyin": "jiǎo",
+    "explanation": "Noun/Measure Word. Angle; corner; horn; (unit of money, 1/10 of a yuan, also called 毛 máo). E.g., (Corner) 桌子的角 (zhuōzi de jiǎo - the corner of the table). (Money) 五角钱 (wǔ jiǎo qián - five jiao / fifty cents)."
+  },
+  "接": {
+    "pinyin": "jiē",
+    "explanation": "Verb. To receive; to accept; to connect; to meet; to pick up (sb); to take over. E.g., (Receive) 我接到了他的电话 (Wǒ jiēdào le tā de diànhuà - I received his phone call). (Pick up) 我去机场接你 (Wǒ qù jīchǎng jiē nǐ - I'll go to the airport to pick you up)."
+  },
+  "街道": {
+    "pinyin": "jiēdào",
+    "explanation": "Noun. Street; avenue. A public road in a city or town, typically with houses and buildings on one or both sides. E.g., 这条街道很热闹 (Zhè tiáo jiēdào hěn rènao - This street is very bustling).<br><strong>Component Breakdown:</strong><br>街 (jiē): street.<br>道 (dào): road, path, way, principle."
+  },
+  "节目": {
+    "pinyin": "jiémù",
+    "explanation": "Noun. Program (TV, radio, etc.); item (on a program); performance. A planned series of radio or television programs, or a performance. E.g., 我喜欢看这个电视节目 (Wǒ xǐhuān kàn zhège diànshì jiémù - I like to watch this TV program).<br><strong>Component Breakdown:</strong><br>节 (jié): festival, holiday, joint, section, item.<br>目 (mù): eye, item, list, catalog."
+  },
+  "节日": {
+    "pinyin": "jiérì",
+    "explanation": "Noun. Festival; holiday. A day of festivity or recreation when no work is done. E.g., 春节是中国最重要的节日 (Chūnjié shì Zhōngguó zuì zhòngyào de jiérì - Spring Festival is the most important festival in China).<br><strong>Component Breakdown:</strong><br>节 (jié): festival, holiday, joint, section.<br>日 (rì): day, sun, date."
+  },
+  "结婚": {
+    "pinyin": "jiéhūn",
+    "explanation": "Verb. To marry; to get married. To become joined in marriage. E.g., 他们明年要结婚 (Tāmen míngnián yào jiéhūn - They are getting married next year).<br><strong>Component Breakdown:</strong><br>结 (jié): to tie, to knot, to form, to conclude.<br>婚 (hūn): marriage, to marry."
+  },
+  "结束": {
+    "pinyin": "jiéshù",
+    "explanation": "Verb/Noun. To end; to finish; to conclude; end; conclusion. To bring or come to an end. E.g., (Verb) 会议结束了 (Huìyì jiéshù le - The meeting has ended). (Noun) 电影的结束很感人 (Diànyǐng de jiéshù hěn gǎnrén - The end of the movie is very moving).<br><strong>Component Breakdown:</strong><br>结 (jié): to tie, to knot, to conclude, result.<br>束 (shù): to tie, to bind, to restrain, to conclude."
+  },
+  "解决": {
+    "pinyin": "jiějué",
+    "explanation": "Verb. To solve; to resolve; to settle (a dispute). To find an answer to, explanation for, or means of effectively dealing with (a problem or contentious matter). E.g., 我们需要解决这个问题 (Wǒmen xūyào jiějué zhège wèntí - We need to solve this problem).<br><strong>Component Breakdown:</strong><br>解 (jiě): to untie, to loosen, to solve, to explain.<br>决 (jué): to decide, to determine, certainly."
+  },
+  "借": {
+    "pinyin": "jiè",
+    "explanation": "Verb. To lend; to borrow. To grant to (someone) the use of (something) on the understanding that it shall be returned; to get or be given (something) from (someone) on the understanding that it must be returned. E.g., (Lend) 我可以借给你这本书 (Wǒ kěyǐ jiè gěi nǐ zhè běn shū - I can lend you this book). (Borrow) 我想向你借点钱 (Wǒ xiǎng xiàng nǐ jiè diǎn qián - I want to borrow some money from you)."
+  },
+  "经常": {
+    "pinyin": "jīngcháng",
+    "explanation": "Adverb. Often; frequently; regularly. On many occasions; at short intervals. E.g., 我经常去图书馆 (Wǒ jīngcháng qù túshūguǎn - I often go to the library).<br><strong>Component Breakdown:</strong><br>经 (jīng): to pass through, to experience, constant, regular.<br>常 (cháng): common, ordinary, normal, often, frequently."
+  },
+  "经过": {
+    "pinyin": "jīngguò",
+    "explanation": "Verb/Preposition. To pass; to go through; to undergo; as a result of; after; process. (Verb) To go past or across. (Prep) Indicates a process or means. E.g., (Verb) 我每天都经过这个公园 (Wǒ měitiān dōu jīngguò zhège gōngyuán - I pass by this park every day). (Prep) 经过努力，他成功了 (Jīngguò nǔlì, tā chénggōng le - After hard work, he succeeded).<br><strong>Component Breakdown:</strong><br>经 (jīng): to pass through, to experience, to undergo.<br>过 (guò): to pass, to cross, to go through."
+  },
+  "经理": {
+    "pinyin": "jīnglǐ",
+    "explanation": "Noun. Manager; director. A person responsible for controlling or administering an organization or group of staff. E.g., 他是这家公司的经理 (Tā shì zhè jiā gōngsī de jīnglǐ - He is the manager of this company).<br><strong>Component Breakdown:</strong><br>经 (jīng): to manage, to handle, to pass through.<br>理 (lǐ): reason, logic, to manage, to put in order."
+  },
+  "旧": {
+    "pinyin": "jiù",
+    "explanation": "Adjective. Old; past; used; worn. Having lived or existed for a long time; no longer new. E.g., 这是一件旧衣服 (Zhè shì yī jiàn jiù yīfu - This is an old piece of clothing)."
+  },
+  "句子": {
+    "pinyin": "jùzi",
+    "explanation": "Noun. Sentence. A set of words that is complete in itself, typically containing a subject and predicate. E.g., 请用这个词造一个句子 (Qǐng yòng zhège cí zào yī ge jùzi - Please make a sentence with this word).<br><strong>Component Breakdown:</strong><br>句 (jù): sentence, phrase, (measure word for sentences).<br>子 (zi): (noun suffix)."
+  },
+  "决定": {
+    "pinyin": "juédìng",
+    "explanation": "Verb/Noun. To decide; to determine; decision. To make a choice from a number of alternatives. E.g., (Verb) 我决定明天去北京 (Wǒ juédìng míngtiān qù Běijīng - I have decided to go to Beijing tomorrow). (Noun) 这是一个重要的决定 (Zhè shì yī ge zhòngyào de juédìng - This is an important decision).<br><strong>Component Breakdown:</strong><br>决 (jué): to decide, to determine, certainly.<br>定 (dìng): to fix, to set, to decide, certain."
+  },
+  "可爱": {
+    "pinyin": "kě'ài",
+    "explanation": "Adjective. Cute; lovely; adorable. Attractive in a pretty or endearing way. E.g., 这只小猫真可爱 (Zhè zhī xiǎo māo zhēn kě'ài - This little cat is really cute).<br><strong>Component Breakdown:</strong><br>可 (kě): can, may, able to, worthy of.<br>爱 (ài): to love, affection."
+  },
+  "渴": {
+    "pinyin": "kě",
+    "explanation": "Adjective. Thirsty. Feeling a need to drink. E.g., 我很渴，想喝水 (Wǒ hěn kě, xiǎng hē shuǐ - I'm very thirsty, I want to drink water)."
+  },
+  "刻": {
+    "pinyin": "kè",
+    "explanation": "Noun/Measure Word. Quarter (of an hour); moment; to carve; to engrave. A period of 15 minutes. E.g., 现在是三点一刻 (Xiànzài shì sān diǎn yī kè - It's a quarter past three now)."
+  },
+  "客人": {
+    "pinyin": "kèrén",
+    "explanation": "Noun. Guest; visitor; customer. A person invited to visit someone's home or attend a social occasion. E.g., 今天家里来了很多客人 (Jīntiān jiāli lái le hěn duō kèrén - Many guests came to our home today).<br><strong>Component Breakdown:</strong><br>客 (kè): guest, visitor, customer.<br>人 (rén): person, people."
+  },
+  "空调": {
+    "pinyin": "kōngtiáo",
+    "explanation": "Noun. Air conditioner; air conditioning. A system for controlling the humidity, ventilation, and temperature in a building or vehicle. E.g., 天气太热了，请开空调 (Tiānqì tài rè le, qǐng kāi kōngtiáo - The weather is too hot, please turn on the air conditioner).<br><strong>Component Breakdown:</strong><br>空 (kōng): air, sky, empty.<br>调 (tiáo): to adjust, to regulate, to tune, accent."
+  },
+  "口": {
+    "pinyin": "kǒu",
+    "explanation": "Noun/Measure Word. Mouth; opening; entrance; (for family members, bites, etc.). E.g., (Mouth) 张开口 (zhāng kāi kǒu - open your mouth). (M.W.) 我家有三口人 (Wǒ jiā yǒu sān kǒu rén - There are three people in my family)."
+  },
+  "哭": {
+    "pinyin": "kū",
+    "explanation": "Verb. To cry; to weep. To shed tears, typically as an expression of distress, pain, or sorrow. E.g., 小孩子哭了 (Xiǎo háizi kū le - The little child cried)."
+  },
+  "裤子": {
+    "pinyin": "kùzi",
+    "explanation": "Noun. Trousers; pants. An outer garment covering the body from the waist to the ankles, with a separate part for each leg. E.g., 我买了一条新裤子 (Wǒ mǎi le yī tiáo xīn kùzi - I bought a new pair of pants).<br><strong>Component Breakdown:</strong><br>裤 (kù): trousers, pants.<br>子 (zi): (noun suffix)."
+  },
+  "筷子": {
+    "pinyin": "kuàizi",
+    "explanation": "Noun. Chopsticks. A pair of small, thin, tapered sticks of wood, ivory, or plastic, held together in one hand and used as eating utensils. E.g., 我会用筷子吃饭 (Wǒ huì yòng kuàizi chīfàn - I can eat with chopsticks).<br><strong>Component Breakdown:</strong><br>筷 (kuài): chopsticks.<br>子 (zi): (noun suffix)."
+  },
+  "蓝": {
+    "pinyin": "lán",
+    "explanation": "Adjective. Blue. The color of a clear sky or the deep sea. E.g., 我喜欢蓝色的天空 (Wǒ xǐhuān lánsè de tiānkōng - I like the blue sky)."
+  },
+  "老": {
+    "pinyin": "lǎo",
+    "explanation": "Adjective. Old; aged; venerable; experienced; always. Having lived for a long time; no longer young. E.g., 我的爷爷很老了 (Wǒ de yéye hěn lǎo le - My grandpa is very old). 他总是迟到 (Tā lǎo shì chídào - He is always late)."
+  },
+  "离开": {
+    "pinyin": "líkāi",
+    "explanation": "Verb. To leave; to depart from; to deviate from. To go away from. E.g., 他已经离开北京了 (Tā yǐjīng líkāi Běijīng le - He has already left Beijing).<br><strong>Component Breakdown:</strong><br>离 (lí): to leave, to be away from, distance.<br>开 (kāi): to open, to start, to leave (in this context, as in 'to separate from')."
+  },
+  "礼物": {
+    "pinyin": "lǐwù",
+    "explanation": "Noun. Gift; present. Something given willingly to someone without payment. E.g., 这是我送给你的生日礼物 (Zhè shì wǒ sòng gěi nǐ de shēngrì lǐwù - This is the birthday gift I'm giving you).<br><strong>Component Breakdown:</strong><br>礼 (lǐ): ceremony, rite, propriety, gift, courtesy.<br>物 (wù): thing, object, matter."
+  },
+  "历史": {
+    "pinyin": "lìshǐ",
+    "explanation": "Noun. History. The study of past events, particularly in human affairs. E.g., 我喜欢学习中国历史 (Wǒ xǐhuān xuéxí Zhōngguó lìshǐ - I like to study Chinese history).<br><strong>Component Breakdown:</strong><br>历 (lì): to experience, to go through, calendar, history.<br>史 (shǐ): history, annals."
+  },
+  "脸": {
+    "pinyin": "liǎn",
+    "explanation": "Noun. Face. The front part of a person's head from the forehead to the chin, or the corresponding part in an animal. E.g., 她的脸红了 (Tā de liǎn hóng le - Her face turned red)."
+  },
+  "练习": {
+    "pinyin": "liànxí",
+    "explanation": "Verb/Noun. To practice; to exercise; practice; exercise. Repeated performance or systematic training in order to acquire or improve a skill. E.g., (Verb) 我每天都练习说汉语 (Wǒ měitiān dōu liànxí shuō Hànyǔ - I practice speaking Chinese every day). (Noun) 我们需要做很多练习 (Wǒmen xūyào zuò hěn duō liànxí - We need to do a lot of exercises).<br><strong>Component Breakdown:</strong><br>练 (liàn): to practice, to train, to drill.<br>习 (xí): to practice, to review, habit."
+  },
+  "辆": {
+    "pinyin": "liàng",
+    "explanation": "Measure Word. (for vehicles such as cars, bicycles, etc.). E.g., 一辆汽车 (yī liàng qìchē - a car). 三辆自行车 (sān liàng zìxíngchē - three bicycles)."
+  },
+  "聊天": {
+    "pinyin": "liáotiān",
+    "explanation": "Verb. To chat; to talk. To talk in a friendly and informal way. E.g., 我喜欢和朋友聊天 (Wǒ xǐhuān hé péngyou liáotiān - I like to chat with friends).<br><strong>Component Breakdown:</strong><br>聊 (liáo): to chat, to talk.<br>天 (tiān): day, sky, heaven (here implies casual talk)."
+  },
+  "了解": {
+    "pinyin": "liǎojiě",
+    "explanation": "Verb. To understand; to know about; to find out. To be aware of through observation, inquiry, or information. E.g., 我很了解他 (Wǒ hěn liǎojiě tā - I know him well). 我想了解一下中国文化 (Wǒ xiǎng liǎojiě yīxià Zhōngguó wénhuà - I want to understand a bit about Chinese culture).<br><strong>Component Breakdown:</strong><br>了 (liǎo): to understand, to finish, to be able to (also le - particle).<br>解 (jiě): to untie, to solve, to understand, to explain."
+  },
+  "邻居": {
+    "pinyin": "línjū",
+    "explanation": "Noun. Neighbor. A person living near or next door to the speaker or person referred to. E.g., 我的邻居很友好 (Wǒ de línjū hěn yǒuhǎo - My neighbor is very friendly).<br><strong>Component Breakdown:</strong><br>邻 (lín): neighbor, adjacent.<br>居 (jū): to live, to reside, residence."
+  },
+  "留学": {
+    "pinyin": "liúxué",
+    "explanation": "Verb. To study abroad. To pursue one's studies in a foreign country. E.g., 他打算去中国留学 (Tā dǎsuàn qù Zhōngguó liúxué - He plans to study abroad in China).<br><strong>Component Breakdown:</strong><br>留 (liú): to stay, to remain, to keep, to leave (message).<br>学 (xué): to learn, to study, school."
+  },
+  "楼": {
+    "pinyin": "lóu",
+    "explanation": "Noun/Measure Word. Building (multi-story); floor (of a multi-story building). E.g., (Building) 这座楼很高 (Zhè zuò lóu hěn gāo - This building is very tall). (Floor) 我家在五楼 (Wǒ jiā zài wǔ lóu - My home is on the fifth floor)."
+  },
+  "绿": {
+    "pinyin": "lǜ",
+    "explanation": "Adjective. Green. The color between blue and yellow in the spectrum; the color of growing grass. E.g., 我喜欢绿色的树叶 (Wǒ xǐhuān lǜsè de shùyè - I like green leaves)."
+  },
+  "马": {
+    "pinyin": "mǎ",
+    "explanation": "Noun. Horse. A solid-hoofed plant-eating domesticated mammal with a flowing mane and tail, used for riding, racing, and to carry and pull loads. E.g., 我会骑马 (Wǒ huì qímǎ - I can ride a horse)."
+  },
+  "马上": {
+    "pinyin": "mǎshàng",
+    "explanation": "Adverb. Immediately; at once; right away. Without delay. E.g., 我马上就来 (Wǒ mǎshàng jiù lái - I'll come right away).<br><strong>Component Breakdown:</strong><br>马 (mǎ): horse (implying speed, as if on horseback).<br>上 (shàng): on, upon, up (here indicates 'right on top of the moment')."
+  },
+  "满意": {
+    "pinyin": "mǎnyì",
+    "explanation": "Adjective/Verb. Satisfied; pleased; to satisfy. Contented; feeling or showing satisfaction. E.g., (Adj) 我对这个结果很满意 (Wǒ duì zhège jiéguǒ hěn mǎnyì - I am very satisfied with this result). (Verb) 这个答案能让你满意吗？ (Zhège dá'àn néng ràng nǐ mǎnyì ma? - Can this answer satisfy you?).<br><strong>Component Breakdown:</strong><br>满 (mǎn): full, filled, satisfied.<br>意 (yì): idea, meaning, wish, desire, will."
+  },
+  "帽子": {
+    "pinyin": "màozi",
+    "explanation": "Noun. Hat; cap. A shaped covering for the head worn for warmth, as a fashion accessory, or as part of a uniform. E.g., 天冷了，戴上帽子吧 (Tiān lěng le, dài shàng màozi ba - It's cold, put on your hat).<br><strong>Component Breakdown:</strong><br>帽 (mào): hat, cap.<br>子 (zi): (noun suffix)."
+  },
+  "米": {
+    "pinyin": "mǐ",
+    "explanation": "Noun/Measure Word. Rice (uncooked grain); meter (unit of length). E.g., (Rice) 我去买点米 (Wǒ qù mǎi diǎn mǐ - I'm going to buy some rice). (Meter) 这张桌子长两米 (Zhè zhāng zhuōzi cháng liǎng mǐ - This table is two meters long)."
+  },
+  "面包": {
+    "pinyin": "miànbāo",
+    "explanation": "Noun. Bread. Food made of flour, water, and yeast or another leavening agent, mixed together and baked. E.g., 我早上喜欢吃面包 (Wǒ zǎoshang xǐhuān chī miànbāo - I like to eat bread in the morning).<br><strong>Component Breakdown:</strong><br>面 (miàn): flour, noodles, surface.<br>包 (bāo): to wrap, bag, bun, bread."
+  },
+  "明白": {
+    "pinyin": "míngbai",
+    "explanation": "Verb/Adjective. To understand; to realize; clear; obvious. To perceive the intended meaning of (words, a language, or a speaker). E.g., (Verb) 我明白你的意思了 (Wǒ míngbai nǐ de yìsi le - I understand your meaning now). (Adj) 这个问题很明白 (Zhège wèntí hěn míngbai - This question is very clear).<br><strong>Component Breakdown:</strong><br>明 (míng): bright, clear, to understand.<br>白 (bái): white, plain, clear, to understand."
+  },
+  "拿": {
+    "pinyin": "ná",
+    "explanation": "Verb. To take; to get; to hold; to seize. To reach for and hold. E.g., 请帮我拿一下这本书 (Qǐng bāng wǒ ná yīxià zhè běn shū - Please help me take/hold this book)."
+  },
+  "奶奶": {
+    "pinyin": "nǎinai",
+    "explanation": "Noun. Grandmother (father's mother); grandma. The mother of one's father. E.g., 我奶奶做的饭很好吃 (Wǒ nǎinai zuò de fàn hěn hǎochī - The food my grandma cooks is delicious).<br><strong>Component Breakdown:</strong><br>奶 (nǎi): milk, breast, (term for grandmother).<br>奶 (nai): (suffix for certain kinship terms)."
+  },
+  "南": {
+    "pinyin": "nán",
+    "explanation": "Noun. South. The direction opposite to north. E.g., 我的家在南方 (Wǒ de jiā zài nánfāng - My home is in the south)."
+  },
+  "难": {
+    "pinyin": "nán",
+    "explanation": "Adjective. Difficult; hard. Requiring much effort or skill to accomplish, deal with, or understand. E.g., 这个汉字很难写 (Zhège Hànzì hěn nán xiě - This Chinese character is very difficult to write)."
+  },
+  "难过": {
+    "pinyin": "nánguò",
+    "explanation": "Adjective/Verb. To feel sad; to feel unwell; (to be) hard to bear. Causing or feeling sorrow or unhappiness. E.g., (Sad) 听到这个消息，我很难过 (Tīngdào zhège xiāoxi, wǒ hěn nánguò - I felt very sad hearing this news). (Unwell) 我今天有点难过，不想吃饭 (Wǒ jīntiān yǒudiǎn nánguò, bù xiǎng chīfàn - I feel a bit unwell today, I don't want to eat).<br><strong>Component Breakdown:</strong><br>难 (nán): difficult, hard.<br>过 (guò): to pass, to live through, to experience (here, difficult to get through/bear)."
+  },
+  "年级": {
+    "pinyin": "niánjí",
+    "explanation": "Noun. Grade (in school); year (in school). A level of study in a school. E.g., 我弟弟上小学三年级 (Wǒ dìdi shàng xiǎoxué sān niánjí - My younger brother is in the third grade of elementary school).<br><strong>Component Breakdown:</strong><br>年 (nián): year.<br>级 (jí): level, grade, rank."
+  },
+  "年轻": {
+    "pinyin": "niánqīng",
+    "explanation": "Adjective. Young. Having lived or existed for only a short time. E.g., 他很年轻，才二十岁 (Tā hěn niánqīng, cái èrshí suì - He is very young, only twenty years old).<br><strong>Component Breakdown:</strong><br>年 (nián): year, age.<br>轻 (qīng): light, young, gentle."
+  },
+  "鸟": {
+    "pinyin": "niǎo",
+    "explanation": "Noun. Bird. A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak. E.g., 树上有很多鸟 (Shù shàng yǒu hěn duō niǎo - There are many birds in the tree)."
+  },
+  "努力": {
+    "pinyin": "nǔlì",
+    "explanation": "Adjective/Verb. Hard-working; diligent; to strive; to try hard. Making a great effort. E.g., (Adj) 他是一个努力的学生 (Tā shì yī ge nǔlì de xuésheng - He is a hard-working student). (Verb) 我们要努力学习 (Wǒmen yào nǔlì xuéxí - We must study hard).<br><strong>Component Breakdown:</strong><br>努 (nǔ): to exert, to strive.<br>力 (lì): power, strength, force, effort."
+  },
+  "爬山": {
+    "pinyin": "páshān",
+    "explanation": "Verb. To climb a mountain; to hike a mountain. To go up or ascend a mountain. E.g., 我喜欢周末去爬山 (Wǒ xǐhuān zhōumò qù páshān - I like to go mountain climbing on weekends).<br><strong>Component Breakdown:</strong><br>爬 (pá): to climb, to crawl.<br>山 (shān): mountain, hill."
+  },
+  "盘子": {
+    "pinyin": "pánzi",
+    "explanation": "Noun. Plate; dish; tray. A flat, typically round, dish on which food is eaten or served. E.g., 请把苹果放在盘子里 (Qǐng bǎ píngguǒ fàng zài pánzi lǐ - Please put the apples on the plate).<br><strong>Component Breakdown:</strong><br>盘 (pán): plate, dish, tray, to coil.<br>子 (zi): (noun suffix)."
+  },
+  "胖": {
+    "pinyin": "pàng",
+    "explanation": "Adjective. Fat; plump. (Of a person or animal) having a large amount of excess flesh. E.g., 这只猫很胖 (Zhè zhī māo hěn pàng - This cat is very fat)."
+  },
+  "皮鞋": {
+    "pinyin": "píxié",
+    "explanation": "Noun. Leather shoes. Shoes made of leather. E.g., 他今天穿了一双新皮鞋 (Tā jīntiān chuān le yī shuāng xīn píxié - He wore a new pair of leather shoes today).<br><strong>Component Breakdown:</strong><br>皮 (pí): leather, skin, peel.<br>鞋 (xié): shoes."
+  },
+  "啤酒": {
+    "pinyin": "píjiǔ",
+    "explanation": "Noun. Beer. An alcoholic drink made from yeast-fermented malt flavored with hops. (Loanword, partially). E.g., 夏天喝冰啤酒很舒服 (Xiàtiān hē bīng píjiǔ hěn shūfu - Drinking iced beer in summer is very comfortable).<br><strong>Component Breakdown:</strong><br>啤 (pí): beer (loanword syllable).<br>酒 (jiǔ): alcohol, wine, liquor."
+  },
+  "瓶子": {
+    "pinyin": "píngzi",
+    "explanation": "Noun. Bottle. A container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids. E.g., 这个瓶子里装的是水 (Zhège píngzi lǐ zhuāng de shì shuǐ - This bottle contains water).<br><strong>Component Breakdown:</strong><br>瓶 (píng): bottle, vase, jar.<br>子 (zi): (noun suffix)."
+  },
+  "其实": {
+    "pinyin": "qíshí",
+    "explanation": "Adverb. Actually; in fact; as a matter of fact. Used to emphasize the truth of a statement, often when it is different from what is expected or has been said. E.g., 他看起来很高兴，其实他很难过 (Tā kànqǐlái hěn gāoxìng, qíshí tā hěn nánguò - He looks very happy, but actually he is very sad).<br><strong>Component Breakdown:</strong><br>其 (qí): his, her, its, their, that, such (here, 'its reality').<br>实 (shí): real, true, solid, actual, fact."
+  },
+  "其他": {
+    "pinyin": "qítā",
+    "explanation": "Pronoun. Other; else; the rest. Referring to people or things apart from those already mentioned or an alternative. E.g., 我喜欢苹果，不喜欢其他水果 (Wǒ xǐhuān píngguǒ, bù xǐhuān qítā shuǐguǒ - I like apples, I don't like other fruits).<br><strong>Component Breakdown:</strong><br>其 (qí): his, her, its, their, that, such, other.<br>他 (tā): he, him (here used generally for 'other')."
+  },
+  "奇怪": {
+    "pinyin": "qíguài",
+    "explanation": "Adjective. Strange; odd; peculiar; surprising. Unusual or surprising in a way that is unsettling or hard to understand. E.g., 我今天遇到一件很奇怪的事 (Wǒ jīntiān yùdào yī jiàn hěn qíguài de shì - I encountered a very strange thing today).<br><strong>Component Breakdown:</strong><br>奇 (qí): strange, odd, wonderful, rare.<br>怪 (guài): strange, odd, to blame, monster."
+  },
+  "骑": {
+    "pinyin": "qí",
+    "explanation": "Verb. To ride (an animal or bicycle); to sit on the back of. To sit on and control the movement of (a horse, bicycle, etc.). E.g., 我会骑自行车 (Wǒ huì qí zìxíngchē - I can ride a bicycle)."
+  },
+  "起飞": {
+    "pinyin": "qǐfēi",
+    "explanation": "Verb. (of an aircraft) To take off. To leave the ground and begin to fly. E.g., 飞机马上就要起飞了 (Fēijī mǎshàng jiù yào qǐfēi le - The plane is about to take off soon).<br><strong>Component Breakdown:</strong><br>起 (qǐ): to rise, to get up, to start.<br>飞 (fēi): to fly."
+  },
+  "清楚": {
+    "pinyin": "qīngchu",
+    "explanation": "Adjective/Verb. Clear; distinct; to understand clearly. Easy to perceive, understand, or interpret. E.g., (Adj) 他的发音很清楚 (Tā de fāyīn hěn qīngchu - His pronunciation is very clear). (Verb) 你听清楚了吗？ (Nǐ tīng qīngchu le ma? - Did you hear clearly?).<br><strong>Component Breakdown:</strong><br>清 (qīng): clear, distinct, clean, pure.<br>楚 (chu): clear, distinct, neat."
+  },
+  "请假": {
+    "pinyin": "qǐngjià",
+    "explanation": "Verb. To ask for leave (of absence). To request permission to be absent from work or school. E.g., 我生病了，想请一天假 (Wǒ shēngbìng le, xiǎng qǐng yī tiān jià - I'm sick, I want to ask for a day's leave).<br><strong>Component Breakdown:</strong><br>请 (qǐng): to ask, to request, please.<br>假 (jià): vacation, holiday, leave of absence."
+  },
+  "秋": {
+    "pinyin": "qiū",
+    "explanation": "Noun. Autumn; fall. The season after summer and before winter. E.g., 秋天天气很凉快 (Qiūtiān tiānqì hěn liángkuai - The weather in autumn is pleasantly cool)."
+  },
+  "裙子": {
+    "pinyin": "qúnzi",
+    "explanation": "Noun. Skirt; dress. A woman's or girl's outer garment fastened around the waist and hanging down around the legs. E.g., 她今天穿了一条漂亮的裙子 (Tā jīntiān chuān le yī tiáo piàoliang de qúnzi - She wore a beautiful skirt/dress today).<br><strong>Component Breakdown:</strong><br>裙 (qún): skirt.<br>子 (zi): (noun suffix)."
+  },
+  "然后": {
+    "pinyin": "ránhòu",
+    "explanation": "Conjunction. Then; afterwards; after that. Used to indicate a sequence of events. E.g., 我先吃饭，然后去看电影 (Wǒ xiān chīfàn, ránhòu qù kàn diànyǐng - I'll eat first, and then go watch a movie).<br><strong>Component Breakdown:</strong><br>然 (rán): so, thus, like this, -ly (adverbial suffix).<br>后 (hòu): after, behind, later."
+  },
+  "热情": {
+    "pinyin": "rèqíng",
+    "explanation": "Adjective/Noun. Enthusiastic; warm; passionate; enthusiasm; warmth. Showing intense and eager enjoyment, interest, or approval. E.g., (Adj) 他对人很热情 (Tā duì rén hěn rèqíng - He is very enthusiastic/warm towards people). (Noun) 感谢你的热情款待 (Gǎnxiè nǐ de rèqíng kuǎndài - Thank you for your warm hospitality).<br><strong>Component Breakdown:</strong><br>热 (rè): hot, warm, enthusiastic.<br>情 (qíng): feeling, emotion, affection, passion."
+  },
+  "认为": {
+    "pinyin": "rènwéi",
+    "explanation": "Verb. To think; to believe; to consider. To have a particular opinion or belief. E.g., 我认为这个计划很好 (Wǒ rènwéi zhège jìhuà hěn hǎo - I think this plan is very good).<br><strong>Component Breakdown:</strong><br>认 (rèn): to recognize, to know, to admit, to consider.<br>为 (wéi): to be, to act as, to become, to consider."
+  },
+  "认真": {
+    "pinyin": "rènzhēn",
+    "explanation": "Adjective/Adverb. Serious; conscientious; earnest; carefully. Showing sincere and intense conviction; done with thoroughness or care. E.g., (Adj) 他学习很认真 (Tā xuéxí hěn rènzhēn - He studies very conscientiously). (Adv) 请认真听讲 (Qǐng rènzhēn tīngjiǎng - Please listen carefully to the lecture).<br><strong>Component Breakdown:</strong><br>认 (rèn): to recognize, to acknowledge, to take seriously.<br>真 (zhēn): real, true, genuine, earnest."
+  },
+  "容易": {
+    "pinyin": "róngyì",
+    "explanation": "Adjective. Easy. Achieved without great effort; presenting no difficulty. E.g., 这个问题很容易回答 (Zhège wèntí hěn róngyì huídá - This question is very easy to answer).<br><strong>Component Breakdown:</strong><br>容 (róng): to hold, to contain, to tolerate, appearance (here part of a fixed expression).<br>易 (yì): easy, amiable, to change."
+  },
+  "如果": {
+    "pinyin": "rúguǒ",
+    "explanation": "Conjunction. If; in case; in the event that. Used to introduce a conditional clause. E.g., 如果明天天气好，我们就去公园 (Rúguǒ míngtiān tiānqì hǎo, wǒmen jiù qù gōngyuán - If the weather is good tomorrow, we will go to the park).<br><strong>Component Breakdown:</strong><br>如 (rú): as, if, like.<br>果 (guǒ): fruit, result, if (in this context)."
+  },
+  "伞": {
+    "pinyin": "sǎn",
+    "explanation": "Noun. Umbrella; parasol. A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used for protection against rain or sun. E.g., 下雨了，别忘了带伞 (Xiàyǔ le, bié wàng le dài sǎn - It's raining, don't forget to bring an umbrella)."
+  },
+  "上网": {
+    "pinyin": "shàngwǎng",
+    "explanation": "Verb. To go online; to surf the internet. To access the internet. E.g., 我喜欢晚上上网聊天 (Wǒ xǐhuān wǎnshang shàngwǎng liáotiān - I like to go online to chat in the evening).<br><strong>Component Breakdown:</strong><br>上 (shàng): to go up, on, to attend.<br>网 (wǎng): net, network."
+  },
+  "生气": {
+    "pinyin": "shēngqì",
+    "explanation": "Verb/Adjective. To get angry; to be angry; angry. To feel or show anger. E.g., (Verb) 他生气了 (Tā shēngqì le - He got angry). (Adj) 你为什么这么生气？ (Nǐ wèishénme zhème shēngqì? - Why are you so angry?).<br><strong>Component Breakdown:</strong><br>生 (shēng): to produce, to generate, to give rise to.<br>气 (qì): air, gas, spirit, anger."
+  },
+  "声音": {
+    "pinyin": "shēngyīn",
+    "explanation": "Noun. Sound; voice. Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear. E.g., 我听见了他的声音 (Wǒ tīngjiàn le tā de shēngyīn - I heard his voice).<br><strong>Component Breakdown:</strong><br>声 (shēng): sound, voice, noise.<br>音 (yīn): sound, tone, news."
+  },
+  "世界": {
+    "pinyin": "shìjiè",
+    "explanation": "Noun. World. The earth, together with all of its countries, peoples, and natural features. E.g., 我想去看看这个世界 (Wǒ xiǎng qù kànkan zhège shìjiè - I want to go see the world).<br><strong>Component Breakdown:</strong><br>世 (shì): world, generation, era, life.<br>界 (jiè): boundary, scope, realm, world."
+  },
+  "试": {
+    "pinyin": "shì",
+    "explanation": "Verb. To try; to test; to attempt. To make an attempt or effort to do something. E.g., 我想试试这件衣服 (Wǒ xiǎng shìshi zhè jiàn yīfu - I want to try on this dress)."
+  },
+  "瘦": {
+    "pinyin": "shòu",
+    "explanation": "Adjective. Thin; slim; lean. (Of a person or animal) having too little flesh or fat. E.g., 他比以前瘦了很多 (Tā bǐ yǐqián shòu le hěn duō - He is much thinner than before)."
+  },
+  "叔叔": {
+    "pinyin": "shūshu",
+    "explanation": "Noun. Uncle (father's younger brother); (address for man of father's generation). E.g., 李叔叔是我的邻居 (Lǐ shūshu shì wǒ de línjū - Uncle Li is my neighbor).<br><strong>Component Breakdown:</strong><br>叔 (shū): father's younger brother, uncle.<br>叔 (shu): (suffix for certain kinship terms)."
+  },
+  "舒服": {
+    "pinyin": "shūfu",
+    "explanation": "Adjective. Comfortable; feeling well. (Physically) relaxed and free from pain or constraint; (mentally) at ease. E.g., 躺在沙发上很舒服 (Tǎng zài shāfā shàng hěn shūfu - Lying on the sofa is very comfortable). 我今天不太舒服 (Wǒ jīntiān bú tài shūfu - I'm not feeling very well today).<br><strong>Component Breakdown:</strong><br>舒 (shū): to stretch out, to relax, comfortable.<br>服 (fu): clothes, to serve, to be accustomed to, to obey (here, to fit well/be comfortable)."
+  },
+  "树": {
+    "pinyin": "shù",
+    "explanation": "Noun. Tree. A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing branches and leaves at some distance from the ground. E.g., 公园里有很多大树 (Gōngyuán lǐ yǒu hěn duō dà shù - There are many big trees in the park)."
+  },
+  "数学": {
+    "pinyin": "shùxué",
+    "explanation": "Noun. Mathematics; math. The abstract science of number, quantity, and space. E.g., 我喜欢数学课 (Wǒ xǐhuān shùxuékè - I like math class).<br><strong>Component Breakdown:</strong><br>数 (shù): number, figure, to count.<br>学 (xué): to learn, to study, science, -ology."
+  },
+  "刷牙": {
+    "pinyin": "shuāyá",
+    "explanation": "Verb. To brush one's teeth. To clean one's teeth with a toothbrush. E.g., 我每天早上和晚上都刷牙 (Wǒ měitiān zǎoshang hé wǎnshang dōu shuāyá - I brush my teeth every morning and evening).<br><strong>Component Breakdown:</strong><br>刷 (shuā): to brush, to scrub, to swipe (a card).<br>牙 (yá): tooth."
+  },
+  "双": {
+    "pinyin": "shuāng",
+    "explanation": "Measure Word/Adjective. Pair; couple; two; double. Used for things that come in twos. E.g., 一双筷子 (yī shuāng kuàizi - a pair of chopsticks). 一双鞋 (yī shuāng xié - a pair of shoes)."
+  },
+  "水平": {
+    "pinyin": "shuǐpíng",
+    "explanation": "Noun. Level (of achievement, etc.); standard; horizontal. A position on a scale of attainment or quality. E.g., 他的汉语水平很高 (Tā de Hànyǔ shuǐpíng hěn gāo - His Chinese proficiency level is very high).<br><strong>Component Breakdown:</strong><br>水 (shuǐ): water.<br>平 (píng): flat, level, even, average."
+  },
+  "司机": {
+    "pinyin": "sījī",
+    "explanation": "Noun. Driver; chauffeur. A person who drives a vehicle. E.g., 这位司机开车很稳 (Zhè wèi sījī kāichē hěn wěn - This driver drives very steadily).<br><strong>Component Breakdown:</strong><br>司 (sī): to manage, to control, to take charge of.<br>机 (jī): machine, engine, opportunity (here refers to operating a machine)."
+  },
+  "太阳": {
+    "pinyin": "tàiyáng",
+    "explanation": "Noun. Sun. The star round which the earth orbits. E.g., 今天太阳很好 (Jīntiān tàiyáng hěn hǎo - The sun is very good today / It's very sunny today).<br><strong>Component Breakdown:</strong><br>太 (tài): great, supreme, too, very.<br>阳 (yáng): sun, male principle (yin-yang), positive."
+  },
+  "特别": {
+    "pinyin": "tèbié",
+    "explanation": "Adjective/Adverb. Special; particular; especially; particularly. Better, greater, or otherwise different from what is usual. E.g., (Adj) 这是一份特别的礼物 (Zhè shì yī fèn tèbié de lǐwù - This is a special gift). (Adv) 我特别喜欢吃辣的 (Wǒ tèbié xǐhuān chī là de - I particularly like to eat spicy food).<br><strong>Component Breakdown:</strong><br>特 (tè): special, particular, unique.<br>别 (bié): to leave, other, difference, distinguish."
+  },
+  "疼": {
+    "pinyin": "téng",
+    "explanation": "Adjective/Verb. (It) hurts; sore; painful; to love dearly. Causing or feeling physical pain. E.g., 我的头很疼 (Wǒ de tóu hěn téng - My head hurts a lot). 妈妈很疼我 (Māma hěn téng wǒ - Mom loves me dearly)."
+  },
+  "提高": {
+    "pinyin": "tígāo",
+    "explanation": "Verb. To raise; to increase; to improve. To make or become higher or better in level or quality. E.g., 我们要努力提高汉语水平 (Wǒmen yào nǔlì tígāo Hànyǔ shuǐpíng - We need to work hard to improve our Chinese proficiency).<br><strong>Component Breakdown:</strong><br>提 (tí): to lift, to raise, to put forward, to mention.<br>高 (gāo): high, tall, above average."
+  },
+  "体育": {
+    "pinyin": "tǐyù",
+    "explanation": "Noun. Physical education (PE); sports. Activities involving physical exertion and skill. E.g., 我喜欢上体育课 (Wǒ xǐhuān shàng tǐyùkè - I like to have PE class).<br><strong>Component Breakdown:</strong><br>体 (tǐ): body, form, style, system.<br>育 (yù): to nurture, to educate, to bring up, physical training."
+  },
+  "甜": {
+    "pinyin": "tián",
+    "explanation": "Adjective. Sweet. Having the pleasant taste characteristic of sugar or honey. E.g., 这个西瓜很甜 (Zhège xīguā hěn tián - This watermelon is very sweet)."
+  },
+  "条": {
+    "pinyin": "tiáo",
+    "explanation": "Measure Word. (for long, thin objects like pants, rivers, roads, fish, etc.); clause; article. E.g., 一条裤子 (yī tiáo kùzi - a pair of pants). 一条河 (yī tiáo hé - a river)."
+  },
+  "同事": {
+    "pinyin": "tóngshì",
+    "explanation": "Noun. Colleague; co-worker. A person with whom one works, typically in a professional or business setting. E.g., 他是我的同事 (Tā shì wǒ de tóngshì - He is my colleague).<br><strong>Component Breakdown:</strong><br>同 (tóng): same, together, with.<br>事 (shì): matter, affair, thing, business, to serve."
+  },
+  "同意": {
+    "pinyin": "tóngyì",
+    "explanation": "Verb. To agree; to consent; to approve. To have the same opinion about something; to give permission. E.g., 我同意你的看法 (Wǒ tóngyì nǐ de kànfǎ - I agree with your opinion).<br><strong>Component Breakdown:</strong><br>同 (tóng): same, together, with.<br>意 (yì): idea, meaning, opinion, wish, will."
+  },
+  "头发": {
+    "pinyin": "tóufa",
+    "explanation": "Noun. Hair (on the human head). The fine threadlike strands growing from the skin of humans, mammals, and some other animals. E.g., 她的头发很长 (Tā de tóufa hěn cháng - Her hair is very long).<br><strong>Component Breakdown:</strong><br>头 (tóu): head.<br>发 (fà): hair (on the head) (also fā - to send, to develop)."
+  },
+  "突然": {
+    "pinyin": "tūrán",
+    "explanation": "Adjective/Adverb. Sudden; abrupt; unexpected; suddenly. Happening or done quickly and unexpectedly or without warning. E.g., (Adj) 这件事发生得很突然 (Zhè jiàn shì fāshēng de hěn tūrán - This incident happened very suddenly). (Adv) 他突然笑了起来 (Tā tūrán xiào le qǐlái - He suddenly burst out laughing).<br><strong>Component Breakdown:</strong><br>突 (tū): to dash, to rush out, sudden, abrupt.<br>然 (rán): so, thus, like this, -ly (adverbial suffix)."
+  },
+  "图书馆": {
+    "pinyin": "túshūguǎn",
+    "explanation": "Noun. Library. A building or room containing collections of books, periodicals, and sometimes films and recorded music for use or borrowing by the public or the members of an institution. E.g., 我经常去图书馆看书 (Wǒ jīngcháng qù túshūguǎn kànshū - I often go to the library to read books).<br><strong>Component Breakdown:</strong><br>图 (tú): picture, drawing, map, chart.<br>书 (shū): book.<br>馆 (guǎn): building, shop, embassy, hall (often for public use)."
+  },
+  "腿": {
+    "pinyin": "tuǐ",
+    "explanation": "Noun. Leg. Each of the limbs on which a person or animal walks and stands. E.g., 我的腿受伤了 (Wǒ de tuǐ shòushāng le - My leg is injured)."
+  },
+  "完成": {
+    "pinyin": "wánchéng",
+    "explanation": "Verb. To complete; to accomplish; to finish. To bring (a task, activity, or period of time) to an end. E.g., 我已经完成作业了 (Wǒ yǐjīng wánchéng zuòyè le - I have already completed my homework).<br><strong>Component Breakdown:</strong><br>完 (wán): to finish, to complete, whole.<br>成 (chéng): to succeed, to complete, to accomplish, to become."
+  },
+  "碗": {
+    "pinyin": "wǎn",
+    "explanation": "Noun/Measure Word. Bowl; (for bowls of food or drink). A round, deep dish or basin used for food or liquid. E.g., (Noun) 请给我一个碗 (Qǐng gěi wǒ yī ge wǎn - Please give me a bowl). (M.W.) 我吃了一碗米饭 (Wǒ chī le yī wǎn mǐfàn - I ate a bowl of rice)."
+  },
+  "万": {
+    "pinyin": "wàn",
+    "explanation": "Numeral. Ten thousand. The number 10,000. E.g., 这辆车十万块 (Zhè liàng chē shí wàn kuài - This car costs one hundred thousand yuan)."
+  },
+  "忘记": {
+    "pinyin": "wàngjì",
+    "explanation": "Verb. To forget. To fail to remember. E.g., 我忘记带钱包了 (Wǒ wàngjì dài qiánbāo le - I forgot to bring my wallet).<br><strong>Component Breakdown:</strong><br>忘 (wàng): to forget.<br>记 (jì): to record, to remember, mark."
+  },
+  "为": {
+    "pinyin": "wèi",
+    "explanation": "Preposition/Verb. For; for the sake of; in order to; to do; to act as; to become. (Prep) Indicates purpose or beneficiary. E.g., (Prep) 这是为你买的 (Zhè shì wèi nǐ mǎi de - This was bought for you). 为了健康，我们应该多运动 (Wèile jiànkāng, wǒmen yīnggāi duō yùndòng - For the sake of health, we should exercise more). (Verb) 他成为了一名医生 (Tā chéngwéi le yī míng yīshēng - He became a doctor)."
+  },
+  "为了": {
+    "pinyin": "wèile",
+    "explanation": "Preposition. In order to; for the sake of; for. Indicates purpose. E.g., 为了学好汉语，他每天都很努力 (Wèile xuéhǎo Hànyǔ, tā měitiān dōu hěn nǔlì - In order to learn Chinese well, he works very hard every day).<br><strong>Component Breakdown:</strong><br>为 (wèi): for, for the sake of.<br>了 (le): (particle indicating completion or purpose here)."
+  },
+  "位": {
+    "pinyin": "wèi",
+    "explanation": "Measure Word. (polite measure word for people); position; place; seat. E.g., 这位先生是我的老师 (Zhè wèi xiānsheng shì wǒ de lǎoshī - This gentleman is my teacher). 我的座位在前面 (Wǒ de zuòwèi zài qiánmiàn - My seat is at the front)."
+  },
+  "文化": {
+    "pinyin": "wénhuà",
+    "explanation": "Noun. Culture; civilization. The arts and other manifestations of human intellectual achievement regarded collectively. E.g., 我对中国文化很感兴趣 (Wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù - I am very interested in Chinese culture).<br><strong>Component Breakdown:</strong><br>文 (wén): language, literature, writing, culture.<br>化 (huà): to change, to transform, -ize, -ify, culture."
+  },
+  "西": {
+    "pinyin": "xī",
+    "explanation": "Noun. West. The direction towards the point of the horizon where the sun sets. E.g., 太阳从西边落下 (Tàiyáng cóng xībian luòxià - The sun sets in the west)."
+  },
+  "习惯": {
+    "pinyin": "xíguàn",
+    "explanation": "Noun/Verb. Habit; custom; to be used to; to be accustomed to. A settled or regular tendency or practice. E.g., (Noun) 我有早睡早起的好习惯 (Wǒ yǒu zǎoshuì zǎoqǐ de hǎo xíguàn - I have the good habit of going to bed early and getting up early). (Verb) 我不习惯这里的天气 (Wǒ bù xíguàn zhèli de tiānqì - I am not used to the weather here).<br><strong>Component Breakdown:</strong><br>习 (xí): to practice, to review, habit.<br>惯 (guàn): accustomed to, used to, habit."
+  },
+  "洗手间": {
+    "pinyin": "xǐshǒujiān",
+    "explanation": "Noun. Restroom; lavatory; toilet. A room or cubicle containing a toilet. E.g., 请问洗手间在哪里？ (Qǐngwèn xǐshǒujiān zài nǎli? - Excuse me, where is the restroom?).<br><strong>Component Breakdown:</strong><br>洗 (xǐ): to wash.<br>手 (shǒu): hand.<br>间 (jiān): room, space between."
+  },
+  "洗澡": {
+    "pinyin": "xǐzǎo",
+    "explanation": "Verb. To take a bath; to take a shower. To wash oneself in a bath or shower. E.g., 我每天晚上都洗澡 (Wǒ měitiān wǎnshang dōu xǐzǎo - I take a bath/shower every evening).<br><strong>Component Breakdown:</strong><br>洗 (xǐ): to wash.<br>澡 (zǎo): bath, to bathe."
+  },
+  "夏": {
+    "pinyin": "xià",
+    "explanation": "Noun. Summer. The warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February. E.g., 我喜欢夏天去游泳 (Wǒ xǐhuān xiàtiān qù yóuyǒng - I like to go swimming in summer)."
+  },
+  "先": {
+    "pinyin": "xiān",
+    "explanation": "Adverb/Adjective. First; earlier; before; in advance. E.g., (Adv) 你先走吧 (Nǐ xiān zǒu ba - You go first). (Adj) 先进技术 (xiānjìn jìshù - advanced technology)."
+  },
+  "相信": {
+    "pinyin": "xiāngxìn",
+    "explanation": "Verb. To believe; to trust; to be convinced. To accept (something) as true; feel sure of the truth of. E.g., 我相信你 (Wǒ xiāngxìn nǐ - I believe you).<br><strong>Component Breakdown:</strong><br>相 (xiāng): each other, one another, mutually (here as part of a fixed expression).<br>信 (xìn): to trust, faith, belief, letter."
+  },
+  "香蕉": {
+    "pinyin": "xiāngjiāo",
+    "explanation": "Noun. Banana. A long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe. E.g., 我喜欢吃香蕉 (Wǒ xǐhuān chī xiāngjiāo - I like to eat bananas).<br><strong>Component Breakdown:</strong><br>香 (xiāng): fragrant, sweet-smelling.<br>蕉 (jiāo): banana plant, banana."
+  },
+  "向": {
+    "pinyin": "xiàng",
+    "explanation": "Preposition/Verb. Towards; to; to face; to turn towards. In the direction of. E.g., (Prep) 他向我走来 (Tā xiàng wǒ zǒulái - He walked towards me). (Verb) 向左转 (Xiàng zuǒ zhuǎn - Turn left)."
+  },
+  "像": {
+    "pinyin": "xiàng",
+    "explanation": "Verb/Adverb. To be like; to resemble; such as; like; as if. To have a similar appearance to or qualities in common with (someone or something); to compare with. E.g., (Verb) 他长得很像他爸爸 (Tā zhǎng de hěn xiàng tā bàba - He looks very much like his father). (Adverb) 像这样的天气很少见 (Xiàng zhèyàng de tiānqì hěn shǎojiàn - Weather like this is rare)."
+  },
+  "小心": {
+    "pinyin": "xiǎoxīn",
+    "explanation": "Verb/Adjective. To be careful; to take care; careful. To take care to avoid risk or danger. E.g., (Verb) 过马路要小心 (Guò mǎlù yào xiǎoxīn - Be careful when crossing the road). (Adj) 他是一个很小心的人 (Tā shì yī ge hěn xiǎoxīn de rén - He is a very careful person).<br><strong>Component Breakdown:</strong><br>小 (xiǎo): small, little.<br>心 (xīn): heart, mind, attention."
+  },
+  "校长": {
+    "pinyin": "xiàozhǎng",
+    "explanation": "Noun. Headmaster; principal (of a school); president (of a university). The person in charge of a school or college. E.g., 校长在开会 (Xiàozhǎng zài kāihuì - The principal is in a meeting).<br><strong>Component Breakdown:</strong><br>校 (xiào): school.<br>长 (zhǎng): head, chief, elder, to grow (also cháng - long)."
+  },
+  "新闻": {
+    "pinyin": "xīnwén",
+    "explanation": "Noun. News. Newly received or noteworthy information, especially about recent events. E.g., 我每天都看新闻 (Wǒ měitiān dōu kàn xīnwén - I watch the news every day).<br><strong>Component Breakdown:</strong><br>新 (xīn): new, fresh.<br>闻 (wén): to hear, news, reputation."
+  },
+  "新鲜": {
+    "pinyin": "xīnxiān",
+    "explanation": "Adjective. Fresh (experience, food, etc.); new; novel. Recently made or obtained; not tinned, frozen, or otherwise preserved. E.g., 这些水果很新鲜 (Zhèxiē shuǐguǒ hěn xīnxiān - These fruits are very fresh).<br><strong>Component Breakdown:</strong><br>新 (xīn): new, fresh.<br>鲜 (xiān): fresh, delicious, rare, bright."
+  },
+  "信": {
+    "pinyin": "xìn",
+    "explanation": "Noun/Verb. Letter; mail; message; to trust; to believe; faith. E.g., (Noun) 我收到一封信 (Wǒ shōudào yī fēng xìn - I received a letter). (Verb) 我相信他 (Wǒ xiāngxìn tā - I believe him)."
+  },
+  "行李箱": {
+    "pinyin": "xínglixiāng",
+    "explanation": "Noun. Suitcase; trunk; baggage. A case with a handle and a hinged lid, used for carrying clothes and other personal possessions. E.g., 我的行李箱太重了 (Wǒ de xínglixiāng tài zhòng le - My suitcase is too heavy).<br><strong>Component Breakdown:</strong><br>行 (xíng): to travel, journey.<br>李 (li): (often used in 行李 - luggage).<br>箱 (xiāng): box, chest, case, suitcase."
+  },
+  "兴趣": {
+    "pinyin": "xìngqù",
+    "explanation": "Noun. Interest (in sth); hobby. The feeling of wanting to know or learn about something or someone. E.g., 我对画画很有兴趣 (Wǒ duì huàhuà hěn yǒu xìngqù - I am very interested in drawing).<br><strong>Component Breakdown:</strong><br>兴 (xìng): interest, mood, excitement, to flourish.<br>趣 (qù): interest, fun, interesting."
+  },
+  "熊猫": {
+    "pinyin": "xióngmāo",
+    "explanation": "Noun. Panda. A large bear-like mammal with characteristic black-and-white markings, native to certain mountain forests in China. E.g., 我喜欢看熊猫 (Wǒ xǐhuān kàn xióngmāo - I like to see pandas).<br><strong>Component Breakdown:</strong><br>熊 (xióng): bear.<br>猫 (māo): cat (panda means 'bear-cat')."
+  },
+  "需要": {
+    "pinyin": "xūyào",
+    "explanation": "Verb/Noun. To need; to want; to require; to demand; needs. To require (something) because it is essential or very important. E.g., (Verb) 我需要你的帮助 (Wǒ xūyào nǐ de bāngzhù - I need your help). (Noun) 这是我们的基本需要 (Zhè shì wǒmen de jīběn xūyào - This is our basic need).<br><strong>Component Breakdown:</strong><br>需 (xū): to need, to require, needs.<br>要 (yào): to want, to need, to require, important."
+  },
+  "选择": {
+    "pinyin": "xuǎnzé",
+    "explanation": "Verb/Noun. To choose; to select; choice; selection. To pick out or select (someone or something) as being the best or most appropriate of two or more alternatives. E.g., (Verb) 你选择哪个？ (Nǐ xuǎnzé nǎge? - Which one do you choose?). (Noun) 我没有别的选择 (Wǒ méiyǒu biéde xuǎnzé - I have no other choice).<br><strong>Component Breakdown:</strong><br>选 (xuǎn): to choose, to select, to elect.<br>择 (zé): to choose, to select, to pick."
+  },
+  "要求": {
+    "pinyin": "yāoqiú",
+    "explanation": "Verb/Noun. To request; to demand; to require; requirement; demand. To ask for something formally or politely. E.g., (Verb) 老师要求我们每天读书 (Lǎoshī yāoqiú wǒmen měitiān dúshū - The teacher requires us to read every day). (Noun) 这是公司的要求 (Zhè shì gōngsī de yāoqiú - This is the company's requirement).<br><strong>Component Breakdown:</strong><br>要 (yāo): to demand, to request, to want (also yào).<br>求 (qiú): to ask, to request, to demand, to seek."
+  },
+  "爷爷": {
+    "pinyin": "yéye",
+    "explanation": "Noun. Grandfather (father's father); grandpa. The father of one's father. E.g., 我爷爷今年八十岁了 (Wǒ yéye jīnnián bāshí suì le - My grandpa is eighty years old this year).<br><strong>Component Breakdown:</strong><br>爷 (yé): grandfather, old gentleman.<br>爷 (ye): (suffix for certain kinship terms)."
+  },
+  "一定": {
+    "pinyin": "yīdìng",
+    "explanation": "Adverb/Adjective. Surely; certainly; necessarily; definite; fixed. Without doubt. E.g., (Adv) 我一定会来 (Wǒ yīdìng huì lái - I will definitely come). (Adj) 这是一个一定的结果 (Zhè shì yī ge yīdìng de jiéguǒ - This is a definite result).<br><strong>Component Breakdown:</strong><br>一 (yī): one, single (here, implies certainty).<br>定 (dìng): to fix, to set, to decide, certain, definite."
+  },
+  "一共": {
+    "pinyin": "yīgòng",
+    "explanation": "Adverb. Altogether; in total; in all. E.g., 这些书一共多少钱？ (Zhèxiē shū yīgòng duōshao qián? - How much are these books in total?).<br><strong>Component Breakdown:</strong><br>一 (yī): one, all.<br>共 (gòng): common, together, total."
+  },
+  "一会儿": {
+    "pinyin": "yīhuìr",
+    "explanation": "Noun. A little while; a moment; in a moment. A short period of time. E.g., 请等一会儿 (Qǐng děng yīhuìr - Please wait a moment).<br><strong>Component Breakdown:</strong><br>一 (yī): one, a.<br>会 (huì): meeting, moment (in this context).<br>儿 (r): (retroflex suffix)."
+  },
+  "一样": {
+    "pinyin": "yīyàng",
+    "explanation": "Adjective. Same; alike; as...as.... Identical; not different. E.g., 这两件衣服一样 (Zhè liǎng jiàn yīfu yīyàng - These two pieces of clothing are the same). 他跟我一样高 (Tā gēn wǒ yīyàng gāo - He is as tall as me).<br><strong>Component Breakdown:</strong><br>一 (yī): one, same.<br>样 (yàng): manner, appearance, pattern, type."
+  },
+  "以后": {
+    "pinyin": "yǐhòu",
+    "explanation": "Noun/Adverb. After; later; afterwards; in the future. At a later time. E.g., 吃饭以后，我们去看电影 (Chīfàn yǐhòu, wǒmen qù kàn diànyǐng - After eating, we will go watch a movie). 以后我会更努力 (Yǐhòu wǒ huì gèng nǔlì - I will work harder in the future).<br><strong>Component Breakdown:</strong><br>以 (yǐ): with, by means of, according to, after.<br>后 (hòu): after, behind, later."
+  },
+  "以前": {
+    "pinyin": "yǐqián",
+    "explanation": "Noun/Adverb. Before; formerly; previously. At an earlier time. E.g., 我以前住在这里 (Wǒ yǐqián zhù zài zhèli - I used to live here before). 吃饭以前要洗手 (Chīfàn yǐqián yào xǐshǒu - Wash hands before eating).<br><strong>Component Breakdown:</strong><br>以 (yǐ): with, by means of, according to, before.<br>前 (qián): before, in front, ahead."
+  },
+  "以为": {
+    "pinyin": "yǐwéi",
+    "explanation": "Verb. To think (mistakenly); to assume; to believe (wrongly). To suppose something that turns out to be incorrect. E.g., 我以为今天是星期天，其实是星期六 (Wǒ yǐwéi jīntiān shì Xīngqītiān, qíshí shì Xīngqīliù - I thought it was Sunday today, but actually it's Saturday).<br><strong>Component Breakdown:</strong><br>以 (yǐ): to take as, to regard as, with.<br>为 (wéi): to be, to act as, to become (here, part of the verb 'to consider')."
+  },
+  "一般": {
+    "pinyin": "yìbān",
+    "explanation": "Adjective/Adverb. General; ordinary; common; usually; generally. Not special or different from others. E.g., (Adj) 这是一本很一般的书 (Zhè shì yī běn hěn yìbān de shū - This is a very ordinary book). (Adv) 我一般早上七点起床 (Wǒ yìbān zǎoshang qī diǎn qǐchuáng - I generally get up at 7 a.m.).<br><strong>Component Breakdown:</strong><br>一 (yī): one, a single.<br>般 (bān): sort, kind, manner, general."
+  },
+  "一边": {
+    "pinyin": "yìbiān",
+    "explanation": "Adverb. At the same time; simultaneously; one side. Used to indicate two actions happening at the same time, often as '一边...一边...' (yìbiān...yìbiān...). E.g., 他一边吃饭一边看电视 (Tā yìbiān chīfàn yìbiān kàn diànshì - He eats while watching TV).<br><strong>Component Breakdown:</strong><br>一 (yī): one.<br>边 (biān): side, edge."
+  },
+  "一直": {
+    "pinyin": "yìzhí",
+    "explanation": "Adverb. Straight (in a line); continuously; always; all along; all the way. Without stopping or changing course. E.g., (Straight) 一直往前走 (Yìzhí wǎng qián zǒu - Go straight ahead). (Continuously) 他一直在学习 (Tā yìzhí zài xuéxí - He has been studying continuously)."
+  },
+  "音乐": {
+    "pinyin": "yīnyuè",
+    "explanation": "Noun. Music. Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion. E.g., 我喜欢听音乐 (Wǒ xǐhuān tīng yīnyuè - I like to listen to music).<br><strong>Component Breakdown:</strong><br>音 (yīn): sound, tone, news.<br>乐 (yuè): music, happy (lè)."
+  },
+  "银行": {
+    "pinyin": "yínháng",
+    "explanation": "Noun. Bank. A financial establishment that invests money deposited by customers, pays it out when required, makes loans at interest, and exchanges currency. E.g., 我要去银行取钱 (Wǒ yào qù yínháng qǔ qián - I'm going to the bank to withdraw money).<br><strong>Component Breakdown:</strong><br>银 (yín): silver, money.<br>行 (háng): firm, business house, line, row (also xíng - to walk)."
+  },
+  "饮料": {
+    "pinyin": "yǐnliào",
+    "explanation": "Noun. Drink; beverage. A liquid for drinking. E.g., 你想喝点什么饮料？ (Nǐ xiǎng hē diǎn shénme yǐnliào? - What kind of drink would you like?).<br><strong>Component Breakdown:</strong><br>饮 (yǐn): to drink.<br>料 (liào): material, stuff, ingredients (here, for drinking)."
+  },
+  "应该": {
+    "pinyin": "yīnggāi",
+    "explanation": "Auxiliary Verb. Should; ought to; must. Used to indicate duty, propriety, or advisability. E.g., 你应该努力学习 (Nǐ yīnggāi nǔlì xuéxí - You should study hard).<br><strong>Component Breakdown:</strong><br>应 (yīng): should, ought to, to respond.<br>该 (gāi): should, ought to, (this) one."
+  },
+  "影响": {
+    "pinyin": "yǐngxiǎng",
+    "explanation": "Noun/Verb. Influence; effect; to influence; to affect. The capacity to have an effect on the character, development, or behavior of someone or something, or the effect itself. E.g., (Noun) 父母对孩子有很大的影响 (Fùmǔ duì háizi yǒu hěn dà de yǐngxiǎng - Parents have a great influence on children). (Verb) 不要影响别人学习 (Bú yào yǐngxiǎng biérén xuéxí - Don't affect other people's studies).<br><strong>Component Breakdown:</strong><br>影 (yǐng): shadow, image, film, to affect.<br>响 (xiǎng): to make a sound, sound, noise, to affect, influence."
+  },
+  "用": {
+    "pinyin": "yòng",
+    "explanation": "Verb. To use; to employ; to apply. To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result. E.g., 我用电脑工作 (Wǒ yòng diànnǎo gōngzuò - I use a computer for work)."
+  },
+  "游戏": {
+    "pinyin": "yóuxì",
+    "explanation": "Noun. Game; play; recreation. An activity that one engages in for amusement or fun. E.g., 我喜欢玩电脑游戏 (Wǒ xǐhuān wán diànnǎo yóuxì - I like to play computer games).<br><strong>Component Breakdown:</strong><br>游 (yóu): to swim, to travel, to play.<br>戏 (xì): play, drama, game, to make fun of."
+  },
+  "有名": {
+    "pinyin": "yǒumíng",
+    "explanation": "Adjective. Famous; well-known. Known about by many people. E.g., 他是一位有名的作家 (Tā shì yī wèi yǒumíng de zuòjiā - He is a famous writer).<br><strong>Component Breakdown:</strong><br>有 (yǒu): to have, there is/are.<br>名 (míng): name, reputation, famous."
+  },
+  "又": {
+    "pinyin": "yòu",
+    "explanation": "Adverb. Again; also; moreover; and. Used to indicate repetition of an action (usually in the past) or an additional point. E.g., (Repetition) 他昨天来了，今天又来了 (Tā zuótiān lái le, jīntiān yòu lái le - He came yesterday, and came again today). (Additional) 这个苹果又大又红 (Zhège píngguǒ yòu dà yòu hóng - This apple is big and red)."
+  },
+  "遇到": {
+    "pinyin": "yùdào",
+    "explanation": "Verb. To meet; to run into; to encounter. To come across or meet by chance. E.g., 我在路上遇到了一个老朋友 (Wǒ zài lùshang yùdào le yī ge lǎo péngyou - I ran into an old friend on the road).<br><strong>Component Breakdown:</strong><br>遇 (yù): to meet, to encounter, to treat.<br>到 (dào): to arrive, (verb complement indicating result or attainment)."
+  },
+  "元": {
+    "pinyin": "yuán",
+    "explanation": "Noun/Measure Word. Yuan (Chinese currency unit); dollar; primary; first. The basic monetary unit of China. E.g., 这本书十元钱 (Zhè běn shū shí yuán qián - This book costs ten yuan)."
+  },
+  "愿意": {
+    "pinyin": "yuànyì",
+    "explanation": "Verb. To be willing; to wish; to want. To be ready, eager, or prepared to do something. E.g., 你愿意帮我吗？ (Nǐ yuànyì bāng wǒ ma? - Are you willing to help me?).<br><strong>Component Breakdown:</strong><br>愿 (yuàn): to wish, to hope, to be willing.<br>意 (yì): idea, meaning, intention, will."
+  },
+  "月亮": {
+    "pinyin": "yuèliang",
+    "explanation": "Noun. Moon. The natural satellite of the earth, visible (chiefly at night) by reflected light from the sun. E.g., 今晚的月亮很圆 (Jīnwǎn de yuèliang hěn yuán - Tonight's moon is very round).<br><strong>Component Breakdown:</strong><br>月 (yuè): moon, month.<br>亮 (liang): bright, light."
+  },
+  "越": {
+    "pinyin": "yuè",
+    "explanation": "Adverb. More; to a greater degree; the more...the more.... Used often in '越...越...' (yuè...yuè...) structure to indicate a parallel increase or decrease. E.g., 天气越来越冷了 (Tiānqì yuèláiyuè lěng le - The weather is getting colder and colder). 他越说越激动 (Tā yuè shuō yuè jīdòng - The more he spoke, the more excited he became)."
+  },
+  "站": {
+    "pinyin": "zhàn",
+    "explanation": "Verb/Noun. To stand; to stop; station; stop. To be in or rise to an upright position on one's feet. E.g., (Verb) 请站起来 (Qǐng zhàn qǐlai - Please stand up). (Noun) 火车站 (huǒchēzhàn - train station)."
+  },
+  "张": {
+    "pinyin": "zhāng",
+    "explanation": "Measure Word/Verb/Noun. (for flat objects like paper, tables, beds, tickets, mouths, faces); to open; to spread; sheet. E.g., (M.W.) 一张纸 (yī zhāng zhǐ - a piece of paper). (Verb) 张开嘴 (zhāng kāi zuǐ - open your mouth)."
+  },
+  "着急": {
+    "pinyin": "zháojí",
+    "explanation": "Verb/Adjective. To worry; to feel anxious; worried; anxious. To feel or show worry, nervousness, or unease about something with an uncertain outcome. E.g., (Verb) 别着急，慢慢来 (Bié zháojí, mànmàn lái - Don't worry, take it slow). (Adj) 他看起来很着急 (Tā kànqǐlái hěn zháojí - He looks very anxious).<br><strong>Component Breakdown:</strong><br>着 (zháo): to touch, to be affected by, to catch fire (here part of fixed expression).<br>急 (jí): urgent, anxious, worried, impatient."
+  },
+  "照顾": {
+    "pinyin": "zhàogù",
+    "explanation": "Verb/Noun. To take care of; to look after; to attend to; care; consideration. To provide for the needs of someone or something. E.g., (Verb) 请帮我照顾一下我的小狗 (Qǐng bāng wǒ zhàogù yīxià wǒ de xiǎo gǒu - Please help me look after my puppy). (Noun) 谢谢你的照顾 (Xièxie nǐ de zhàogù - Thank you for your care).<br><strong>Component Breakdown:</strong><br>照 (zhào): to look after, to reflect, to illuminate, according to.<br>顾 (gù): to look after, to take into consideration, to attend to."
+  },
+  "照片": {
+    "pinyin": "zhàopiàn",
+    "explanation": "Noun. Photograph; picture. A picture made using a camera. E.g., 我想看你的照片 (Wǒ xiǎng kàn nǐ de zhàopiàn - I want to see your photos).<br><strong>Component Breakdown:</strong><br>照 (zhào): to take (a photo), to reflect, to illuminate.<br>片 (piàn): flat thin piece, slice, film, photo."
+  },
+  "照相机": {
+    "pinyin": "zhàoxiàngjī",
+    "explanation": "Noun. Camera. A device for recording visual images in the form of photographs, film, or video signals. E.g., 我买了一个新照相机 (Wǒ mǎi le yī ge xīn zhàoxiàngjī - I bought a new camera).<br><strong>Component Breakdown:</strong><br>照 (zhào): to take (a photo).<br>相 (xiàng): appearance, photo, mutual.<br>机 (jī): machine, device."
+  },
+  "只": {
+    "pinyin": "zhǐ",
+    "explanation": "Adverb/Measure Word. Only; merely; just; (for animals, one of a pair, boats, etc.). E.g., (Adv) 我只有十块钱 (Wǒ zhǐ yǒu shí kuài qián - I only have ten yuan). (M.W.) 一只猫 (yī zhī māo - a cat). 一只鞋 (yī zhī xié - one shoe)."
+  },
+  "中间": {
+    "pinyin": "zhōngjiān",
+    "explanation": "Noun/Position word. Middle; between; among. The point or part that is equally distant from the sides or outer limits of something. E.g., 我坐在他们中间 (Wǒ zuò zài tāmen zhōngjiān - I am sitting between them).<br><strong>Component Breakdown:</strong><br>中 (zhōng): middle, center, in.<br>间 (jiān): space between, interval, room."
+  },
+  "中文": {
+    "pinyin": "Zhōngwén",
+    "explanation": "Noun. Chinese language (written). The written form of the Chinese language. Often used interchangeably with 汉语 (Hànyǔ). E.g., 我在学习中文 (Wǒ zài xuéxí Zhōngwén - I am learning Chinese).<br><strong>Component Breakdown:</strong><br>中 (Zhōng): China, middle.<br>文 (wén): language, literature, writing, culture."
+  },
+  "终于": {
+    "pinyin": "zhōngyú",
+    "explanation": "Adverb. At last; finally; in the end. After a long time, typically when there has been difficulty or delay. E.g., 我们终于到了 (Wǒmen zhōngyú dào le - We finally arrived).<br><strong>Component Breakdown:</strong><br>终 (zhōng): end, finish, finally.<br>于 (yú): in, at, to, from, out of, than (here, a particle indicating result)."
+  },
+  "种": {
+    "pinyin": "zhǒng",
+    "explanation": "Noun/Measure Word. Kind; type; sort; species; race; to plant; to grow. E.g., (M.W.) 你喜欢哪种水果？ (Nǐ xǐhuān nǎ zhǒng shuǐguǒ? - Which kind of fruit do you like?). (Verb - zhòng) 我家种了很多花 (Wǒ jiā zhòng le hěn duō huā - My family grows a lot of flowers)."
+  },
+  "重要": {
+    "pinyin": "zhòngyào",
+    "explanation": "Adjective. Important; significant; major. Of great significance or value. E.g., 这是一个重要的问题 (Zhè shì yī ge zhòngyào de wèntí - This is an important question).<br><strong>Component Breakdown:</strong><br>重 (zhòng): heavy, important, serious.<br>要 (yào): to want, to need, important, main."
+  },
+  "周末": {
+    "pinyin": "zhōumò",
+    "explanation": "Noun. Weekend. Saturday and Sunday, especially regarded as a time for leisure. E.g., 周末你有什么计划？ (Zhōumò nǐ yǒu shénme jìhuà? - What are your plans for the weekend?).<br><strong>Component Breakdown:</strong><br>周 (zhōu): week, cycle, circumference.<br>末 (mò): end, final stage, tip."
+  },
+  "主要": {
+    "pinyin": "zhǔyào",
+    "explanation": "Adjective/Adverb. Main; principal; major; chief; mainly. Most important. E.g., (Adj) 这是我们主要的问题 (Zhè shì wǒmen zhǔyào de wèntí - This is our main problem). (Adv) 我今天主要学习汉语 (Wǒ jīntiān zhǔyào xuéxí Hànyǔ - Today I mainly study Chinese).<br><strong>Component Breakdown:</strong><br>主 (zhǔ): main, principal, master, to advocate.<br>要 (yào): important, main, to want, to need."
+  },
+  "注意": {
+    "pinyin": "zhùyì",
+    "explanation": "Verb/Noun. To pay attention to; to take note of; attention. To take notice of or be aware of. E.g., (Verb) 请注意安全 (Qǐng zhùyì ānquán - Please pay attention to safety). (Noun) 引起注意 (yǐnqǐ zhùyì - to attract attention).<br><strong>Component Breakdown:</strong><br>注 (zhù): to pour, to注 (concentrate), to pay (attention).<br>意 (yì): idea, meaning, intention, attention."
+  },
+  "自己": {
+    "pinyin": "zìjǐ",
+    "explanation": "Pronoun. Oneself; self; own. Used to refer back to the subject of the clause or sentence. E.g., 我自己做的饭 (Wǒ zìjǐ zuò de fàn - The meal I cooked myself). 你要相信自己 (Nǐ yào xiāngxìn zìjǐ - You must believe in yourself).<br><strong>Component Breakdown:</strong><br>自 (zì): self, oneself, from, since.<br>己 (jǐ): self, oneself."
+  },
+  "总是": {
+    "pinyin": "zǒngshì",
+    "explanation": "Adverb. Always. On every occasion or in a way that does not vary. E.g., 他总是迟到 (Tā zǒngshì chídào - He is always late).<br><strong>Component Breakdown:</strong><br>总 (zǒng): always, general, chief, total.<br>是 (shì): to be, yes (here, part of the adverb 'always')."
+  },
+  "嘴": {
+    "pinyin": "zuǐ",
+    "explanation": "Noun. Mouth. The opening in the lower part of the human face, surrounded by the lips, through which food is taken in and vocal sounds are emitted. E.g., 他的嘴很大 (Tā de zuǐ hěn dà - His mouth is very big)."
+  },
+  "最近": {
+    "pinyin": "zuìjìn",
+    "explanation": "Noun/Adverb. Recently; lately; nearest. At a time not long past. E.g., (Adv) 我最近很忙 (Wǒ zuìjìn hěn máng - I have been very busy recently). (Adj) 最近的商店在哪里？ (Zuìjìn de shāngdiàn zài nǎli? - Where is the nearest store?).<br><strong>Component Breakdown:</strong><br>最 (zuì): most, (the) -est.<br>近 (jìn): near, close to."
+  },
+  "作业": {
+    "pinyin": "zuòyè",
+    "explanation": "Noun. Homework; assignment; task; work. Schoolwork that a student is required to do at home. E.g., 我有很多作业要做 (Wǒ yǒu hěn duō zuòyè yào zuò - I have a lot of homework to do).<br><strong>Component Breakdown:</strong><br>作 (zuò): to do, to make, work.<br>业 (yè): profession, industry, business, studies, work."
+  }
+}
