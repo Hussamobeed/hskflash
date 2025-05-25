@@ -1,0 +1,1394 @@
+{
+    "爱情": {
+        "pinyin": "àiqíng",
+        "explanation": "Refers to romantic love, typically between a man and a woman. It's a noun.<br><strong>Component Breakdown:</strong><br>爱 (ài): Love, affection, to like.<br>情 (qíng): Feeling, emotion, sentiment, passion."
+    },
+    "变": {
+        "pinyin": "biàn",
+        "explanation": "Means to change, to become different, or to transform. As a verb, it indicates a process of alteration."
+    },
+    "不仅": {
+        "pinyin": "bùjǐn",
+        "explanation": "A conjunction meaning 'not only...'. It's often used in patterns like '不仅...而且...' (not only...but also...).<br><strong>Component Breakdown:</strong><br>不 (bù): Not, no.<br>仅 (jǐn): Only, merely, alone."
+    },
+    "从来": {
+        "pinyin": "cónglái",
+        "explanation": "An adverb meaning 'always', 'at all times', 'all along'. Often used with a negative to mean 'never'.<br><strong>Component Breakdown:</strong><br>从 (cóng): From, since.<br>来 (lái): To come, to arrive."
+    },
+    "法律": {
+        "pinyin": "fǎlǜ",
+        "explanation": "A noun meaning 'law', 'statute'.<br><strong>Component Breakdown:</strong><br>法 (fǎ): Law, method, way.<br>律 (lǜ): Law, statute, rule."
+    },
+    "感动": {
+        "pinyin": "gǎndòng",
+        "explanation": "As a verb, it means to move someone emotionally or to touch someone's feelings.<br><strong>Component Breakdown:</strong><br>感 (gǎn): To feel, to sense, to move (emotionally).<br>动 (dòng): To move, to act."
+    },
+    "刚": {
+        "pinyin": "gāng",
+        "explanation": "An adverb indicating that an action has taken place a very short time ago; 'just', 'just now'."
+    },
+    "够": {
+        "pinyin": "gòu",
+        "explanation": "As a verb, it means 'to be enough', 'to suffice'. As an adverb, it can mean 'enough' or 'sufficiently'."
+    },
+    "互相": {
+        "pinyin": "hùxiāng",
+        "explanation": "An adverb meaning 'mutually', 'each other'. Indicates a reciprocal action or relationship.<br><strong>Component Breakdown:</strong><br>互 (hù): Mutual, each other.<br>相 (xiāng): Each other, one another; mutually."
+    },
+    "加班": {
+        "pinyin": "jiā bān",
+        "explanation": "A verb phrase meaning 'to work overtime', 'to work extra hours'.<br><strong>Component Breakdown:</strong><br>加 (jiā): To add, to increase.<br>班 (bān): Work shift, class, group."
+    },
+    "即使": {
+        "pinyin": "jíshǐ",
+        "explanation": "A conjunction meaning 'even if', 'even though'. Introduces a concessive clause."
+    },
+    "接受": {
+        "pinyin": "jiēshòu",
+        "explanation": "A verb meaning 'to accept', 'to receive' (e.g., an invitation, a gift, criticism).<br><strong>Component Breakdown:</strong><br>接 (jiē): To receive, to connect, to meet.<br>受 (shòu): To receive, to accept, to suffer."
+    },
+    "开玩笑": {
+        "pinyin": "kāi wánxiào",
+        "explanation": "A common verb phrase meaning 'to joke', 'to jest', 'to make fun of'.<br><strong>Component Breakdown:</strong><br>开 (kāi): To open, to start (here, part of a set phrase).<br>玩 (wán): To play, to have fun.<br>笑 (xiào): To laugh, to smile; a joke."
+    },
+    "浪漫": {
+        "pinyin": "làngmàn",
+        "explanation": "An adjective meaning 'romantic'. This is often a phonetic loanword."
+    },
+    "俩": {
+        "pinyin": "liǎ",
+        "explanation": "A numeral-measure word meaning 'two' or 'both', used for people. It's a colloquial contraction of 两个 (liǎng ge)."
+    },
+    "亮": {
+        "pinyin": "liàng",
+        "explanation": "As a verb, 'to shine', 'to be lit', 'to show'. As an adjective, 'bright', 'light'."
+    },
+    "脾气": {
+        "pinyin": "píqi",
+        "explanation": "A noun referring to 'temper', 'disposition', 'bad temper'.<br><strong>Component Breakdown:</strong><br>脾 (pí): Spleen (in TCM, related to temperament).<br>气 (qì): Air, gas, spirit, temper."
+    },
+    "普通": {
+        "pinyin": "pǔtōng",
+        "explanation": "An adjective meaning 'common', 'ordinary', 'average'.<br><strong>Component Breakdown:</strong><br>普 (pǔ): General, universal.<br>通 (tōng): To go through, common, general."
+    },
+    "缺点": {
+        "pinyin": "quēdiǎn",
+        "explanation": "A noun meaning 'shortcoming', 'defect', 'weakness', 'disadvantage'.<br><strong>Component Breakdown:</strong><br>缺 (quē): To lack, to be short of; a deficiency.<br>点 (diǎn): Point, spot, aspect."
+    },
+    "深": {
+        "pinyin": "shēn",
+        "explanation": "An adjective meaning 'deep' (literal or figurative), 'profound', 'dark' (color)."
+    },
+    "生活": {
+        "pinyin": "shēnghuó",
+        "explanation": "As a noun, it means 'life', 'livelihood'. As a verb, it means 'to live'.<br><strong>Component Breakdown:</strong><br>生 (shēng): To be born, life, to live.<br>活 (huó): To live, alive, vivid."
+    },
+    "适合": {
+        "pinyin": "shìhé",
+        "explanation": "A verb meaning 'to suit', 'to fit'. Indicates appropriateness for a situation, person, or purpose.<br><strong>Component Breakdown:</strong><br>适 (shì): To suit, to fit, appropriate.<br>合 (hé): To combine, to suit, to be equal to."
+    },
+    "熟悉": {
+        "pinyin": "shúxi",
+        "explanation": "A verb meaning 'to be familiar with', 'to know well'.<br><strong>Component Breakdown:</strong><br>熟 (shú): Ripe, cooked, familiar, skilled.<br>悉 (xī): To know, to learn."
+    },
+    "吸引": {
+        "pinyin": "xīyǐn",
+        "explanation": "A verb meaning 'to attract', 'to draw (attention, interest)'.<br><strong>Component Breakdown:</strong><br>吸 (xī): To suck, to absorb, to attract.<br>引 (yǐn): To draw, to lead, to attract."
+    },
+    "羡慕": {
+        "pinyin": "xiànmù",
+        "explanation": "A verb meaning 'to envy', 'to admire' (often with a desire to have what the other person has).<br><strong>Component Breakdown:</strong><br>羡 (xiàn): To envy, to admire.<br>慕 (mù): To admire, to adore."
+    },
+    "新鲜感": {
+        "pinyin": "xīnxiāngǎn",
+        "explanation": "A noun phrase meaning 'feeling of freshness', 'novelty'.<br><strong>Component Breakdown:</strong><br>新鲜 (xīnxiān): Fresh, new.<br>感 (gǎn): Feeling, sense."
+    },
+    "星星": {
+        "pinyin": "xīngxing",
+        "explanation": "A noun meaning 'star' (in the sky). The repetition of 星 (xīng) is common for diminutive or familiar nouns."
+    },
+    "性格": {
+        "pinyin": "xìnggé",
+        "explanation": "A noun meaning 'character', 'personality', 'disposition'.<br><strong>Component Breakdown:</strong><br>性 (xìng): Nature, character, gender.<br>格 (gé): Style, pattern, character."
+    },
+    "幸福": {
+        "pinyin": "xìngfú",
+        "explanation": "An adjective meaning 'happy', 'blessed', 'fortunate'. Refers to a deeper sense of happiness and well-being.<br><strong>Component Breakdown:</strong><br>幸 (xìng): Good fortune, lucky, happiness.<br>福 (fú): Blessing, good fortune, happiness."
+    },
+    "印象": {
+        "pinyin": "yìnxiàng",
+        "explanation": "A noun meaning 'impression' (the effect or feeling retained as a result of experience).<br><strong>Component Breakdown:</strong><br>印 (yìn): To print, a seal, a mark.<br>象 (xiàng): Elephant, image, phenomenon."
+    },
+    "幽默": {
+        "pinyin": "yōumò",
+        "explanation": "An adjective meaning 'humorous'. This is a phonetic loanword from English 'humor'."
+    },
+    "原因": {
+        "pinyin": "yuányīn",
+        "explanation": "A noun meaning 'reason', 'cause'.<br><strong>Component Breakdown:</strong><br>原 (yuán): Original, former, source.<br>因 (yīn): Cause, reason, because."
+    },
+    "祝": {
+        "pinyin": "zhù",
+        "explanation": "A verb meaning 'to wish' (expressing good wishes), 'to pray for'."
+    },
+    "自然": {
+        "pinyin": "zìrán",
+        "explanation": "As a noun, 'nature'. As an adverb, 'naturally', 'certainly'. As an adjective, 'natural'.<br><strong>Component Breakdown:</strong><br>自 (zì): Self, from.<br>然 (rán): So, thus, correct, right; (suffix like -ly or -ness)."
+    },
+    "最好": {
+        "pinyin": "zuìhǎo",
+        "explanation": "An adverb meaning 'had better', 'it would be best'. Indicates a strong suggestion or advice.<br><strong>Component Breakdown:</strong><br>最 (zuì): Most, -est (superlative prefix).<br>好 (hǎo): Good, well."
+    },
+    "毕业": {
+        "pinyin": "bì yè",
+        "explanation": "To graduate from school.<br><strong>Component Breakdown:</strong><br>毕 (bì): To finish, to complete, entire.<br>业 (yè): Profession, course of study, enterprise."
+    },
+    "不同": {
+        "pinyin": "bùtóng",
+        "explanation": "Adjective meaning 'different', 'not the same'.<br><strong>Component Breakdown:</strong><br>不 (bù): Not, no.<br>同 (tóng): Same, alike, together."
+    },
+    "差不多": {
+        "pinyin": "chàbuduō",
+        "explanation": "Adverb meaning 'almost', 'nearly', 'about the same'.<br><strong>Component Breakdown:</strong><br>差 (chà): Differ from, short of.<br>不 (bù): Not.<br>多 (duō): Much, many."
+    },
+    "当": {
+        "pinyin": "dāng",
+        "explanation": "As a preposition, means 'when', 'just at (a time or place)'. Can also mean 'to be', 'to serve as'."
+    },
+    "短信": {
+        "pinyin": "duǎnxìn",
+        "explanation": "Noun meaning 'text message', 'SMS'.<br><strong>Component Breakdown:</strong><br>短 (duǎn): Short.<br>信 (xìn): Letter, message, trust."
+    },
+    "而": {
+        "pinyin": "ér",
+        "explanation": "Conjunction indicating a contrast ('while', 'yet') or transition."
+    },
+    "丰富": {
+        "pinyin": "fēngfù",
+        "explanation": "Verb meaning 'to enrich'; Adjective meaning 'rich', 'abundant', 'plentiful'.<br><strong>Component Breakdown:</strong><br>丰 (fēng): Abundant, plentiful.<br>富 (fù): Rich, wealthy."
+    },
+    "感到": {
+        "pinyin": "gǎndào",
+        "explanation": "Verb meaning 'to feel', 'to sense', 'to perceive'.<br><strong>Component Breakdown:</strong><br>感 (gǎn): To feel, to sense.<br>到 (dào): To arrive, (resultative complement indicating achievement)."
+    },
+    "逛": {
+        "pinyin": "guàng",
+        "explanation": "Verb meaning 'to stroll', 'to roam', 'to wander around' (often for leisure, like window shopping)."
+    },
+    "好像": {
+        "pinyin": "hǎoxiàng",
+        "explanation": "Adverb meaning 'as if', 'to seem like'.<br><strong>Component Breakdown:</strong><br>好 (hǎo): Good, very.<br>像 (xiàng): To be like, image."
+    },
+    "交": {
+        "pinyin": "jiāo",
+        "explanation": "Verb meaning 'to make (friends)', 'to hand over', 'to intersect'."
+    },
+    "交流": {
+        "pinyin": "jiāoliú",
+        "explanation": "Verb meaning 'to exchange', 'to communicate', 'to interact'.<br><strong>Component Breakdown:</strong><br>交 (jiāo): To intersect, exchange.<br>流 (liú): To flow, to spread."
+    },
+    "及时": {
+        "pinyin": "jíshí",
+        "explanation": "Adverb meaning 'in time', 'promptly', 'without delay'.<br><strong>Component Breakdown:</strong><br>及 (jí): To reach, and.<br>时 (shí): Time, when."
+    },
+    "街": {
+        "pinyin": "jiē",
+        "explanation": "Noun meaning 'street'."
+    },
+    "尽管": {
+        "pinyin": "jǐnguǎn",
+        "explanation": "Conjunction meaning 'although', 'even though', 'despite'."
+    },
+    "镜子": {
+        "pinyin": "jìngzi",
+        "explanation": "Noun meaning 'mirror'.<br><strong>Component Breakdown:</strong><br>镜 (jìng): Mirror, lens.<br>子 (zi): Noun suffix."
+    },
+    "聚会": {
+        "pinyin": "jùhuì",
+        "explanation": "Noun/Verb meaning 'party', 'gathering'; 'to have a party', 'to get together'.<br><strong>Component Breakdown:</strong><br>聚 (jù): To gather, to assemble.<br>会 (huì): To meet, meeting."
+    },
+    "困难": {
+        "pinyin": "kùnnan",
+        "explanation": "Noun meaning 'difficulty', 'hardship'; Adjective meaning 'difficult'.<br><strong>Component Breakdown:</strong><br>困 (kùn): Trapped, difficult, sleepy.<br>难 (nán): Difficult, hard."
+    },
+    "联系": {
+        "pinyin": "liánxì",
+        "explanation": "Verb meaning 'to contact', 'to get in touch with'; Noun meaning 'connection', 'contact'.<br><strong>Component Breakdown:</strong><br>联 (lián): To connect, to join.<br>系 (xì): System, to be, to connect."
+    },
+    "理解": {
+        "pinyin": "lǐjiě",
+        "explanation": "Verb meaning 'to understand', 'to comprehend'.<br><strong>Component Breakdown:</strong><br>理 (lǐ): Reason, logic, to manage.<br>解 (jiě): To understand, to solve, to untie."
+    },
+    "麻烦": {
+        "pinyin": "máfan",
+        "explanation": "Verb meaning 'to bother'; Noun meaning 'trouble'; Adjective meaning 'troublesome'.<br><strong>Component Breakdown:</strong><br>麻 (má): Hemp, numb.<br>烦 (fán): Annoyed, trouble."
+    },
+    "陪": {
+        "pinyin": "péi",
+        "explanation": "Verb meaning 'to accompany', 'to keep someone company'."
+    },
+    "平时": {
+        "pinyin": "píngshí",
+        "explanation": "Noun meaning 'normal times', 'usually', 'ordinarily'.<br><strong>Component Breakdown:</strong><br>平 (píng): Flat, level, ordinary.<br>时 (shí): Time."
+    },
+    "却": {
+        "pinyin": "què",
+        "explanation": "Adverb meaning 'but', 'yet', 'however', indicating a contrast."
+    },
+    "身边": {
+        "pinyin": "shēnbiān",
+        "explanation": "Noun meaning 'at or by one's side'.<br><strong>Component Breakdown:</strong><br>身 (shēn): Body, person.<br>边 (biān): Side, edge."
+    },
+    "适应": {
+        "pinyin": "shìyìng",
+        "explanation": "Verb meaning 'to adapt', 'to get used to', 'to suit'.<br><strong>Component Breakdown:</strong><br>适 (shì): To suit, to fit.<br>应 (yìng): To respond, to suit."
+    },
+    "讨厌": {
+        "pinyin": "tǎoyàn",
+        "explanation": "Verb meaning 'to dislike', 'to loathe'; Adjective meaning 'disgusting', 'annoying'.<br><strong>Component Breakdown:</strong><br>讨 (tǎo): To ask for, to invite (here, invites dislike).<br>厌 (yàn): To detest, to be fed up."
+    },
+    "无聊": {
+        "pinyin": "wúliáo",
+        "explanation": "Adjective meaning 'boring', 'bored', 'senseless'.<br><strong>Component Breakdown:</strong><br>无 (wú): Without, no.<br>聊 (liáo): To chat, to rely on (here implies lack of substance)."
+    },
+    "校园": {
+        "pinyin": "xiàoyuán",
+        "explanation": "Noun meaning '(school) campus'.<br><strong>Component Breakdown:</strong><br>校 (xiào): School.<br>园 (yuán): Garden, park, campus."
+    },
+    "友谊": {
+        "pinyin": "yǒuyì",
+        "explanation": "Noun meaning 'friendship'.<br><strong>Component Breakdown:</strong><br>友 (yǒu): Friend.<br>谊 (yì): Friendship."
+    },
+    "真正": {
+        "pinyin": "zhēnzhèng",
+        "explanation": "Adjective meaning 'true', 'real', 'genuine'.<br><strong>Component Breakdown:</strong><br>真 (zhēn): Real, true.<br>正 (zhèng): Right, proper, main."
+    },
+    "正好": {
+        "pinyin": "zhènghǎo",
+        "explanation": "Adverb meaning 'just in time', 'just right', 'coincidentally'.<br><strong>Component Breakdown:</strong><br>正 (zhèng): Just, right.<br>好 (hǎo): Good, well (here, indicates 'just right')."
+    },
+    "周围": {
+        "pinyin": "zhōuwéi",
+        "explanation": "Noun meaning 'surrounding', 'around'.<br><strong>Component Breakdown:</strong><br>周 (zhōu): Circle, week, around.<br>围 (wéi): To surround, to encircle."
+    },
+    "专门": {
+        "pinyin": "zhuānmén",
+        "explanation": "Adverb meaning 'specially', 'specialized'.<br><strong>Component Breakdown:</strong><br>专 (zhuān): Special, concentrated.<br>门 (mén): Door, field, branch (of study)."
+    },
+    "安排": {
+        "pinyin": "ānpái",
+        "explanation": "Verb meaning 'to arrange', 'to plan'; Noun meaning 'arrangement'.<br><strong>Component Breakdown:</strong><br>安 (ān): Safe, calm, to place.<br>排 (pái): To arrange, to line up."
+    },
+    "本来": {
+        "pinyin": "běnlái",
+        "explanation": "Adverb meaning 'originally', 'at first', 'it goes without saying'.<br><strong>Component Breakdown:</strong><br>本 (běn): Root, origin, originally.<br>来 (lái): To come."
+    },
+    "笔试": {
+        "pinyin": "bǐshì",
+        "explanation": "Noun meaning 'written examination'.<br><strong>Component Breakdown:</strong><br>笔 (bǐ): Pen, writing.<br>试 (shì): To test, to try; exam."
+    },
+    "不管": {
+        "pinyin": "bùguǎn",
+        "explanation": "Conjunction meaning 'no matter (what, how, etc.)', 'regardless of'."
+    },
+    "材料": {
+        "pinyin": "cáiliào",
+        "explanation": "Noun meaning 'material', 'data', 'stuff'.<br><strong>Component Breakdown:</strong><br>材 (cái): Material, timber.<br>料 (liào): Material, stuff, to expect."
+    },
+    "诚实": {
+        "pinyin": "chéngshí",
+        "explanation": "Adjective meaning 'honest', 'truthful'.<br><strong>Component Breakdown:</strong><br>诚 (chéng): Sincere, honest.<br>实 (shí): Real, true, solid."
+    },
+    "负责": {
+        "pinyin": "fùzé",
+        "explanation": "Verb meaning 'to be responsible for', 'to be in charge of'.<br><strong>Component Breakdown:</strong><br>负 (fù): To bear, to carry (responsibility).<br>责 (zé): Duty, responsibility."
+    },
+    "符合": {
+        "pinyin": "fúhé",
+        "explanation": "Verb meaning 'to accord with', 'to conform to', 'to meet (standards)'.<br><strong>Component Breakdown:</strong><br>符 (fú): Symbol, to correspond.<br>合 (hé): To match, to suit, to combine."
+    },
+    "改变": {
+        "pinyin": "gǎibiàn",
+        "explanation": "Verb meaning 'to change', 'to alter'; Noun meaning 'change'.<br><strong>Component Breakdown:</strong><br>改 (gǎi): To change, to alter.<br>变 (biàn): To change, to become."
+    },
+    "感觉": {
+        "pinyin": "gǎnjué",
+        "explanation": "Noun meaning 'feeling', 'sensation'; Verb meaning 'to feel', 'to think'.<br><strong>Component Breakdown:</strong><br>感 (gǎn): To feel, to sense.<br>觉 (jué): To feel, to sense; sleep."
+    },
+    "顾客": {
+        "pinyin": "gùkè",
+        "explanation": "Noun meaning 'customer', 'client'.<br><strong>Component Breakdown:</strong><br>顾 (gù): To look after, to attend to.<br>客 (kè): Guest, customer."
+    },
+    "紧张": {
+        "pinyin": "jǐnzhāng",
+        "explanation": "Adjective meaning 'nervous', 'tense', 'intense'.<br><strong>Component Breakdown:</strong><br>紧 (jǐn): Tight, tense.<br>张 (zhāng): To stretch, to open up; nervous."
+    },
+    "留": {
+        "pinyin": "liú",
+        "explanation": "Verb meaning 'to leave (behind)', 'to stay', 'to keep', 'to reserve'."
+    },
+    "另外": {
+        "pinyin": "lìngwài",
+        "explanation": "Conjunction/Adverb meaning 'besides', 'in addition', 'furthermore'; can also mean 'other'."
+    },
+    "律师": {
+        "pinyin": "lǜshī",
+        "explanation": "Noun meaning 'lawyer'.<br><strong>Component Breakdown:</strong><br>律 (lǜ): Law.<br>师 (shī): Teacher, master, professional."
+    },
+    "面试": {
+        "pinyin": "miànshì",
+        "explanation": "Noun/Verb meaning 'interview' (for a job, etc.); 'to interview'.<br><strong>Component Breakdown:</strong><br>面 (miàn): Face, surface, side.<br>试 (shì): To test, to try; exam."
+    },
+    "能力": {
+        "pinyin": "nénglì",
+        "explanation": "Noun meaning 'ability', 'capability', 'competence'.<br><strong>Component Breakdown:</strong><br>能 (néng): Can, to be able to; ability.<br>力 (lì): Power, strength, ability."
+    },
+    "判断": {
+        "pinyin": "pànduàn",
+        "explanation": "Verb meaning 'to judge', 'to decide'; Noun meaning 'judgment'.<br><strong>Component Breakdown:</strong><br>判 (pàn): To judge, to discern.<br>断 (duàn): To decide, to break, to cut off."
+    },
+    "其次": {
+        "pinyin": "qícì",
+        "explanation": "Pronoun/Adverb meaning 'second', 'next', 'then'."
+    },
+    "收入": {
+        "pinyin": "shōurù",
+        "explanation": "Noun meaning 'income', 'revenue'.<br><strong>Component Breakdown:</strong><br>收 (shōu): To receive, to collect.<br>入 (rù): To enter."
+    },
+    "首先": {
+        "pinyin": "shǒuxiān",
+        "explanation": "Pronoun/Adverb meaning 'first', 'firstly', 'in the first place'."
+    },
+    "提供": {
+        "pinyin": "tígōng",
+        "explanation": "Verb meaning 'to provide', 'to supply', 'to offer'.<br><strong>Component Breakdown:</strong><br>提 (tí): To carry, to raise, to put forward.<br>供 (gōng): To supply, to provide."
+    },
+    "挺": {
+        "pinyin": "tǐng",
+        "explanation": "Adverb meaning 'quite', 'rather', 'very'. Can also mean 'to stick out'."
+    },
+    "通知": {
+        "pinyin": "tōngzhī",
+        "explanation": "Verb meaning 'to inform', 'to notify'; Noun meaning 'notice', 'notification'.<br><strong>Component Breakdown:</strong><br>通 (tōng): To go through, to communicate.<br>知 (zhī): To know, to inform."
+    },
+    "体育馆": {
+        "pinyin": "tǐyùguǎn",
+        "explanation": "Noun meaning 'gymnasium', 'stadium'.<br><strong>Component Breakdown:</strong><br>体 (tǐ): Body.<br>育 (yù): To educate, to raise.<br>馆 (guǎn): Hall, building (for a specific purpose)."
+    },
+    "信心": {
+        "pinyin": "xìnxīn",
+        "explanation": "Noun meaning 'confidence', 'faith'.<br><strong>Component Breakdown:</strong><br>信 (xìn): Trust, faith, letter.<br>心 (xīn): Heart, mind."
+    },
+    "应聘": {
+        "pinyin": "yìngpìn",
+        "explanation": "Verb meaning 'to apply for a job', 'to accept an offer of employment'.<br><strong>Component Breakdown:</strong><br>应 (yìng): To respond, to answer (a call).<br>聘 (pìn): To hire, to engage."
+    },
+    "与": {
+        "pinyin": "yǔ",
+        "explanation": "Preposition/Conjunction meaning 'with', 'and' (more formal than 和)."
+    },
+    "约会": {
+        "pinyin": "yuēhuì",
+        "explanation": "Noun/Verb meaning '(romantic) date'; 'to go on a date'.<br><strong>Component Breakdown:</strong><br>约 (yuē): To make an appointment, to invite.<br>会 (huì): To meet, meeting."
+    },
+    "咱们": {
+        "pinyin": "zánmen",
+        "explanation": "Pronoun meaning 'we', 'us' (inclusive - includes the person being spoken to)."
+    },
+    "招聘": {
+        "pinyin": "zhāopìn",
+        "explanation": "Verb meaning 'to recruit', 'to invite applications for a job'.<br><strong>Component Breakdown:</strong><br>招 (zhāo): To recruit, to beckon.<br>聘 (pìn): To hire, to engage."
+    },
+    "正式": {
+        "pinyin": "zhèngshì",
+        "explanation": "Adjective meaning 'formal', 'official'.<br><strong>Component Breakdown:</strong><br>正 (zhèng): Proper, right, formal.<br>式 (shì): Style, type, form."
+    },
+    "专业": {
+        "pinyin": "zhuānyè",
+        "explanation": "Noun meaning 'major (in college)', 'specialty', 'profession'.<br><strong>Component Breakdown:</strong><br>专 (zhuān): Special, focused.<br>业 (yè): Profession, course of study."
+    },
+    "准时": {
+        "pinyin": "zhǔnshí",
+        "explanation": "Adjective meaning 'punctual', 'on time'.<br><strong>Component Breakdown:</strong><br>准 (zhǔn): Accurate, standard, allowed.<br>时 (shí): Time."
+    },
+    "按": {
+        "pinyin": "àn",
+        "explanation": "Preposition meaning 'according to', 'in accordance with'. Can also mean 'to press'."
+    },
+    "按时": {
+        "pinyin": "ànshí",
+        "explanation": "Adverb meaning 'on time', 'on schedule', 'punctually'.<br><strong>Component Breakdown:</strong><br>按 (àn): According to.<br>时 (shí): Time."
+    },
+    "按照": {
+        "pinyin": "ànzhào",
+        "explanation": "Preposition meaning 'according to', 'in accordance with', 'in the light of'.<br><strong>Component Breakdown:</strong><br>按 (àn): According to.<br>照 (zhào): According to, to reflect, to shine."
+    },
+    "保证": {
+        "pinyin": "bǎozhèng",
+        "explanation": "Verb meaning 'to guarantee', 'to ensure'; Noun meaning 'guarantee'.<br><strong>Component Breakdown:</strong><br>保 (bǎo): To protect, to guarantee.<br>证 (zhèng): To prove, proof, certificate."
+    },
+    "并": {
+        "pinyin": "bìng",
+        "explanation": "Adverb used before a negative for emphasis ('actually not', 'definitely not'); Conjunction meaning 'and', 'furthermore'."
+    },
+    "不得不": {
+        "pinyin": "bù dé bù",
+        "explanation": "Phrase meaning 'have to', 'must', 'cannot but'.<br><strong>Component Breakdown:</strong><br>不 (bù): Not.<br>得 (dé): Must (here).<br>不 (bù): Not."
+    },
+    "成": {
+        "pinyin": "chéng",
+        "explanation": "Verb meaning 'to succeed', 'to accomplish', 'to become'."
+    },
+    "成功": {
+        "pinyin": "chénggōng",
+        "explanation": "Adjective meaning 'successful'; Noun meaning 'success'.<br><strong>Component Breakdown:</strong><br>成 (chéng): To succeed.<br>功 (gōng): Merit, achievement, success."
+    },
+    "调查": {
+        "pinyin": "diàochá",
+        "explanation": "Verb meaning 'to investigate', 'to survey'; Noun meaning 'investigation', 'survey'.<br><strong>Component Breakdown:</strong><br>调 (diào): To investigate, to transfer.<br>查 (chá): To check, to investigate."
+    },
+    "方法": {
+        "pinyin": "fāngfǎ",
+        "explanation": "Noun meaning 'method', 'way', 'means'.<br><strong>Component Breakdown:</strong><br>方 (fāng): Square, direction, method.<br>法 (fǎ): Law, method."
+    },
+    "份": {
+        "pinyin": "fèn",
+        "explanation": "Measure word for portions, copies, jobs, newspapers, etc."
+    },
+    "感谢": {
+        "pinyin": "gǎnxiè",
+        "explanation": "Verb meaning 'to thank', 'to be grateful'.<br><strong>Component Breakdown:</strong><br>感 (gǎn): To feel.<br>谢 (xiè): To thank."
+    },
+    "奖金": {
+        "pinyin": "jiǎngjīn",
+        "explanation": "Noun meaning 'bonus', 'money award'.<br><strong>Component Breakdown:</strong><br>奖 (jiǎng): Award, prize.<br>金 (jīn): Gold, money."
+    },
+    "计划": {
+        "pinyin": "jìhuà",
+        "explanation": "Noun meaning 'plan', 'project'; Verb meaning 'to plan'.<br><strong>Component Breakdown:</strong><br>计 (jì): To calculate, to plan.<br>划 (huà): To draw, to plan."
+    },
+    "积累": {
+        "pinyin": "jīlěi",
+        "explanation": "Verb meaning 'to accumulate', 'to build up'.<br><strong>Component Breakdown:</strong><br>积 (jī): To accumulate.<br>累 (lěi): To accumulate."
+    },
+    "经验": {
+        "pinyin": "jīngyàn",
+        "explanation": "Noun meaning 'experience'.<br><strong>Component Breakdown:</strong><br>经 (jīng): To pass through, to experience.<br>验 (yàn): To test, to examine; experience."
+    },
+    "乱": {
+        "pinyin": "luàn",
+        "explanation": "Adjective meaning 'messy', 'confused', 'chaotic'; Adverb meaning 'randomly'."
+    },
+    "生意": {
+        "pinyin": "shēngyi",
+        "explanation": "Noun meaning 'business', 'trade'.<br><strong>Component Breakdown:</strong><br>生 (shēng): Life, to generate.<br>意 (yì): Idea, meaning, intention."
+    },
+    "甚至": {
+        "pinyin": "shènzhì",
+        "explanation": "Conjunction/Adverb meaning 'even', 'so far as to'."
+    },
+    "顺利": {
+        "pinyin": "shùnlì",
+        "explanation": "Adjective meaning 'smooth', 'successful', 'without a hitch'.<br><strong>Component Breakdown:</strong><br>顺 (shùn): Smooth, along.<br>利 (lì): Benefit, sharp, smooth."
+    },
+    "谈": {
+        "pinyin": "tán",
+        "explanation": "Verb meaning 'to talk', 'to discuss', 'to chat'."
+    },
+    "提": {
+        "pinyin": "tí",
+        "explanation": "Verb meaning 'to mention', 'to bring up', 'to lift', 'to carry'."
+    },
+    "提前": {
+        "pinyin": "tíqián",
+        "explanation": "Verb/Adverb meaning 'to do (sth) in advance', 'ahead of time'.<br><strong>Component Breakdown:</strong><br>提 (tí): To shift to an earlier time.<br>前 (qián): Before, front."
+    },
+    "提醒": {
+        "pinyin": "tíxǐng",
+        "explanation": "Verb meaning 'to remind', 'to warn'.<br><strong>Component Breakdown:</strong><br>提 (tí): To mention.<br>醒 (xǐng): To wake up, to be awake."
+    },
+    "完全": {
+        "pinyin": "wánquán",
+        "explanation": "Adverb meaning 'completely', 'entirely', 'fully'.<br><strong>Component Breakdown:</strong><br>完 (wán): To finish, complete.<br>全 (quán): All, whole, entire."
+    },
+    "消息": {
+        "pinyin": "xiāoxi",
+        "explanation": "Noun meaning 'news', 'information', 'message'.<br><strong>Component Breakdown:</strong><br>消 (xiāo): To disappear, news.<br>息 (xi): News, breath, interest."
+    },
+    "一切": {
+        "pinyin": "yíqiè",
+        "explanation": "Pronoun meaning 'all', 'everything', 'every'.<br><strong>Component Breakdown:</strong><br>一 (yī): One.<br>切 (qiè): All, every (also means 'to cut')."
+    },
+    "以为": {
+        "pinyin": "yǐwéi",
+        "explanation": "Verb meaning 'to think', 'to believe' (often mistakenly)."
+    },
+    "原来": {
+        "pinyin": "yuánlái",
+        "explanation": "Adjective meaning 'original', 'former'; Adverb meaning 'originally', 'as it turns out', 'actually'.<br><strong>Component Breakdown:</strong><br>原 (yuán): Original, source.<br>来 (lái): To come."
+    },
+    "知识": {
+        "pinyin": "zhīshi",
+        "explanation": "Noun meaning 'knowledge'.<br><strong>Component Breakdown:</strong><br>知 (zhī): To know.<br>识 (shi): To know, knowledge."
+    },
+    "赚": {
+        "pinyin": "zhuàn",
+        "explanation": "Verb meaning 'to earn (money)', 'to make a profit'."
+    },
+    "标准": {
+        "pinyin": "biāozhǔn",
+        "explanation": "Noun meaning 'standard', 'criterion'; Adjective meaning 'standard'.<br><strong>Component Breakdown:</strong><br>标 (biāo): Mark, sign, standard.<br>准 (zhǔn): Standard, accurate."
+    },
+    "打折": {
+        "pinyin": "dǎ zhé",
+        "explanation": "Verb phrase meaning 'to give a discount'.<br><strong>Component Breakdown:</strong><br>打 (dǎ): To hit, to make (here, part of a set phrase).<br>折 (zhé): Discount, to break, to fold."
+    },
+    "购买": {
+        "pinyin": "gòumǎi",
+        "explanation": "Verb meaning 'to buy', 'to purchase' (more formal than 买).<br><strong>Component Breakdown:</strong><br>购 (gòu): To buy, to purchase.<br>买 (mǎi): To buy."
+    },
+    "购物": {
+        "pinyin": "gòu wù",
+        "explanation": "Verb phrase meaning 'to go shopping', 'to buy things'.<br><strong>Component Breakdown:</strong><br>购 (gòu): To buy.<br>物 (wù): Thing, object, matter."
+    },
+    "光": {
+        "pinyin": "guāng",
+        "explanation": "Adverb meaning 'only', 'merely'; Noun meaning 'light'; Adjective meaning 'bare'."
+    },
+    "广告": {
+        "pinyin": "guǎnggào",
+        "explanation": "Noun meaning 'advertisement'.<br><strong>Component Breakdown:</strong><br>广 (guǎng): Wide, broad, widespread.<br>告 (gào): To tell, to inform, to announce."
+    },
+    "家具": {
+        "pinyin": "jiājù",
+        "explanation": "Noun meaning 'furniture'.<br><strong>Component Breakdown:</strong><br>家 (jiā): Home, family.<br>具 (jù): Tool, utensil, furniture."
+    },
+    "价格": {
+        "pinyin": "jiàgé",
+        "explanation": "Noun meaning 'price'.<br><strong>Component Breakdown:</strong><br>价 (jià): Price, value.<br>格 (gé): Form, standard, pattern."
+    },
+    "寄": {
+        "pinyin": "jì",
+        "explanation": "Verb meaning 'to mail', 'to send', 'to entrust'."
+    },
+    "考虑": {
+        "pinyin": "kǎolǜ",
+        "explanation": "Verb meaning 'to consider', 'to think over'.<br><strong>Component Breakdown:</strong><br>考 (kǎo): To test, to examine, to think.<br>虑 (lǜ): To consider, to worry."
+    },
+    "肯定": {
+        "pinyin": "kěndìng",
+        "explanation": "Adverb meaning 'surely', 'certainly'; Verb meaning 'to affirm'; Adjective meaning 'definite'.<br><strong>Component Breakdown:</strong><br>肯 (kěn): To be willing to, to agree.<br>定 (dìng): To fix, to decide, definite."
+    },
+    "浪费": {
+        "pinyin": "làngfèi",
+        "explanation": "Verb meaning 'to waste'; Adjective meaning 'wasteful'.<br><strong>Component Breakdown:</strong><br>浪 (làng): Wave, unrestrained.<br>费 (fèi): To spend, fee, waste."
+    },
+    "流行": {
+        "pinyin": "liúxíng",
+        "explanation": "Verb meaning 'to be popular', 'to be prevalent'; Adjective meaning 'popular', 'fashionable'.<br><strong>Component Breakdown:</strong><br>流 (liú): To flow, to spread.<br>行 (xíng): To go, to walk, to be current."
+    },
+    "年龄": {
+        "pinyin": "niánlíng",
+        "explanation": "Noun meaning 'age'.<br><strong>Component Breakdown:</strong><br>年 (nián): Year.<br>龄 (líng): Age."
+    },
+    "葡萄": {
+        "pinyin": "pútao",
+        "explanation": "Noun meaning 'grape'."
+    },
+    "任何": {
+        "pinyin": "rènhé",
+        "explanation": "Pronoun meaning 'any', 'whatever', 'whichever'."
+    },
+    "沙发": {
+        "pinyin": "shāfā",
+        "explanation": "Noun meaning 'sofa', 'couch'. (Phonetic loanword)"
+    },
+    "商场": {
+        "pinyin": "shāngchǎng",
+        "explanation": "Noun meaning 'shopping mall', 'department store'.<br><strong>Component Breakdown:</strong><br>商 (shāng): Commerce, business.<br>场 (chǎng): Place, field, market."
+    },
+    "实际": {
+        "pinyin": "shíjì",
+        "explanation": "Noun meaning 'reality', 'practice'; Adjective meaning 'actual', 'practical'.<br><strong>Component Breakdown:</strong><br>实 (shí): Real, true.<br>际 (jì): Border, between, actual."
+    },
+    "实在": {
+        "pinyin": "shízài",
+        "explanation": "Adverb meaning 'really', 'indeed'; Adjective meaning 'honest', 'real'.<br><strong>Component Breakdown:</strong><br>实 (shí): Real, true.<br>在 (zài): To be at, in."
+    },
+    "受到": {
+        "pinyin": "shòudào",
+        "explanation": "Verb meaning 'to receive', 'to get', 'to suffer' (often abstract things like influence, praise, criticism).<br><strong>Component Breakdown:</strong><br>受 (shòu): To receive, to accept.<br>到 (dào): To arrive, (resultative complement)."
+    },
+    "顺便": {
+        "pinyin": "shùnbiàn",
+        "explanation": "Adverb meaning 'in passing', 'conveniently', 'by the way'.<br><strong>Component Breakdown:</strong><br>顺 (shùn): Along, following.<br>便 (biàn): Convenient, then."
+    },
+    "台": {
+        "pinyin": "tái",
+        "explanation": "Measure word for machines, computers, performances, etc. Also means 'platform', 'stage'."
+    },
+    "味道": {
+        "pinyin": "wèidào",
+        "explanation": "Noun meaning 'taste', 'flavor', 'smell', 'odor'.<br><strong>Component Breakdown:</strong><br>味 (wèi): Taste, smell.<br>道 (dào): Way, path, principle."
+    },
+    "现金": {
+        "pinyin": "xiànjīn",
+        "explanation": "Noun meaning 'cash'.<br><strong>Component Breakdown:</strong><br>现 (xiàn): Present, current, cash.<br>金 (jīn): Gold, money."
+    },
+    "效果": {
+        "pinyin": "xiàoguǒ",
+        "explanation": "Noun meaning 'effect', 'result', 'outcome'.<br><strong>Component Breakdown:</strong><br>效 (xiào): Effect, efficacy.<br>果 (guǒ): Fruit, result."
+    },
+    "样子": {
+        "pinyin": "yàngzi",
+        "explanation": "Noun meaning 'look', 'appearance', 'manner', 'style', 'sample'.<br><strong>Component Breakdown:</strong><br>样 (yàng): Appearance, pattern, sample.<br>子 (zi): Noun suffix."
+    },
+    "邀请": {
+        "pinyin": "yāoqǐng",
+        "explanation": "Verb meaning 'to invite'; Noun meaning 'invitation'.<br><strong>Component Breakdown:</strong><br>邀 (yāo): To invite.<br>请 (qǐng): To request, please, to invite."
+    },
+    "艺术": {
+        "pinyin": "yìshù",
+        "explanation": "Noun meaning 'art'.<br><strong>Component Breakdown:</strong><br>艺 (yì): Skill, art.<br>术 (shù): Method, technique, art."
+    },
+    "优点": {
+        "pinyin": "yōudiǎn",
+        "explanation": "Noun meaning 'merit', 'advantage', 'strong point'.<br><strong>Component Breakdown:</strong><br>优 (yōu): Excellent, superior.<br>点 (diǎn): Point, aspect."
+    },
+    "尤其": {
+        "pinyin": "yóuqí",
+        "explanation": "Adverb meaning 'especially', 'particularly'."
+    },
+    "咱": {
+        "pinyin": "zán",
+        "explanation": "Pronoun meaning 'I', 'we', 'us' (inclusive, similar to 咱们, often used in Northern China)."
+    },
+    "制冷": {
+        "pinyin": "zhìlěng",
+        "explanation": "Verb meaning 'to refrigerate', 'to cool'.<br><strong>Component Breakdown:</strong><br>制 (zhì): To make, to manufacture, to control.<br>冷 (lěng): Cold."
+    },
+    "质量": {
+        "pinyin": "zhìliàng",
+        "explanation": "Noun meaning 'quality'. (Can also mean 'mass' in physics).<br><strong>Component Breakdown:</strong><br>质 (zhì): Quality, nature, substance.<br>量 (liàng): Quantity, amount, to measure."
+    },
+    "做客": {
+        "pinyin": "zuò kè",
+        "explanation": "Verb phrase meaning 'to be a guest'.<br><strong>Component Breakdown:</strong><br>做 (zuò): To do, to make, to be.<br>客 (kè): Guest."
+    },
+    "百分之": {
+        "pinyin": "bǎi fēn zhī",
+        "explanation": "Phrase meaning 'percent'. Used as '百分之X' (bǎi fēn zhī X) to mean 'X percent'.<br><strong>Component Breakdown:</strong><br>百 (bǎi): Hundred.<br>分 (fēn): To divide, part.<br>之 (zhī): Possessive particle, 'of'."
+    },
+    "倍": {
+        "pinyin": "bèi",
+        "explanation": "Measure word meaning 'times', '-fold'. E.g., 三倍 (sān bèi) means 'three times' or 'threefold'."
+    },
+    "尝": {
+        "pinyin": "cháng",
+        "explanation": "Verb meaning 'to taste', 'to try (food)'."
+    },
+    "打扰": {
+        "pinyin": "dǎrǎo",
+        "explanation": "Verb meaning 'to disturb', 'to bother', 'to interrupt'.<br><strong>Component Breakdown:</strong><br>打 (dǎ): To hit (here, part of a set phrase).<br>扰 (rǎo): To disturb, to trouble."
+    },
+    "方面": {
+        "pinyin": "fāngmiàn",
+        "explanation": "Noun meaning 'aspect', 'side', 'respect'.<br><strong>Component Breakdown:</strong><br>方 (fāng): Direction, side.<br>面 (miàn): Face, side, surface."
+    },
+    "各": {
+        "pinyin": "gè",
+        "explanation": "Pronoun meaning 'each', 'every', 'various', 'different'."
+    },
+    "购": {
+        "pinyin": "gòu",
+        "explanation": "Verb meaning 'to buy', 'to purchase'. Often seen in 购物 (gòuwù) or 购买 (gòumǎi)."
+    },
+    "果汁": {
+        "pinyin": "guǒzhī",
+        "explanation": "Noun meaning 'fruit juice'.<br><strong>Component Breakdown:</strong><br>果 (guǒ): Fruit.<br>汁 (zhī): Juice."
+    },
+    "好处": {
+        "pinyin": "hǎochù",
+        "explanation": "Noun meaning 'benefit', 'advantage', 'good point'.<br><strong>Component Breakdown:</strong><br>好 (hǎo): Good.<br>处 (chù): Place, point, aspect."
+    },
+    "货": {
+        "pinyin": "huò",
+        "explanation": "Noun meaning 'goods', 'commodity', 'stuff'."
+    },
+    "获得": {
+        "pinyin": "huòdé",
+        "explanation": "Verb meaning 'to get', 'to obtain', 'to achieve', 'to gain'.<br><strong>Component Breakdown:</strong><br>获 (huò): To obtain, to capture.<br>得 (dé): To get, to obtain."
+    },
+    "活动": {
+        "pinyin": "huódòng",
+        "explanation": "Noun meaning 'activity', 'event'; Verb meaning 'to move about', 'to exercise'.<br><strong>Component Breakdown:</strong><br>活 (huó): Alive, to live.<br>动 (dòng): To move."
+    },
+    "会员卡": {
+        "pinyin": "huìyuánkǎ",
+        "explanation": "Noun meaning 'membership card'.<br><strong>Component Breakdown:</strong><br>会 (huì): Association, meeting.<br>员 (yuán): Member.<br>卡 (kǎ): Card."
+    },
+    "价钱": {
+        "pinyin": "jiàqián",
+        "explanation": "Noun meaning 'price' (more colloquial than 价格).<br><strong>Component Breakdown:</strong><br>价 (jià): Price.<br>钱 (qián): Money."
+    },
+    "降低": {
+        "pinyin": "jiàngdī",
+        "explanation": "Verb meaning 'to lower', 'to reduce', 'to decrease'.<br><strong>Component Breakdown:</strong><br>降 (jiàng): To fall, to lower.<br>低 (dī): Low."
+    },
+    "竟然": {
+        "pinyin": "jìngrán",
+        "explanation": "Adverb indicating something unexpected; 'unexpectedly', 'to one's surprise', 'actually'."
+    },
+    "举办": {
+        "pinyin": "jǔbàn",
+        "explanation": "Verb meaning 'to hold', 'to conduct' (an event, meeting, exhibition).<br><strong>Component Breakdown:</strong><br>举 (jǔ): To lift, to hold, to conduct.<br>办 (bàn): To do, to handle, to manage."
+    },
+    "举行": {
+        "pinyin": "jǔxíng",
+        "explanation": "Verb meaning 'to hold' (a meeting, ceremony, event). Similar to 举办 but often implies a more formal or grand occasion.<br><strong>Component Breakdown:</strong><br>举 (jǔ): To hold.<br>行 (xíng): To carry out, to perform."
+    },
+    "例如": {
+        "pinyin": "lìrú",
+        "explanation": "Verb/Conjunction meaning 'for example', 'for instance', 'such as'.<br><strong>Component Breakdown:</strong><br>例 (lì): Example.<br>如 (rú): As, like, for example."
+    },
+    "满": {
+        "pinyin": "mǎn",
+        "explanation": "Verb meaning 'to reach a quota or limit'; Adjective meaning 'full'."
+    },
+    "免费": {
+        "pinyin": "miǎn fèi",
+        "explanation": "Verb/Adjective meaning 'to be free of charge', 'free'.<br><strong>Component Breakdown:</strong><br>免 (miǎn): To exempt, to avoid.<br>费 (fèi): Fee, cost."
+    },
+    "内": {
+        "pinyin": "nèi",
+        "explanation": "Noun/Preposition meaning 'in', 'within', 'inside'."
+    },
+    "皮肤": {
+        "pinyin": "pífū",
+        "explanation": "Noun meaning 'skin'.<br><strong>Component Breakdown:</strong><br>皮 (pí): Skin, leather.<br>肤 (fū): Skin."
+    },
+    "其中": {
+        "pinyin": "qízhōng",
+        "explanation": "Noun/Pronoun meaning 'among (which, them, etc.)', 'therein'.<br><strong>Component Breakdown:</strong><br>其 (qí): Its, his, her, their.<br>中 (zhōng): Middle, in."
+    },
+    "轻": {
+        "pinyin": "qīng",
+        "explanation": "Adjective meaning 'light' (in weight), 'gentle', 'easy'."
+    },
+    "情况": {
+        "pinyin": "qíngkuàng",
+        "explanation": "Noun meaning 'situation', 'circumstances', 'condition'.<br><strong>Component Breakdown:</strong><br>情 (qíng): Situation, feeling.<br>况 (kuàng): Situation, condition."
+    },
+    "售货员": {
+        "pinyin": "shòuhuòyuán",
+        "explanation": "Noun meaning 'salesperson', 'shop assistant'.<br><strong>Component Breakdown:</strong><br>售 (shòu): To sell.<br>货 (huò): Goods.<br>员 (yuán): Member, personnel."
+    },
+    "所有": {
+        "pinyin": "suǒyǒu",
+        "explanation": "Adjective/Pronoun meaning 'all', 'everything', 'to own'.<br><strong>Component Breakdown:</strong><br>所 (suǒ): That which, particle.<br>有 (yǒu): To have."
+    },
+    "袜子": {
+        "pinyin": "wàzi",
+        "explanation": "Noun meaning 'socks', 'stockings'.<br><strong>Component Breakdown:</strong><br>袜 (wà): Socks.<br>子 (zi): Noun suffix."
+    },
+    "西红柿": {
+        "pinyin": "xīhóngshì",
+        "explanation": "Noun meaning 'tomato'.<br><strong>Component Breakdown:</strong><br>西 (xī): West (implying foreign origin).<br>红 (hóng): Red.<br>柿 (shì): Persimmon (used here, but the whole means tomato)."
+    },
+    "小朋友": {
+        "pinyin": "xiǎopéngyou",
+        "explanation": "Noun meaning 'kid', 'child' (a friendly term).<br><strong>Component Breakdown:</strong><br>小 (xiǎo): Small, little.<br>朋友 (péngyou): Friend."
+    },
+    "小说": {
+        "pinyin": "xiǎoshuō",
+        "explanation": "Noun meaning 'novel', 'fiction'.<br><strong>Component Breakdown:</strong><br>小 (xiǎo): Small.<br>说 (shuō): To speak, story, theory."
+    },
+    "修理": {
+        "pinyin": "xiūlǐ",
+        "explanation": "Verb meaning 'to repair', 'to mend', 'to fix'.<br><strong>Component Breakdown:</strong><br>修 (xiū): To repair, to build.<br>理 (lǐ): To put in order, to manage."
+    },
+    "折": {
+        "pinyin": "zhé",
+        "explanation": "Noun meaning 'discount' (in 打折); Verb meaning 'to break', 'to fold'."
+    },
+    "支持": {
+        "pinyin": "zhīchí",
+        "explanation": "Verb meaning 'to support', 'to back'; Noun meaning 'support'.<br><strong>Component Breakdown:</strong><br>支 (zhī): To support, branch.<br>持 (chí): To hold, to maintain."
+    },
+    "值得": {
+        "pinyin": "zhídé",
+        "explanation": "Verb meaning 'to be worth', 'to deserve'.<br><strong>Component Breakdown:</strong><br>值 (zhí): Value, worth.<br>得 (dé): To get, must, (indicates worthiness)."
+    },
+    "保": {
+        "pinyin": "bǎo",
+        "explanation": "Verb meaning 'to guarantee', 'to protect', 'to keep'."
+    },
+    "擦": {
+        "pinyin": "cā",
+        "explanation": "Verb meaning 'to wipe', 'to rub', 'to polish'."
+    },
+    "超过": {
+        "pinyin": "chāoguò",
+        "explanation": "Verb meaning 'to exceed', 'to surpass', 'to overtake'.<br><strong>Component Breakdown:</strong><br>超 (chāo): To exceed, to surpass.<br>过 (guò): To pass, to cross."
+    },
+    "抽烟": {
+        "pinyin": "chōu yān",
+        "explanation": "Verb phrase meaning 'to smoke (a cigarette, pipe, etc.)'.<br><strong>Component Breakdown:</strong><br>抽 (chōu): To draw out, to pump, to smoke.<br>烟 (yān): Smoke, tobacco, cigarette."
+    },
+    "窗户": {
+        "pinyin": "chuānghu",
+        "explanation": "Noun meaning 'window'.<br><strong>Component Breakdown:</strong><br>窗 (chuāng): Window.<br>户 (hu): Door, household."
+    },
+    "处": {
+        "pinyin": "chù",
+        "explanation": "Noun meaning 'place', 'location', 'point', 'department'."
+    },
+    "出现": {
+        "pinyin": "chūxiàn",
+        "explanation": "Verb meaning 'to appear', 'to emerge', 'to arise'.<br><strong>Component Breakdown:</strong><br>出 (chū): To go out, to appear.<br>现 (xiàn): To appear, present."
+    },
+    "大夫": {
+        "pinyin": "dàifu",
+        "explanation": "Noun meaning 'doctor' (colloquial, especially in Northern China).<br><strong>Component Breakdown:</strong><br>大 (dà): Big.<br>夫 (fu): Man, husband (here, part of a set term)."
+    },
+    "掉": {
+        "pinyin": "diào",
+        "explanation": "Verb meaning 'to fall', 'to drop', 'to lose'. Often used after verbs as a resultative complement indicating completion, removal, or falling."
+    },
+    "动作": {
+        "pinyin": "dòngzuò",
+        "explanation": "Noun meaning 'action', 'movement', 'motion'.<br><strong>Component Breakdown:</strong><br>动 (dòng): To move.<br>作 (zuò): To make, to do, action."
+    },
+    "肚子": {
+        "pinyin": "dùzi",
+        "explanation": "Noun meaning 'belly', 'abdomen', 'stomach'.<br><strong>Component Breakdown:</strong><br>肚 (dù): Belly.<br>子 (zi): Noun suffix."
+    },
+    "烦恼": {
+        "pinyin": "fánnǎo",
+        "explanation": "Adjective meaning 'worried', 'vexed', 'troubled'; Noun meaning 'worry', 'trouble'.<br><strong>Component Breakdown:</strong><br>烦 (fán): Annoyed, vexed.<br>恼 (nǎo): Angry, annoyed."
+    },
+    "反对": {
+        "pinyin": "fǎnduì",
+        "explanation": "Verb meaning 'to oppose', 'to object to', 'to be against'.<br><strong>Component Breakdown:</strong><br>反 (fǎn): Opposite, against.<br>对 (duì): Towards, correct, to oppose."
+    },
+    "感情": {
+        "pinyin": "gǎnqíng",
+        "explanation": "Noun meaning 'feeling', 'emotion', 'affection', 'love'.<br><strong>Component Breakdown:</strong><br>感 (gǎn): Feeling, sense.<br>情 (qíng): Feeling, emotion."
+    },
+    "估计": {
+        "pinyin": "gūjì",
+        "explanation": "Verb meaning 'to estimate', 'to reckon', 'to guess'.<br><strong>Component Breakdown:</strong><br>估 (gū): To estimate, to guess.<br>计 (jì): To calculate, to plan."
+    },
+    "后悔": {
+        "pinyin": "hòuhuǐ",
+        "explanation": "Verb meaning 'to regret', 'to repent'.<br><strong>Component Breakdown:</strong><br>后 (hòu): After, behind.<br>悔 (huǐ): To regret."
+    },
+    "加": {
+        "pinyin": "jiā",
+        "explanation": "Verb meaning 'to add', 'to increase', 'plus'."
+    },
+    "减肥": {
+        "pinyin": "jiǎn féi",
+        "explanation": "Verb phrase meaning 'to lose weight', 'to go on a diet'.<br><strong>Component Breakdown:</strong><br>减 (jiǎn): To reduce, to subtract.<br>肥 (féi): Fat, fertile."
+    },
+    "教授": {
+        "pinyin": "jiàoshòu",
+        "explanation": "Noun meaning 'professor'.<br><strong>Component Breakdown:</strong><br>教 (jiào): To teach.<br>授 (shòu): To confer, to grant, to teach."
+    },
+    "既": {
+        "pinyin": "jì",
+        "explanation": "Adverb/Conjunction meaning 'since', 'as', 'both... (and...)'. Often used with '又' (yòu) or '也' (yě)."
+    },
+    "精神": {
+        "pinyin": "jīngshén",
+        "explanation": "Noun meaning 'spirit', 'mind', 'consciousness', 'essence'; Adjective meaning 'vigorous', 'lively'.<br><strong>Component Breakdown:</strong><br>精 (jīng): Essence, spirit, refined.<br>神 (shén): God, spirit, mind."
+    },
+    "咳嗽": {
+        "pinyin": "késou",
+        "explanation": "Verb/Noun meaning 'to cough'; 'cough'.<br><strong>Component Breakdown:</strong><br>咳 (ké): To cough.<br>嗽 (sou): To cough."
+    },
+    "空气": {
+        "pinyin": "kōngqì",
+        "explanation": "Noun meaning 'air'.<br><strong>Component Breakdown:</strong><br>空 (kōng): Empty, air, sky.<br>气 (qì): Air, gas, spirit."
+    },
+    "来不及": {
+        "pinyin": "láibují",
+        "explanation": "Verb phrase meaning 'there's not enough time to', 'it's too late to'.<br><strong>Component Breakdown:</strong><br>来 (lái): To come.<br>不 (bù): Not.<br>及 (jí): To reach, in time."
+    },
+    "流血": {
+        "pinyin": "liú xiě",
+        "explanation": "Verb phrase meaning 'to bleed'.<br><strong>Component Breakdown:</strong><br>流 (liú): To flow.<br>血 (xiě): Blood."
+    },
+    "气候": {
+        "pinyin": "qìhòu",
+        "explanation": "Noun meaning 'climate'.<br><strong>Component Breakdown:</strong><br>气 (qì): Air, weather.<br>候 (hòu): Time, season, to wait."
+    },
+    "散步": {
+        "pinyin": "sàn bù",
+        "explanation": "Verb phrase meaning 'to take a walk', 'to stroll'.<br><strong>Component Breakdown:</strong><br>散 (sàn): To scatter, to disperse.<br>步 (bù): Step, walk."
+    },
+    "说明": {
+        "pinyin": "shuōmíng",
+        "explanation": "Verb meaning 'to explain', 'to illustrate', 'to show'; Noun meaning 'explanation', 'directions'.<br><strong>Component Breakdown:</strong><br>说 (shuō): To speak, to say.<br>明 (míng): Bright, clear, to understand."
+    },
+    "数字": {
+        "pinyin": "shùzì",
+        "explanation": "Noun meaning 'number', 'figure', 'digit'.<br><strong>Component Breakdown:</strong><br>数 (shù): Number.<br>字 (zì): Character, word."
+    },
+    "帅": {
+        "pinyin": "shuài",
+        "explanation": "Adjective meaning 'handsome', 'smart' (appearance). Can also mean 'commander-in-chief'."
+    },
+    "辛苦": {
+        "pinyin": "xīnkǔ",
+        "explanation": "Adjective meaning 'hard', 'toilsome', 'laborious'. Often used to express gratitude for someone's hard work.<br><strong>Component Breakdown:</strong><br>辛 (xīn): Hard, laborious, pungent.<br>苦 (kǔ): Bitter, hard, suffering."
+    },
+    "要是": {
+        "pinyin": "yàoshi",
+        "explanation": "Conjunction meaning 'if', 'supposing', 'in case' (colloquial)."
+    },
+    "严重": {
+        "pinyin": "yánzhòng",
+        "explanation": "Adjective meaning 'serious', 'grave', 'critical'.<br><strong>Component Breakdown:</strong><br>严 (yán): Strict, severe.<br>重 (zhòng): Heavy, serious."
+    },
+    "研究": {
+        "pinyin": "yánjiū",
+        "explanation": "Verb meaning 'to study', 'to do research'; Noun meaning 'research'.<br><strong>Component Breakdown:</strong><br>研 (yán): To grind, to study.<br>究 (jiū): To investigate, to study."
+    },
+    "指": {
+        "pinyin": "zhǐ",
+        "explanation": "Verb meaning 'to point to', 'to refer to', 'to indicate'. Noun meaning 'finger'."
+    },
+    "纸": {
+        "pinyin": "zhǐ",
+        "explanation": "Noun meaning 'paper'."
+    },
+    "植物": {
+        "pinyin": "zhíwù",
+        "explanation": "Noun meaning 'plant', 'flora'.<br><strong>Component Breakdown:</strong><br>植 (zhí): To plant.<br>物 (wù): Thing, matter."
+    },
+    "长期": {
+        "pinyin": "chángqī",
+        "explanation": "Noun/Adjective meaning 'long time', 'long term'.<br><strong>Component Breakdown:</strong><br>长 (cháng): Long.<br>期 (qī): Period of time, term."
+    },
+    "成为": {
+        "pinyin": "chéngwéi",
+        "explanation": "Verb meaning 'to become', 'to turn into'.<br><strong>Component Breakdown:</strong><br>成 (chéng): To become, to succeed.<br>为 (wéi): To be, as."
+    },
+    "窗": {
+        "pinyin": "chuāng",
+        "explanation": "Noun meaning 'window'. Often seen as 窗户 (chuānghu)."
+    },
+    "大使馆": {
+        "pinyin": "dàshǐguǎn",
+        "explanation": "Noun meaning 'embassy'.<br><strong>Component Breakdown:</strong><br>大 (dà): Big, great.<br>使 (shǐ): To make, to cause; envoy, ambassador.<br>馆 (guǎn): Hall, building (e.g., embassy, library)."
+    },
+    "到处": {
+        "pinyin": "dàochù",
+        "explanation": "Adverb meaning 'everywhere', 'all around'.<br><strong>Component Breakdown:</strong><br>到 (dào): To arrive.<br>处 (chù): Place."
+    },
+    "得到": {
+        "pinyin": "dédào",
+        "explanation": "Verb meaning 'to get', 'to obtain', 'to gain'.<br><strong>Component Breakdown:</strong><br>得 (dé): To get.<br>到 (dào): To arrive, (resultative complement)."
+    },
+    "堵": {
+        "pinyin": "dǔ",
+        "explanation": "Verb meaning 'to block up', 'to stop up', 'to be congested'."
+    },
+    "堵车": {
+        "pinyin": "dǔ chē",
+        "explanation": "Verb phrase meaning 'traffic jam', 'to be stuck in traffic'.<br><strong>Component Breakdown:</strong><br>堵 (dǔ): To block, to be congested.<br>车 (chē): Car, vehicle."
+    },
+    "发生": {
+        "pinyin": "fāshēng",
+        "explanation": "Verb meaning 'to happen', 'to occur', 'to take place'.<br><strong>Component Breakdown:</strong><br>发 (fā): To send out, to happen.<br>生 (shēng): To be born, to happen."
+    },
+    "放松": {
+        "pinyin": "fàngsōng",
+        "explanation": "Verb meaning 'to relax', 'to loosen'.<br><strong>Component Breakdown:</strong><br>放 (fàng): To put, to let go.<br>松 (sōng): Loose, to relax."
+    },
+    "回忆": {
+        "pinyin": "huíyì",
+        "explanation": "Verb meaning 'to recall', 'to recollect'; Noun meaning 'memory'.<br><strong>Component Breakdown:</strong><br>回 (huí): To return, to circle back.<br>忆 (yì): To remember, memory."
+    },
+    "积极": {
+        "pinyin": "jījí",
+        "explanation": "Adjective meaning 'positive', 'active', 'energetic', 'enthusiastic'.<br><strong>Component Breakdown:</strong><br>积 (jī): To accumulate.<br>极 (jí): Extreme, pole."
+    },
+    "景色": {
+        "pinyin": "jǐngsè",
+        "explanation": "Noun meaning 'scenery', 'view', 'landscape'.<br><strong>Component Breakdown:</strong><br>景 (jǐng): Scenery, view.<br>色 (sè): Color, view."
+    },
+    "距离": {
+        "pinyin": "jùlí",
+        "explanation": "Noun meaning 'distance'; Verb meaning 'to be away from'.<br><strong>Component Breakdown:</strong><br>距 (jù): Distance, to be away from.<br>离 (lí): To leave, to be away from."
+    },
+    "科学": {
+        "pinyin": "kēxué",
+        "explanation": "Noun meaning 'science'; Adjective meaning 'scientific'.<br><strong>Component Breakdown:</strong><br>科 (kē): Branch of study, section.<br>学 (xué): To study, learning, science."
+    },
+    "美": {
+        "pinyin": "měi",
+        "explanation": "Adjective meaning 'beautiful', 'pretty', 'good'."
+    },
+    "耐心": {
+        "pinyin": "nàixīn",
+        "explanation": "Noun meaning 'patience'; Adjective meaning 'patient'.<br><strong>Component Breakdown:</strong><br>耐 (nài): To endure, to be patient.<br>心 (xīn): Heart, mind."
+    },
+    "女性": {
+        "pinyin": "nǚxìng",
+        "explanation": "Noun meaning 'woman', 'female'.<br><strong>Component Breakdown:</strong><br>女 (nǚ): Female, woman.<br>性 (xìng): Gender, nature."
+    },
+    "巧克力": {
+        "pinyin": "qiǎokèlì",
+        "explanation": "Noun meaning 'chocolate'. (Phonetic loanword)"
+    },
+    "亲戚": {
+        "pinyin": "qīnqi",
+        "explanation": "Noun meaning 'relative', 'kin'.<br><strong>Component Breakdown:</strong><br>亲 (qīn): Relative, parent, close.<br>戚 (qi): Relative (often by marriage)."
+    },
+    "缺少": {
+        "pinyin": "quēshǎo",
+        "explanation": "Verb meaning 'to lack', 'to be short of'.<br><strong>Component Breakdown:</strong><br>缺 (quē): To lack.<br>少 (shǎo): Few, little, to lack."
+    },
+    "伤心": {
+        "pinyin": "shāng xīn",
+        "explanation": "Adjective meaning 'sad', 'sorrowful', 'heartbroken'.<br><strong>Component Breakdown:</strong><br>伤 (shāng): To hurt, to injure.<br>心 (xīn): Heart, mind."
+    },
+    "生命": {
+        "pinyin": "shēngmìng",
+        "explanation": "Noun meaning 'life' (biological sense).<br><strong>Component Breakdown:</strong><br>生 (shēng): Life, to be born.<br>命 (mìng): Life, fate, destiny."
+    },
+    "师傅": {
+        "pinyin": "shīfu",
+        "explanation": "Noun meaning 'master' (of a trade), 'teacher'. Polite form of address for skilled workers (e.g., driver, cook).<br><strong>Component Breakdown:</strong><br>师 (shī): Teacher, master.<br>傅 (fu): Tutor, teacher (archaic)."
+    },
+    "使": {
+        "pinyin": "shǐ",
+        "explanation": "Verb meaning 'to make', 'to cause', 'to enable'; 'to use'; 'envoy'."
+    },
+    "态度": {
+        "pinyin": "tàidù",
+        "explanation": "Noun meaning 'attitude', 'manner', 'bearing'.<br><strong>Component Breakdown:</strong><br>态 (tài): Form, state, appearance.<br>度 (dù): Degree, manner."
+    },
+    "特点": {
+        "pinyin": "tèdiǎn",
+        "explanation": "Noun meaning 'characteristic', 'feature', 'trait'.<br><strong>Component Breakdown:</strong><br>特 (tè): Special, unique.<br>点 (diǎn): Point, aspect."
+    },
+    "往往": {
+        "pinyin": "wǎngwǎng",
+        "explanation": "Adverb meaning 'often', 'usually' (implies a pattern or tendency)."
+    },
+    "心情": {
+        "pinyin": "xīnqíng",
+        "explanation": "Noun meaning 'mood', 'state of mind'.<br><strong>Component Breakdown:</strong><br>心 (xīn): Heart, mind.<br>情 (qíng): Feeling, emotion."
+    },
+    "压力": {
+        "pinyin": "yālì",
+        "explanation": "Noun meaning 'pressure', 'stress'.<br><strong>Component Breakdown:</strong><br>压 (yā): To press, to push down.<br>力 (lì): Force, power, strength."
+    },
+    "阳光": {
+        "pinyin": "yángguāng",
+        "explanation": "Noun meaning 'sunlight'; Adjective meaning 'sunshine', 'optimistic', 'cheerful'.<br><strong>Component Breakdown:</strong><br>阳 (yáng): Sun, positive (yin-yang).<br>光 (guāng): Light, ray."
+    },
+    "因此": {
+        "pinyin": "yīncǐ",
+        "explanation": "Conjunction meaning 'therefore', 'so', 'consequently'.<br><strong>Component Breakdown:</strong><br>因 (yīn): Because, cause.<br>此 (cǐ): This, therefore."
+    },
+    "愉快": {
+        "pinyin": "yúkuài",
+        "explanation": "Adjective meaning 'happy', 'cheerful', 'pleasant'.<br><strong>Component Breakdown:</strong><br>愉 (yú): Happy, pleased.<br>快 (kuài): Fast, happy, pleasant."
+    },
+    "证明": {
+        "pinyin": "zhèngmíng",
+        "explanation": "Verb meaning 'to prove', 'to testify'; Noun meaning 'proof', 'certificate'.<br><strong>Component Breakdown:</strong><br>证 (zhèng): Proof, to prove.<br>明 (míng): Clear, bright, to prove."
+    },
+    "只要": {
+        "pinyin": "zhǐyào",
+        "explanation": "Conjunction meaning 'as long as', 'provided that'."
+    },
+    "饼干": {
+        "pinyin": "bǐnggān",
+        "explanation": "Noun meaning 'biscuit', 'cracker', 'cookie'.<br><strong>Component Breakdown:</strong><br>饼 (bǐng): Cake, biscuit, pancake.<br>干 (gān): Dry."
+    },
+    "餐": {
+        "pinyin": "cān",
+        "explanation": "Noun meaning 'meal'; Verb meaning 'to eat'."
+    },
+    "当时": {
+        "pinyin": "dāngshí",
+        "explanation": "Noun/Adverb meaning 'then', 'at that time'.<br><strong>Component Breakdown:</strong><br>当 (dāng): At (that time).<br>时 (shí): Time."
+    },
+    "得": {
+        "pinyin": "děi",
+        "explanation": "Modal verb meaning 'must', 'have to'."
+    },
+    "放弃": {
+        "pinyin": "fàngqì",
+        "explanation": "Verb meaning 'to give up', 'to abandon', 'to renounce'.<br><strong>Component Breakdown:</strong><br>放 (fàng): To let go, to put down.<br>弃 (qì): To abandon, to discard."
+    },
+    "父母": {
+        "pinyin": "fùmǔ",
+        "explanation": "Noun meaning 'parents' (father and mother).<br><strong>Component Breakdown:</strong><br>父 (fù): Father.<br>母 (mǔ): Mother."
+    },
+    "国际": {
+        "pinyin": "guójì",
+        "explanation": "Noun/Adjective meaning 'international'.<br><strong>Component Breakdown:</strong><br>国 (guó): Country, nation.<br>际 (jì): Border, between (nations)."
+    },
+    "过程": {
+        "pinyin": "guòchéng",
+        "explanation": "Noun meaning 'process', 'course'.<br><strong>Component Breakdown:</strong><br>过 (guò): To pass, process.<br>程 (chéng): Course, process, journey."
+    },
+    "汗": {
+        "pinyin": "hàn",
+        "explanation": "Noun meaning 'sweat', 'perspiration'."
+    },
+    "坚持": {
+        "pinyin": "jiānchí",
+        "explanation": "Verb meaning 'to insist on', 'to persist in', 'to uphold'.<br><strong>Component Breakdown:</strong><br>坚 (jiān): Firm, solid.<br>持 (chí): To hold, to maintain."
+    },
+    "奖": {
+        "pinyin": "jiǎng",
+        "explanation": "Noun meaning 'award', 'prize'; Verb meaning 'to praise', 'to award'."
+    },
+    "结果": {
+        "pinyin": "jiéguǒ",
+        "explanation": "Noun meaning 'result', 'outcome', 'consequence'; Conjunction meaning 'as a result'.<br><strong>Component Breakdown:</strong><br>结 (jié): To tie, to form, result.<br>果 (guǒ): Fruit, result."
+    },
+    "经历": {
+        "pinyin": "jīnglì",
+        "explanation": "Verb meaning 'to experience', 'to go through'; Noun meaning 'experience'.<br><strong>Component Breakdown:</strong><br>经 (jīng): To pass through, to experience.<br>历 (lì): To experience, history."
+    },
+    "可是": {
+        "pinyin": "kěshì",
+        "explanation": "Conjunction meaning 'but', 'however' (similar to 但是, sometimes softer)."
+    },
+    "理想": {
+        "pinyin": "lǐxiǎng",
+        "explanation": "Noun meaning 'ideal', 'dream', 'aspiration'; Adjective meaning 'ideal'.<br><strong>Component Breakdown:</strong><br>理 (lǐ): Reason, ideal.<br>想 (xiǎng): To think, to want, idea."
+    },
+    "面对": {
+        "pinyin": "miànduì",
+        "explanation": "Verb meaning 'to face', 'to confront'.<br><strong>Component Breakdown:</strong><br>面 (miàn): Face.<br>对 (duì): Towards, to face."
+    },
+    "难道": {
+        "pinyin": "nándào",
+        "explanation": "Adverb used in rhetorical questions to add emphasis, often implying 'Could it be that...?', 'Don't you...?'.<br><strong>Component Breakdown:</strong><br>难 (nán): Difficult.<br>道 (dào): Way, say."
+    },
+    "篇": {
+        "pinyin": "piān",
+        "explanation": "Measure word for essays, articles, papers, chapters, etc."
+    },
+    "轻松": {
+        "pinyin": "qīngsōng",
+        "explanation": "Adjective meaning 'relaxed', 'easy', 'light', 'effortless'.<br><strong>Component Breakdown:</strong><br>轻 (qīng): Light.<br>松 (sōng): Loose, relaxed."
+    },
+    "取": {
+        "pinyin": "qǔ",
+        "explanation": "Verb meaning 'to take', 'to get', 'to fetch', 'to gain', 'to seek'."
+    },
+    "区别": {
+        "pinyin": "qūbié",
+        "explanation": "Noun meaning 'difference', 'distinction'; Verb meaning 'to distinguish'.<br><strong>Component Breakdown:</strong><br>区 (qū): Area, to distinguish.<br>别 (bié): To separate, other, difference."
+    },
+    "失败": {
+        "pinyin": "shībài",
+        "explanation": "Verb meaning 'to fail'; Noun meaning 'failure', 'defeat'.<br><strong>Component Breakdown:</strong><br>失 (shī): To lose, to fail.<br>败 (bài): To be defeated, to fail."
+    },
+    "随便": {
+        "pinyin": "suíbiàn",
+        "explanation": "Adjective/Adverb meaning 'casual', 'at random', 'as one pleases', 'whatever'.<br><strong>Component Breakdown:</strong><br>随 (suí): To follow, to let.<br>便 (biàn): Convenient, then."
+    },
+    "通过": {
+        "pinyin": "tōngguò",
+        "explanation": "Preposition meaning 'through', 'by means of'; Verb meaning 'to pass', 'to get through', 'to adopt (a resolution)'.<br><strong>Component Breakdown:</strong><br>通 (tōng): To go through, to pass.<br>过 (guò): To pass, to cross."
+    },
+    "网球": {
+        "pinyin": "wǎngqiú",
+        "explanation": "Noun meaning 'tennis'.<br><strong>Component Breakdown:</strong><br>网 (wǎng): Net.<br>球 (qiú): Ball."
+    },
+    "许多": {
+        "pinyin": "xǔduō",
+        "explanation": "Numeral/Adjective meaning 'many', 'a lot of', 'plenty of'.<br><strong>Component Breakdown:</strong><br>许 (xǔ): To allow, perhaps, many.<br>多 (duō): Many, much."
+    },
+    "赢": {
+        "pinyin": "yíng",
+        "explanation": "Verb meaning 'to win', 'to gain'."
+    },
+    "勇敢": {
+        "pinyin": "yǒnggǎn",
+        "explanation": "Adjective meaning 'brave', 'courageous'.<br><strong>Component Breakdown:</strong><br>勇 (yǒng): Brave.<br>敢 (gǎn): To dare, bold."
+    },
+    "暂时": {
+        "pinyin": "zànshí",
+        "explanation": "Noun/Adverb meaning 'temporary', 'for the time being', 'temporarily'.<br><strong>Component Breakdown:</strong><br>暂 (zàn): Temporary.<br>时 (shí): Time."
+    },
+    "正确": {
+        "pinyin": "zhèngquè",
+        "explanation": "Adjective meaning 'correct', 'right', 'proper'.<br><strong>Component Breakdown:</strong><br>正 (zhèng): Right, correct.<br>确 (què): Sure, certain, true."
+    },
+    "至少": {
+        "pinyin": "zhìshǎo",
+        "explanation": "Adverb meaning 'at least'.<br><strong>Component Breakdown:</strong><br>至 (zhì): To, until, most.<br>少 (shǎo): Few, little."
+    },
+    "主意": {
+        "pinyin": "zhǔyi",
+        "explanation": "Noun meaning 'idea', 'plan', 'decision'.<br><strong>Component Breakdown:</strong><br>主 (zhǔ): Main, master, idea.<br>意 (yì): Idea, meaning."
+    },
+    "总结": {
+        "pinyin": "zǒngjié",
+        "explanation": "Verb meaning 'to sum up', 'to summarize'; Noun meaning 'summary', 'conclusion'.<br><strong>Component Breakdown:</strong><br>总 (zǒng): Total, chief, always.<br>结 (jié): To tie, to conclude."
+    },
+    "作家": {
+        "pinyin": "zuòjiā",
+        "explanation": "Noun meaning 'writer', 'author'.<br><strong>Component Breakdown:</strong><br>作 (zuò): To write, to make.<br>家 (jiā): Family, expert."
+    },
+    "比如": {
+        "pinyin": "bǐrú",
+        "explanation": "Verb/Conjunction meaning 'for example', 'for instance', 'such as'.<br><strong>Component Breakdown:</strong><br>比 (bǐ): To compare.<br>如 (rú): As, like."
+    },
+    "不过": {
+        "pinyin": "búguò",
+        "explanation": "Conjunction meaning 'but', 'however', 'yet'; Adverb meaning 'only', 'merely'."
+    },
+    "答案": {
+        "pinyin": "dá'àn",
+        "explanation": "Noun meaning 'answer', 'key', 'solution'.<br><strong>Component Breakdown:</strong><br>答 (dá): To answer.<br>案 (àn): Case, record, plan."
+    },
+    "等": {
+        "pinyin": "děng",
+        "explanation": "Particle meaning 'etc.', 'and so on'. Verb meaning 'to wait'."
+    },
+    "低": {
+        "pinyin": "dī",
+        "explanation": "Adjective meaning 'low'."
+    },
+    "发展": {
+        "pinyin": "fāzhǎn",
+        "explanation": "Verb meaning 'to develop', 'to grow', 'to expand'; Noun meaning 'development'.<br><strong>Component Breakdown:</strong><br>发 (fā): To develop, to send out.<br>展 (zhǎn): To unfold, to expand."
+    },
+    "翻译": {
+        "pinyin": "fānyì",
+        "explanation": "Noun meaning 'translator', 'interpreter'; Verb meaning 'to translate', 'to interpret'.<br><strong>Component Breakdown:</strong><br>翻 (fān): To turn over, to translate.<br>译 (yì): To translate, to interpret."
+    },
+    "方向": {
+        "pinyin": "fāngxiàng",
+        "explanation": "Noun meaning 'direction', 'orientation'.<br><strong>Component Breakdown:</strong><br>方 (fāng): Direction, side.<br>向 (xiàng): Towards, direction."
+    },
+    "富": {
+        "pinyin": "fù",
+        "explanation": "Adjective meaning 'rich', 'wealthy', 'abundant'."
+    },
+    "关键": {
+        "pinyin": "guānjiàn",
+        "explanation": "Noun meaning 'key', 'crux', 'hinge'; Adjective meaning 'crucial', 'key'.<br><strong>Component Breakdown:</strong><br>关 (guān): To close, to concern; key point.<br>键 (jiàn): Key (of a lock or keyboard)."
+    },
+    "建议": {
+        "pinyin": "jiànyì",
+        "explanation": "Noun meaning 'suggestion', 'advice'; Verb meaning 'to suggest', 'to advise'.<br><strong>Component Breakdown:</strong><br>建 (jiàn): To build, to establish.<br>议 (yì): To discuss, suggestion."
+    },
+    "将来": {
+        "pinyin": "jiānglái",
+        "explanation": "Noun meaning 'future'.<br><strong>Component Breakdown:</strong><br>将 (jiāng): Will, about to.<br>来 (lái): To come."
+    },
+    "经济": {
+        "pinyin": "jīngjì",
+        "explanation": "Noun meaning 'economy'; Adjective meaning 'economical'.<br><strong>Component Breakdown:</strong><br>经 (jīng): To manage, to pass through.<br>济 (jì): To aid, to cross a river."
+    },
+    "空儿": {
+        "pinyin": "kòngr",
+        "explanation": "Noun meaning 'free time', 'spare time' (colloquial, with 'r' suffix).<br><strong>Component Breakdown:</strong><br>空 (kòng): Empty, free time.<br>儿 (r): Suffix."
+    },
+    "困": {
+        "pinyin": "kùn",
+        "explanation": "Adjective meaning 'sleepy', 'drowsy'. Can also mean 'trapped', 'difficult'."
+    },
+    "拉": {
+        "pinyin": "lā",
+        "explanation": "Verb meaning 'to pull', 'to drag', 'to draw'."
+    },
+    "礼拜天": {
+        "pinyin": "lǐbàitiān",
+        "explanation": "Noun meaning 'Sunday'.<br><strong>Component Breakdown:</strong><br>礼拜 (lǐbài): Week, religious service.<br>天 (tiān): Day, sky."
+    },
+    "母亲": {
+        "pinyin": "mǔqīn",
+        "explanation": "Noun meaning 'mother' (more formal than 妈妈).<br><strong>Component Breakdown:</strong><br>母 (mǔ): Mother.<br>亲 (qīn): Parent, relative."
+    },
+    "穷": {
+        "pinyin": "qióng",
+        "explanation": "Adjective meaning 'poor', 'impoverished'."
+    },
+    "确实": {
+        "pinyin": "quèshí",
+        "explanation": "Adverb meaning 'truly', 'indeed', 'really'; Adjective meaning 'reliable'.<br><strong>Component Breakdown:</strong><br>确 (què): True, sure.<br>实 (shí): Real, true."
+    },
+    "硕士": {
+        "pinyin": "shuòshì",
+        "explanation": "Noun meaning 'Master's degree', 'Master' (person holding the degree).<br><strong>Component Breakdown:</strong><br>硕 (shuò): Large, great.<br>士 (shì): Scholar, person."
+    },
+    "躺": {
+        "pinyin": "tǎng",
+        "explanation": "Verb meaning 'to lie (down)', 'to recline'."
+    },
+    "糖": {
+        "pinyin": "táng",
+        "explanation": "Noun meaning 'sugar', 'candy', 'sweets'."
+    },
+    "条件": {
+        "pinyin": "tiáojiàn",
+        "explanation": "Noun meaning 'condition', 'requirement', 'term'.<br><strong>Component Breakdown:</strong><br>条 (tiáo): Strip, item, condition.<br>件 (jiàn): Item, piece, condition."
+    },
+    "橡皮": {
+        "pinyin": "xiàngpí",
+        "explanation": "Noun meaning 'eraser', 'rubber'.<br><strong>Component Breakdown:</strong><br>橡 (xiàng): Oak, rubber tree.<br>皮 (pí): Skin, leather, rubber."
+    },
+    "兴奋": {
+        "pinyin": "xīngfèn",
+        "explanation": "Adjective meaning 'excited'; Noun meaning 'excitement'.<br><strong>Component Breakdown:</strong><br>兴 (xīng): To rise, to prosper, interest.<br>奋 (fèn): To exert, to arouse."
+    },
+    "永远": {
+        "pinyin": "yǒngyuǎn",
+        "explanation": "Adverb meaning 'forever', 'always', 'perpetually'.<br><strong>Component Breakdown:</strong><br>永 (yǒng): Forever, perpetual.<br>远 (yuǎn): Far, distant."
+    },
+    "优秀": {
+        "pinyin": "yōuxiù",
+        "explanation": "Adjective meaning 'excellent', 'outstanding', 'distinguished'.<br><strong>Component Breakdown:</strong><br>优 (yōu): Excellent.<br>秀 (xiù): Excellent, beautiful."
+    },
+    "由于": {
+        "pinyin": "yóuyú",
+        "explanation": "Conjunction/Preposition meaning 'because', 'due to', 'since'."
+    },
+    "职业": {
+        "pinyin": "zhíyè",
+        "explanation": "Noun meaning 'occupation', 'profession', 'vocation'.<br><strong>Component Breakdown:</strong><br>职 (zhí): Duty, post, occupation.<br>业 (yè): Profession, industry, enterprise."
+    },
+    "金钱": {
+        "pinyin": "jīnqián",
+        "explanation": "Noun meaning 'money', 'currency'.<br><strong>Component Breakdown:</strong><br>金 (jīn): Gold, money.<br>钱 (qián): Money, coin."
+    },
+    "里面": {
+        "pinyin": "lǐmiàn",
+        "explanation": "Noun meaning 'inside', 'interior'.<br><strong>Component Breakdown:</strong><br>里 (lǐ): Inside.<br>面 (miàn): Side, surface."
+    },
+    "判断力": {
+        "pinyin": "pànduànlì",
+        "explanation": "Noun meaning 'judgment', 'ability to judge'.<br><strong>Component Breakdown:</strong><br>判断 (pànduàn): Judgment, to judge.<br>力 (lì): Power, ability."
+    },
+    "葡萄汁": {
+        "pinyin": "pútaozhī",
+        "explanation": "Noun meaning 'grape juice'.<br><strong>Component Breakdown:</strong><br>葡萄 (pútao): Grape.<br>汁 (zhī): Juice."
+    },
+    "心烦": {
+        "pinyin": "xīnfán",
+        "explanation": "Adjective meaning 'annoyed', 'vexed', 'irritated'.<br><strong>Component Breakdown:</strong><br>心 (xīn): Heart, mind.<br>烦 (fán): Annoyed, vexed."
+    },
+    "友情": {
+        "pinyin": "yǒuqíng",
+        "explanation": "Noun meaning 'friendship'.<br><strong>Component Breakdown:</strong><br>友 (yǒu): Friend.<br>情 (qíng): Feeling, sentiment."
+    },
+    "优质": {
+        "pinyin": "yōuzhì",
+        "explanation": "Adjective meaning 'high quality', 'premium'.<br><strong>Component Breakdown:</strong><br>优 (yōu): Excellent.<br>质 (zhì): Quality."
+    }
+}
