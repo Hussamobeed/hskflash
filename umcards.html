@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مولد سكريبت MikroTik وPDF</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #007bff;
+            text-align: center;
+        }
+        input, button, select, textarea {
+            margin: 10px 0;
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            width: 90%; /* Adjusted for better fit in flex items */
+            box-sizing: border-box; /* Important for padding and border not to expand width */
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            border: none;
+            transition: background-color 0.3s, transform 0.2s;
+            max-width: 300px;
+            margin: 10px auto; /* For centering */
+            display: block; /* For margin auto to work */
+        }
+        button:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+        button:active {
+            transform: scale(0.95);
+        }
+        textarea {
+            height: 150px;
+            resize: vertical;
+            width: 100%; /* Ensure textarea uses full width */
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 10px;
+        }
+        .preview {
+            border: 1px solid #ccc;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f0f0f0; /* Light gray for preview area */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            max-width: 100%;
+            overflow: auto;
+            min-height: 100px; /* Ensure it has some height */
+        }
+        .box {
+            border: 1px solid black;
+            display: inline-block;
+            margin: 5px;
+            position: relative;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            /* Dimensions will be set by JS */
+        }
+        .input-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 10px; /* Adds space between items */
+        }
+        .input-item {
+            flex: 1 1 200px; /* Grow, shrink, base width */
+            min-width: 200px; /* Prevent items from becoming too small */
+            margin-right: 0; /* Remove original margin-right if gap is used */
+        }
+        .input-item input, .input-item select {
+            width: 100%; /* Make inputs/selects fill the flex item */
+        }
+
+        .highlight-text {
+            font-size: 24px;
+            color: #0000FF;
+            font-weight: bold;
+        }
+        .centered-text {
+            font-size: 22px;
+            color: #FF5733;
+            text-align: center;
+        }
+      .centered-text33 {
+            font-size: 16px;
+            color: #F7BA12;
+            text-align: center;
+        }
+        .highlight-text1 {
+            font-size: 24px;
+            color: #0000FF;
+            font-weight: bold;
+        }
+        #serialNumberInputs, #datePrintingInputs {
+            width: 100%; /* Ensure these containers take full width */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>مولد سكريبت MikroTik وPDF</h1>
+
+        <p class="highlight-text1">
+            وظيفة البرنامج:
+        </p>
+        <p>
+            وظيفة هذا البرنامج ببساطة هي توليد الأرقام ثم إعطائك خيارين مهمين لتقوم بهما:
+        </p>
+        <p>
+            أولاً، حفظ الأرقام فقط في ملف نصي بحيث يمكنك لاحقاً طباعة الكروت بصيغة PDF.
+        </p>
+        <p>
+            ثانياً، حفظ سكربت يحتوي على نفس الكروت لـ User Manager، حتى تتمكن من رفعها إلى ميكروتك.
+        </p>
+        <p class="highlight-text">
+            شرح استخدام البرنامج:
+        </p>
+        <p>
+            أولاً، عليك أن تكون فاهمًا كيفية نسخ ونقل الملفات إلى الـ Winbox.
+        </p>
+        <p>
+            ثانيًا، يجب معرفة عميل customer الـ User Manager والذي هو غالبًا <strong>admin</strong>.
+        </p>
+        <p>
+            ثالثًا، كتابة الـ Profile كما هو موجود في الـ User Manager تمامًا.
+        </p>
+        <p>
+            رابعًا، التعليق في الاسكربت اختياري، يمكنك تركه فارغًا.
+        </p>
+        <p class="centered-text">
+            طريقة معرفة العميل
+        </p>
+        <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqlSoazeqvbpyuHXFpT9cln8fVHD6T_Fwtc0JyDuDyiLbRObPAEPXPY0RPX86bz5Wvvm78kvlZRlviXcOrjO9_m5yozqCnctelAGu2fCGxgWfYxJIfQDjDDyhM40uDrH0QJZeaOESX2UoiTM76qQ-R72oObr9cQWpBuJYpkLdwoS3-ofFU-e3e60c05r8G/s1341/customers.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="400" data-original-height="227" data-original-width="1341" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqlSoazeqvbpyuHXFpT9cln8fVHD6T_Fwtc0JyDuDyiLbRObPAEPXPY0RPX86bz5Wvvm78kvlZRlviXcOrjO9_m5yozqCnctelAGu2fCGxgWfYxJIfQDjDDyhM40uDrH0QJZeaOESX2UoiTM76qQ-R72oObr9cQWpBuJYpkLdwoS3-ofFU-e3e60c05r8G/s400/customers.jpg"/></a></div>
+        <p class="centered-text">
+            بعد توليد الارقام احفظ الاسكربت وانقلة للوينبوكس ثم اعمل امر استيراد للملف
+        </p>
+        <p>
+            مثلا...import cards.txt
+        </p>
+      <p class="centered-text33">
+            الملفات المحفوظة بتكون بتسلسل الاسم التالي ((نوع المف +اسم بروفايل الكروت + بادئة الارقام + عدد الارقام المولدة + تاريخ اليوم ))
+        </p>
+        <h2>توليد الأرقام</h2>
+        <div class="input-row">
+            <div class="input-item">
+                <label for="beginNumber">بداية كل رقم:</label>
+                <input type="number" id="beginNumber" min="0" value="1">
+            </div>
+            <div class="input-item">
+                <label for="numLength">طول رقم الكرت (الحد الأدنى 5):</label>
+                <input type="number" id="numLength" min="5" value="8">
+            </div>
+            <div class="input-item">
+                <label for="numCount">عدد الأرقام المراد توليدها:</label>
+                <input type="number" id="numCount" min="1" value="720">
+            </div>
+        </div>
+
+        <div class="input-row">
+            <div class="input-item">
+                <label for="customer">العميل:</label>
+                <input type="text" id="customer" value="Salam">
+            </div>
+            <div class="input-item">
+                <label for="comment">التعليق (مثل: التاريخ):</label>
+                <input type="text" id="comment" value="">
+            </div>
+            <div class="input-item">
+                <label for="profile">البروفايل:</label>
+                <input type="text" id="profile" value="200">
+            </div>
+        </div>
+
+        <div class="input-row">
+            <div class="input-item">
+                <label for="passwordType">نوع كلمة المرور:</label>
+                <select id="passwordType">
+                    <option value="same">نفس الرقم</option>
+                    <option value="empty">فارغ</option>
+                </select>
+            </div>
+        </div>
+
+        <button onclick="generateNumbers()">توليد الأرقام والسكريبت</button>
+
+        <h2>إعدادات PDF</h2>
+        <div class="input-row">
+            <div class="input-item">
+                <label for="backgroundImage">رفع صورة الخلفية:</label>
+                <input type="file" id="backgroundImage" accept="image/*">
+            </div>
+        </div>
+          من هنا تقدر تغير مكان رقم الكرت بالصوره...جرب حتى يتطابق مع تصميمك ...مع العلم به اختلاف بسيط مع pdf
+
+        <div class="input-row">
+            <div class="input-item">
+                <label for="textSize">حجم رقم الكرت:</label>
+                <input type="number" id="textSize" value="7" min="1">
+            </div>
+            <div class="input-item">
+                <label for="textPositionX">موضع رقم الكرت افقيا:</label>
+                <input type="number" id="textPositionX" value="54">
+            </div>
+            <div class="input-item">
+                <label for="textPositionY">موضع رقم الكرت عموديا:</label>
+                <input type="number" id="textPositionY" value="27">
+            </div>
+        </div>
+
+        <div class="input-row">
+            <div class="input-item">
+                <label for="columns">عدد الأعمدة بالصفحة:</label>
+                <input type="number" id="columns" value="4" min="1">
+            </div>
+            <div class="input-item">
+                <label for="rows">عدد الصفوف بالصفحة:</label>
+                <input type="number" id="rows" value="18" min="1">
+            </div>
+            <div class="input-item">
+                <label for="boxSpacing">المسافة بين الكروت (px):</label>
+                <input type="number" id="boxSpacing" value="1" min="0">
+            </div>
+        </div>
+
+        <div class="input-row">
+            <div class="input-item">
+                <label for="useSerialNumber">طباعة رقم تسلسلي:</label>
+                <input type="checkbox" id="useSerialNumber">
+            </div>
+            <div class="input-item">
+                <label for="useDatePrinting">طباعة التاريخ:</label>
+                <input type="checkbox" id="useDatePrinting">
+            </div>
+        </div>
+
+        <div id="serialNumberInputs" style="display: none;">
+            <div class="input-row">
+                <div class="input-item">
+                    <label for="serialStartNumber">يبدأ العد من:</label>
+                    <input type="number" id="serialStartNumber" value="1" min="1">
+                </div>
+                <div class="input-item">
+                    <label for="serialNumberSize">حجم الرقم:</label>
+                    <input type="number" id="serialNumberSize" value="5" min="1">
+                </div>
+                <div class="input-item">
+                    <label for="serialPositionX">موضع الرقم افقيا:</label>
+                    <input type="number" id="serialPositionX" value="150">
+                </div>
+                <div class="input-item">
+                    <label for="serialPositionY">موضع الرقم عموديا:</label>
+                    <input type="number" id="serialPositionY" value="47">
+                </div>
+            </div>
+        </div>
+
+        <div id="datePrintingInputs" style="display: none;">
+            <div class="input-row">
+                <div class="input-item">
+                    <label for="dateSize">حجم التاريخ:</label>
+                    <input type="number" id="dateSize" value="8" min="1">
+                </div>
+                <div class="input-item">
+                    <label for="datePositionX">موضع التاريخ افقيا:</label>
+                    <input type="number" id="datePositionX" value="0">
+                </div>
+                <div class="input-item">
+                    <label for="datePositionY">موضع التاريخ عموديا:</label>
+                    <input type="number" id="datePositionY" value="20">
+                </div>
+            </div>
+        </div>
+
+        <h3>معاينة:</h3>
+        <div id="preview" class="preview"></div>
+
+        <h3>الأرقام المولدة والسكريبت:</h3>
+        <textarea id="output" readonly></textarea>
+
+        <button onclick="saveAsTxt()">حفظ الأرقام كملف نصي</button>
+        <button onclick="saveAsMikroTik()">حفظ سكريبت MikroTik كملف نصي</button>
+        <button onclick="generatePDF()">إنشاء PDF</button>
+      <button onclick="saveAsExcel()">حفظ كملف Excel</button>
+    </div>
+
+    <script>
+        let generatedNumbers = [];
+        let backgroundImage = null; // Variable to store the background image data URL
+
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('input, select, input[type="checkbox"]').forEach(input => {
+                input.addEventListener('input', updatePreview); // Use 'input' for text/number/select, 'change' for checkbox
+                if (input.type === 'checkbox') {
+                    input.addEventListener('change', updatePreview);
+                }
+            });
+
+            document.getElementById('backgroundImage').addEventListener('change', function(event) {
+                const file = event.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function(e) {
+                        backgroundImage = e.target.result;
+                        updatePreview(); // Update preview when image is loaded
+                    };
+                    reader.readAsDataURL(file);
+                } else {
+                    backgroundImage = null; // Reset if no file is selected
+                    updatePreview();
+                }
+            });
+
+            document.getElementById('useSerialNumber').addEventListener('change', function() {
+                document.getElementById('serialNumberInputs').style.display = this.checked ? 'block' : 'none';
+                updatePreview();
+            });
+
+            document.getElementById('useDatePrinting').addEventListener('change', function() {
+                document.getElementById('datePrintingInputs').style.display = this.checked ? 'block' : 'none';
+                updatePreview();
+            });
+            // Initial preview update in case there are default values
+            updatePreview();
+        });
+
+        function generateNumbers() {
+            let customer = document.getElementById('customer').value.trim().replace(/\s+/g, '');
+            let comment = document.getElementById('comment').value.trim().replace(/\s+/g, ''); // Allow spaces in comment
+            let profile = document.getElementById('profile').value.trim().replace(/\s+/g, '');
+            let passwordType = document.getElementById('passwordType').value;
+
+            const beginNumber = document.getElementById('beginNumber').value; // Keep as string for prefix
+            const length = parseInt(document.getElementById('numLength').value);
+            const count = parseInt(document.getElementById('numCount').value);
+            const outputArea = document.getElementById('output');
+
+            if (length < 5) {
+                alert("خطأ: يجب أن يكون طول الرقم 5 أو أكثر!");
+                return;
+            }
+            if (beginNumber.length >= length) {
+                alert("خطأ: 'بداية كل رقم' يجب أن تكون أقصر من 'طول رقم الكرت'.");
+                return;
+            }
+
+
+            let result = '';
+            generatedNumbers = [];
+
+            result += `/log info "بدء إنشاء المستخدمين للعميل ${customer}";\n`;
+            result += `:local scriptRunDate [/system clock get date];\n`;
+            // If comment is empty, use the scriptRunDate. Otherwise, use the provided comment.
+            // MikroTik script needs quotes around the comment if it contains spaces or is empty.
+            let mikrotikComment = comment ? `"${comment}"` : "$scriptRunDate";
+
+
+            let attempts = 0; // To prevent infinite loop if parameters are too restrictive
+            const maxAttempts = count * 10; // Allow some retries for duplicates
+
+            while (generatedNumbers.length < count && attempts < maxAttempts) {
+                let randomNumberPart = '';
+                const randomLength = length - beginNumber.length;
+                for (let i = 0; i < randomLength; i++) {
+                    randomNumberPart += Math.floor(Math.random() * 10);
+                }
+                let fullRandomNumber = beginNumber + randomNumberPart;
+
+                if (!generatedNumbers.includes(fullRandomNumber)) {
+                    generatedNumbers.push(fullRandomNumber);
+
+                    let password = '';
+                    if (passwordType === 'same') {
+                        password = fullRandomNumber;
+                    } else if (passwordType === 'empty') {
+                        password = '""'; // MikroTik needs empty string quoted
+                    }
+
+                    const script = `/tool user-manager user add customer="${customer}" username="${fullRandomNumber}" password="${password}" first-name=$scriptRunDate comment=${mikrotikComment};\n` +
+                                   `/tool user-manager user create-and-activate-profile customer="${customer}" profile="${profile}" "${fullRandomNumber}";\n`;
+                    result += script;
+                }
+                attempts++;
+            }
+             if (generatedNumbers.length < count) {
+                alert(`تم توليد ${generatedNumbers.length} أرقام فقط بسبب التكرار. قد تحتاج لتغيير 'بداية كل رقم' أو زيادة 'طول رقم الكرت'.`);
+            }
+
+
+            result += `/log info "اكتمال إنشاء المستخدمين للعميل ${customer} - العدد الإجمالي: ${generatedNumbers.length}";\n`;
+
+            outputArea.value = result;
+            updatePreview(); // Update preview after generating numbers
+        }
+
+        function updatePreview() {
+            const previewDiv = document.getElementById('preview');
+            previewDiv.innerHTML = ''; // Clear previous preview
+
+            if (generatedNumbers.length === 0 && !backgroundImage) {
+                previewDiv.textContent = 'المعاينة ستظهر هنا بعد توليد الأرقام أو رفع صورة خلفية.';
+                return;
+            }
+            
+            const firstGeneratedNumber = generatedNumbers.length > 0 ? generatedNumbers[0] : "12345"; // Sample number if none generated
+
+            const columns = parseInt(document.getElementById('columns').value) || 1;
+            const rows = parseInt(document.getElementById('rows').value) || 1; // Not directly used for single box preview scale
+            
+            const textSize = parseFloat(document.getElementById('textSize').value) || 7;
+            const textX = parseFloat(document.getElementById('textPositionX').value) || 0;
+            const textY = parseFloat(document.getElementById('textPositionY').value) || 0;
+
+            const useSerial = document.getElementById('useSerialNumber').checked;
+            const serialStart = parseInt(document.getElementById('serialStartNumber').value) || 1;
+            const serialSize = parseFloat(document.getElementById('serialNumberSize').value) || 5;
+            const serialX = parseFloat(document.getElementById('serialPositionX').value) || 0;
+            const serialY = parseFloat(document.getElementById('serialPositionY').value) || 0;
+
+            const useDate = document.getElementById('useDatePrinting').checked;
+            const dateSize = parseFloat(document.getElementById('dateSize').value) || 8;
+            const dateX = parseFloat(document.getElementById('datePositionX').value) || 0;
+            const dateY = parseFloat(document.getElementById('datePositionY').value) || 0;
+            
+            const boxSpacing = parseFloat(document.getElementById('boxSpacing').value) || 0;
+
+            // A4 dimensions in mm for reference (not directly for preview scaling here)
+            const pageA4WidthMm = 210;
+            const pageA4HeightMm = 297;
+            const marginMm = 5; // Example margin
+
+            // Calculate box dimensions for a hypothetical A4 page, then scale down for preview
+            // This gives a proportional preview
+            const effectivePageWidthMm = pageA4WidthMm - 2 * marginMm;
+            const boxWidthMm = (effectivePageWidthMm - (boxSpacing * (columns - 1))) / columns;
+            // For height, we need a reference. Let's assume a common card aspect ratio or a fixed height.
+            // Or, if an image is uploaded, use its aspect ratio.
+            // For simplicity, let's make the preview box somewhat proportional if possible.
+            // A common card size is ~85mm x 55mm. We'll use boxWidthMm and try to derive a height.
+            let boxHeightMm = boxWidthMm * (55/85); // Common credit card aspect ratio
+
+
+            // --- Preview Scaling ---
+            // Scale the calculated mm dimensions to fit the preview area (e.g., max 200px width)
+            const previewAreaMaxWidthPx = 200; // Max width for the preview box in pixels
+            const scaleFactor = previewAreaMaxWidthPx / boxWidthMm;
+
+            const previewBoxWidthPx = boxWidthMm * scaleFactor;
+            const previewBoxHeightPx = boxHeightMm * scaleFactor;
+
+            const boxElement = document.createElement('div');
+            boxElement.className = 'box';
+            boxElement.style.width = `${previewBoxWidthPx}px`;
+            boxElement.style.height = `${previewBoxHeightPx}px`;
+            
+            if (backgroundImage) {
+                boxElement.style.backgroundImage = `url(${backgroundImage})`;
+            } else {
+                boxElement.style.backgroundColor = '#e0e0e0'; // Placeholder background
+            }
+
+            // Position elements within the scaled preview box
+            // The X, Y inputs are treated as offsets from top-left in some unit (assume px-like for PDF)
+            // We need to scale these positions relative to the preview box size
+            // Original inputs (textX, textY) are in 'px' relative to the card.
+            // We need to scale them to the previewBox's scaled dimensions.
+            // Let's assume the input X/Y are relative to a card of `boxWidthMm` x `boxHeightMm`
+            
+            const addTextToBox = (text, posX, posY, size) => {
+                const textElement = document.createElement('div');
+                textElement.textContent = text;
+                textElement.style.position = 'absolute';
+                // Scale position and font size
+                // Assume posX and posY are relative to a card of ~85mm width and ~55mm height
+                // The textPositionX/Y are user inputs, let's assume they are in "points" or "small units"
+                // For preview, scale them relative to the preview box dimensions.
+                // If textX is 50, it means 50 units from left.
+                // If card width is 100 units, this is 50%.
+                // This part is tricky because PDF units and screen preview units differ.
+                // For simplicity, let's consider textX/Y as direct pixel offsets for the preview, scaled by font size.
+                // However, PDF generation uses mm. We need a consistent reference.
+                
+                // Let's assume textPositionX/Y are percentages of the card dimensions for simplicity in preview
+                // No, the user input is likely intended as absolute units for PDF.
+                // For preview, map these PDF-intended units to screen pixels.
+                // The input textPositionX, Y are in some arbitrary unit.
+                // Let's assume they are relative to a card of size, say, 200x100 "units" for the input fields.
+                // Then we scale to the previewBox.
+
+                // Let's try a simpler approach for preview:
+                // Treat textX, textY as relative pixel offsets for the preview box itself, then adjust with font size
+                // This might not perfectly match PDF but gives an idea.
+                textElement.style.left = `${posX * (previewBoxWidthPx / 100)}px`; // Treat posX as a percentage for preview
+                textElement.style.top = `${posY * (previewBoxHeightPx / 100)}px`;  // Treat posY as a percentage for preview
+                textElement.style.fontSize = `${size * (scaleFactor * 0.5) }px`; // Scale font size for preview
+                textElement.style.color = 'black'; // Ensure text is visible
+                textElement.style.backgroundColor = 'rgba(255,255,255,0.3)'; // Slight bg for readability
+                boxElement.appendChild(textElement);
+            };
+
+            // Card Number
+            // The input textPositionX/Y are for PDF.
+            // Let's use a scale factor for preview positioning. (Points to Pixels for preview)
+            // Assuming textPositionX/Y are somewhat like "points" in a design tool.
+            const pointToPreviewPxScale = previewBoxWidthPx / 240; // Assuming card design width is ~240pts
+            
+            const numberDiv = document.createElement('div');
+            numberDiv.textContent = firstGeneratedNumber;
+            numberDiv.style.position = 'absolute';
+            numberDiv.style.left = `${textX * pointToPreviewPxScale}px`;
+            numberDiv.style.top = `${textY * pointToPreviewPxScale}px`;
+            numberDiv.style.fontSize = `${textSize * pointToPreviewPxScale * 1.5}px`; // Adjust font scaling
+            numberDiv.style.color = 'blue';
+            boxElement.appendChild(numberDiv);
+
+
+            if (useSerial) {
+                const serialDiv = document.createElement('div');
+                serialDiv.textContent = serialStart.toString();
+                serialDiv.style.position = 'absolute';
+                serialDiv.style.left = `${serialX * pointToPreviewPxScale}px`;
+                serialDiv.style.top = `${serialY * pointToPreviewPxScale}px`;
+                serialDiv.style.fontSize = `${serialSize * pointToPreviewPxScale*1.5}px`;
+                serialDiv.style.color = 'red';
+                boxElement.appendChild(serialDiv);
+            }
+
+            if (useDate) {
+                const dateDiv = document.createElement('div');
+                const today = new Date().toLocaleDateString('ar-EG-u-nu-latn', { year: 'numeric', month: '2-digit', day: '2-digit' }); // Arabic date
+                dateDiv.textContent = today;
+                dateDiv.style.position = 'absolute';
+                dateDiv.style.left = `${dateX * pointToPreviewPxScale}px`;
+                dateDiv.style.top = `${dateY * pointToPreviewPxScale}px`;
+                dateDiv.style.fontSize = `${dateSize * pointToPreviewPxScale*1.5}px`;
+                dateDiv.style.color = 'green';
+                boxElement.appendChild(dateDiv);
+            }
+
+            previewDiv.appendChild(boxElement);
+        }
+
+
+        function saveAsExcel() {
+            if (generatedNumbers.length === 0) {
+                alert("لا توجد أرقام مولدة لحفظها!");
+                return;
+            }
+
+            const worksheetData = generatedNumbers.map((number, index) => {
+                return {
+                    "الرقم": number,
+                    "العميل": document.getElementById('customer').value,
+                    "البروفايل": document.getElementById('profile').value,
+                    "التعليق": document.getElementById('comment').value || new Date().toISOString().slice(0,10), // Add date if comment empty
+                };
+            });
+
+            const ws = XLSX.utils.json_to_sheet(worksheetData);
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, "GeneratedNumbers");
+
+            const date = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+            const numberCount = generatedNumbers.length;
+            const beginNumberPrefix = document.getElementById('beginNumber').value;
+            const profileName = document.getElementById('profile').value;
+            XLSX.writeFile(wb, `Excel_${profileName}_${beginNumberPrefix}_${numberCount}_${date}.xlsx`);
+        }
+
+        function saveAsTxt() {
+            if (generatedNumbers.length === 0) {
+                alert("لا توجد أرقام مولدة لحفظها!");
+                return;
+            }
+            const text = generatedNumbers.join('\n');
+            const date = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+            const numberCount = generatedNumbers.length;
+            const beginNumberPrefix = document.getElementById('beginNumber').value;
+            const profileName = document.getElementById('profile').value;
+            const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = `NumbersOnly_${profileName}_${beginNumberPrefix}_${numberCount}_${date}.txt`;
+            link.click();
+            URL.revokeObjectURL(link.href);
+        }
+
+        function saveAsMikroTik() {
+            const text = document.getElementById('output').value.trim();
+            if (!text) {
+                 alert("لا يوجد سكريبت مولد لحفظه!");
+                return;
+            }
+            const date = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+            const numberCount = generatedNumbers.length; // Could be 0 if only script is present from old session
+            const beginNumberPrefix = document.getElementById('beginNumber').value;
+            const profileName = document.getElementById('profile').value;
+            const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = `MikroTikScript_${profileName}_${beginNumberPrefix}_${numberCount}_${date}.txt`;
+            link.click();
+            URL.revokeObjectURL(link.href);
+        }
+
+function generatePDF() {
+    if (generatedNumbers.length === 0) {
+        alert("يرجى توليد الأرقام أولاً قبل إنشاء PDF!");
+        return;
+    }
+
+    const { jsPDF } = window.jspdf;
+    const pdf = new jsPDF({
+        orientation: 'portrait',
+        unit: 'mm',
+        format: 'a4'
+    });
+
+    // It seems jsPDF doesn't handle Arabic well by default with standard fonts.
+    // You might need to embed an Arabic-supporting font for proper display in PDF.
+    // For now, it will likely render Arabic as ??? or squares unless the user's PDF viewer has a fallback.
+    // This is a limitation of jsPDF's default fonts.
+    // Example (requires a .ttf font file converted to a Base64 string or a .js font definition):
+    // pdf.addFileToVFS("Amiri-Regular.ttf", AMIRI_FONT_BASE64_STRING); // You need to get/generate this
+    // pdf.addFont("Amiri-Regular.ttf", "Amiri", "normal");
+    // pdf.setFont("Amiri");
+
+
+    const columns = parseInt(document.getElementById('columns').value) || 1;
+    const rows = parseInt(document.getElementById('rows').value) || 1;
+    const textSize = parseFloat(document.getElementById('textSize').value) || 7; // Treat as points
+    const textX = parseFloat(document.getElementById('textPositionX').value) || 0; // Treat as points from left
+    const textY = parseFloat(document.getElementById('textPositionY').value) || 0; // Treat as points from top
+
+    const useSerial = document.getElementById('useSerialNumber').checked;
+    const serialSize = parseFloat(document.getElementById('serialNumberSize').value) || 5;
+    const serialX = parseFloat(document.getElementById('serialPositionX').value) || 0;
+    const serialY = parseFloat(document.getElementById('serialPositionY').value) || 0;
+    const serialStart = parseInt(document.getElementById('serialStartNumber').value) || 1;
+
+    const useDate = document.getElementById('useDatePrinting').checked;
+    const dateSize = parseFloat(document.getElementById('dateSize').value) || 8;
+    const dateX = parseFloat(document.getElementById('datePositionX').value) || 0;
+    const dateY = parseFloat(document.getElementById('datePositionY').value) || 0;
+    
+    const boxSpacingInput = parseFloat(document.getElementById('boxSpacing').value) || 0; // User input for spacing
+
+    const pageA4WidthMm = 210;
+    const pageA4HeightMm = 297;
+    // Define margins for the printable area on the A4 page
+    const pageMarginX = 5; // Left/Right margin in mm
+    const pageMarginY = 5; // Top/Bottom margin in mm
+
+    // Calculate available width and height for cards
+    const availableWidthMm = pageA4WidthMm - (2 * pageMarginX);
+    const availableHeightMm = pageA4HeightMm - (2 * pageMarginY);
+
+    // Convert user's "px" spacing to mm for PDF (this is an approximation)
+    // Assume 1 CSS px input for spacing roughly translates to 0.264583 mm (standard 96 DPI)
+    const boxSpacingMm = boxSpacingInput * 0.264583;
+
+    const boxWidthMm = (availableWidthMm - (boxSpacingMm * (columns - 1))) / columns;
+    const boxHeightMm = (availableHeightMm - (boxSpacingMm * (rows - 1))) / rows;
+    
+    // Conversion factor for point (like font sizes or X/Y positions) to mm
+    // 1 point = 1/72 inch = 25.4/72 mm ≈ 0.352778 mm
+    const ptToMm = 25.4 / 72;
+
+    const todayForPDF = new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD format, more universal for PDF if Arabic fails
+
+    for (let i = 0; i < generatedNumbers.length; i++) {
+        if (i > 0 && i % (columns * rows) === 0) {
+            pdf.addPage();
+        }
+
+        const currentCol = i % columns;
+        const currentRow = Math.floor((i % (columns * rows)) / columns);
+
+        const cardX_Mm = pageMarginX + currentCol * (boxWidthMm + boxSpacingMm);
+        const cardY_Mm = pageMarginY + currentRow * (boxHeightMm + boxSpacingMm);
+
+        // Draw card border (optional)
+        // pdf.rect(cardX_Mm, cardY_Mm, boxWidthMm, boxHeightMm);
+
+        if (backgroundImage) {
+            try {
+                // Determine image type from data URL
+                const imgTypeMatch = backgroundImage.match(/^data:image\/(png|jpeg|jpg);base64,/);
+                const imgType = imgTypeMatch ? imgTypeMatch[1].toUpperCase() : 'JPEG'; // Default to JPEG
+                pdf.addImage(backgroundImage, imgType, cardX_Mm, cardY_Mm, boxWidthMm, boxHeightMm);
+            } catch (e) {
+                console.error("Error adding image to PDF:", e);
+                // Fallback: draw a placeholder rectangle if image fails
+                pdf.setDrawColor(200); // Light grey
+                pdf.rect(cardX_Mm, cardY_Mm, boxWidthMm, boxHeightMm);
+            }
+        }
+
+        pdf.setFontSize(textSize); // textSize is in points
+        // Text position: textX and textY are in points, convert to mm
+        // The baseline of text in jsPDF is at the bottom of the text.
+        // So, (textY * ptToMm) is the distance from the top of the card to the baseline of the text.
+        // Add a small offset (e.g., textSize in mm) to make textY behave more like top-alignment.
+        const numberTextYPos = cardY_Mm + (textY * ptToMm) + (textSize * ptToMm * 0.3); // Adjust Y for baseline
+        pdf.text(generatedNumbers[i].toString(), cardX_Mm + (textX * ptToMm), numberTextYPos);
+
+        if (useSerial) {
+            pdf.setFontSize(serialSize);
+            const serialTextYPos = cardY_Mm + (serialY * ptToMm) + (serialSize * ptToMm * 0.3);
+            pdf.text((serialStart + i).toString(), cardX_Mm + (serialX * ptToMm), serialTextYPos);
+        }
+
+        if (useDate) {
+            pdf.setFontSize(dateSize);
+            const dateTextYPos = cardY_Mm + (dateY * ptToMm) + (dateSize * ptToMm * 0.3);
+            // For PDF, it's safer to use a non-Arabic date string if font issues are present
+            pdf.text(todayForPDF, cardX_Mm + (dateX * ptToMm), dateTextYPos);
+        }
+    }
+
+    const dateForFilename = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+    const beginNumberPrefix = document.getElementById('beginNumber').value;
+    const profileName = document.getElementById('profile').value;
+    const filename = `PDFCards_${profileName}_${beginNumberPrefix}_${generatedNumbers.length}_${dateForFilename}.pdf`;
+    pdf.save(filename);
+}
+    </script>
+</body>
+</html>
