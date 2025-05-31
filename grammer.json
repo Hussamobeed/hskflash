@@ -1,0 +1,96 @@
+{
+  "hsk_level": 1,
+  "lesson_number": 1,
+  "rules": [
+    {
+      "rule_id": "hsk1_l1_r1",
+      "title_zh": "疑问代词“什么”",
+      "title_pinyin": "yíwèn dàicí “shénme”",
+      "title_ar": "ضمير الاستفهام \"ماذا / أي\"",
+      "explanation_ar": "الضمير \"什么\" (shénme) يُستخدم للسؤال عن شيء أو أمر ما. يمكن أن يأتي بمفرده كـ \"ماذا\"، أو يمكن أن يتبعه اسم ليصبح بمعنى \"أي + اسم\" (مثال: أي كتاب؟).",
+      "examples": [
+        {
+          "chinese": "你喝什么？",
+          "pinyin": "nǐ hē shénme?",
+          "arabic": "ماذا تشرب؟"
+        },
+        {
+          "chinese": "他看什么书？",
+          "pinyin": "tā kàn shénme shū?",
+          "arabic": "أي كتاب يقرأ هو؟"
+        },
+        {
+          "chinese": "这是什么水果？",
+          "pinyin": "zhè shì shénme shuǐguǒ?",
+          "arabic": "ما هذه الفاكهة؟ / أي فاكهة هذه؟"
+        },
+        {
+          "chinese": "你学习什么？",
+          "pinyin": "nǐ xuéxí shénme?",
+          "arabic": "ماذا تدرس؟"
+        },
+        {
+          "chinese": "他们说什么？",
+          "pinyin": "tāmen shuō shénme?",
+          "arabic": "ماذا يقولون هم؟"
+        },
+        {
+          "chinese": "她买什么东西？",
+          "pinyin": "tā mǎi shénme dōngxi?",
+          "arabic": "أي شيء تشتريه هي؟ / ماذا تشتري هي؟"
+        }
+      ]
+    },
+    {
+      "rule_id": "hsk1_l1_r2",
+      "title_zh": "“是”字句",
+      "title_pinyin": "shì” zì jù",
+      "title_ar": "جملة \"يكون\"",
+      "explanation_ar": "جملة \"是\" (shì) تُستخدم للتعبير عن الهوية أو الانتماء، بمعنى \"يكون\" أو \"هو/هي/هم...\". لإنشاء النفي، نضيف \"不\" (bù) قبل \"是\" لتصبح \"不是\" (bú shì) بمعنى \"لا يكون\".",
+      "examples_sections": [
+        {
+          "section_title_ar": "الإثبات (Positive):",
+          "examples": [
+            {
+              "chinese": "我是学生。",
+              "pinyin": "wǒ shì xuésheng.",
+              "arabic": "أنا طالب."
+            },
+            {
+              "chinese": "他是医生。",
+              "pinyin": "tā shì yīshēng.",
+              "arabic": "هو طبيب."
+            },
+            {
+              "chinese": "这是苹果。",
+              "pinyin": "zhè shì píngguǒ.",
+              "arabic": "هذا تفاح."
+            }
+          ]
+        },
+        {
+          "section_title_ar": "النفي (Negative):",
+          "examples": [
+            {
+              "chinese": "她不是老师。",
+              "pinyin": "tā bú shì lǎoshī.",
+              "arabic": "هي ليست معلمة."
+            },
+            {
+              "chinese": "那不是我的书。",
+              "pinyin": "nà bú shì wǒ de shū.",
+              "arabic": "ذلك ليس كتابي."
+            },
+            {
+              "chinese": "我们不是美国人。",
+              "pinyin": "wǒmen bú shì Měiguó rén.",
+              "arabic": "نحن لسنا أمريكيين."
+            }
+          ]
+        }
+      ],
+      "note_ar": "ملاحظة مهمة: عند نفي \"是\" باستخدام \"不\"، تتغير نغمة \"不\" من (bù) إلى (bú) فتصبح \"bú shì\"."
+    }
+    // ... يمكن إضافة باقي القواعد هنا
+  ]
+}
