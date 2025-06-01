@@ -8,38 +8,6 @@
           "grammar_id": "grammar_1_1_1",
           "grammar_title": "1.疑问代词“什么” (yíwèn dàicí “shénme”) - ضمير الاستفهام \"ماذا / أي\"",
           "explanation": "<p>الضمير \"什么\" (shénme) يُستخدم للسؤال عن شيء أو أمر ما. يمكن أن يأتي بمفرده كـ \"ماذا\"، أو يمكن أن يتبعه اسم ليصبح بمعنى \"أي + اسم\" (مثال: أي كتاب؟).</p>"
-          "examples": [
-            {
-              "hanzi": "你喝什么？",
-              "pinyin": "nǐ hē shénme?",
-              "arabic": "ماذا تشرب؟"
-            },
-            {
-              "hanzi": "他看什么书？",
-              "pinyin": "tā kàn shénme shū?",
-              "arabic": "أي كتاب يقرأ هو؟"
-            },
-            {
-              "hanzi": "这是什么水果？",
-              "pinyin": "zhè shì shénme shuǐguǒ?",
-              "arabic": "ما هذه الفاكهة؟ / أي فاكهة هذه؟"
-            },
-            {
-              "hanzi": "你学习什么？",
-              "pinyin": "nǐ xuéxí shénme?",
-              "arabic": "ماذا تدرس؟"
-            },
-            {
-              "hanzi": "他们说什么？",
-              "pinyin": "tāmen shuō shénme?",
-              "arabic": "ماذا يقولون هم؟"
-            },
-            {
-              "hanzi": "她买什么东西？",
-              "pinyin": "tā mǎi shénme dōngxi?",
-              "arabic": "أي شيء تشتريه هي؟ / ماذا تشتري هي؟"
-            }
-          ]
         },
         {
           "grammar_id": "grammar_1_1_2",
