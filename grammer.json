@@ -2,7 +2,7 @@
   "hsk1_lessons": [
     {
       "lesson_id": "lesson_1",
-      "lesson_title": "الدرس 1: المقدمات الأساسية",
+      "lesson_title": "الدرس 3: المقدمات الأساسية",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_1_1",
@@ -119,7 +119,7 @@
     },
     {
       "lesson_id": "lesson_2",
-      "lesson_title": "الدرس 2: الأسئلة عن الأشخاص والممتلكات",
+      "lesson_title": "الدرس 4: الأسئلة عن الأشخاص والممتلكات",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_2_1",
@@ -236,7 +236,7 @@
     },
     {
       "lesson_id": "lesson_3",
-      "lesson_title": "الدرس 3",
+      "lesson_title": "الدرس 5",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_3_1",
@@ -390,7 +390,7 @@
     },
     {
       "lesson_id": "lesson_4",
-      "lesson_title": "الدرس 4",
+      "lesson_title": "الدرس 6",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_4_1",
@@ -507,7 +507,7 @@
     },
     {
       "lesson_id": "lesson_5",
-      "lesson_title": "الدرس 5",
+      "lesson_title": "الدرس 7",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_5_1",
@@ -624,7 +624,7 @@
     },
     {
       "lesson_id": "lesson_6",
-      "lesson_title": "الدرس 6",
+      "lesson_title": "الدرس 8",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_6_1",
@@ -778,7 +778,7 @@
     },
     {
       "lesson_id": "lesson_7",
-      "lesson_title": "الدرس 7",
+      "lesson_title": "الدرس 9",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_7_1",
@@ -932,7 +932,7 @@
     },
     {
       "lesson_id": "lesson_8",
-      "lesson_title": "الدرس 8",
+      "lesson_title": "الدرس 10",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_8_1",
@@ -1086,7 +1086,7 @@
     },
     {
       "lesson_id": "lesson_9",
-      "lesson_title": "الدرس 9",
+      "lesson_title": "الدرس 11",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_9_1",
@@ -1250,7 +1250,7 @@
     },
     {
       "lesson_id": "lesson_10",
-      "lesson_title": "الدرس 10",
+      "lesson_title": "الدرس 12",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_10_1",
@@ -1367,7 +1367,7 @@
     },
     {
       "lesson_id": "lesson_11",
-      "lesson_title": "الدرس 11",
+      "lesson_title": "الدرس 13",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_11_1",
@@ -1504,7 +1504,7 @@
     },
     {
       "lesson_id": "lesson_12",
-      "lesson_title": "الدرس 12",
+      "lesson_title": "الدرس 14",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_12_1",
@@ -1594,7 +1594,7 @@
     },
     {
       "lesson_id": "lesson_13",
-      "lesson_title": "الدرس 13",
+      "lesson_title": "الدرس 15",
       "grammar_points": [
         {
           "grammar_id": "grammar_1_13_1",
