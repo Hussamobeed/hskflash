@@ -1,0 +1,7208 @@
+[
+  {
+    "level": "hsk 1",
+    "character": "爱",
+    "pinyin": "ài",
+    "english": "love"
+  },
+  {
+    "level": "hsk 1",
+    "character": "八",
+    "pinyin": "bā",
+    "english": "eight"
+  },
+  {
+    "level": "hsk 1",
+    "character": "爸爸",
+    "pinyin": "bàba",
+    "english": "Dad"
+  },
+  {
+    "level": "hsk 1",
+    "character": "杯子",
+    "pinyin": "bēizi",
+    "english": "cup; glass"
+  },
+  {
+    "level": "hsk 1",
+    "character": "北京",
+    "pinyin": "Běijīng",
+    "english": "Beijing"
+  },
+  {
+    "level": "hsk 1",
+    "character": "本",
+    "pinyin": "běn",
+    "english": "measure word for books"
+  },
+  {
+    "level": "hsk 1",
+    "character": "不客气",
+    "pinyin": "bú kèqi",
+    "english": "you're welcome; don't be polite"
+  },
+  {
+    "level": "hsk 1",
+    "character": "不",
+    "pinyin": "bù",
+    "english": "no; not"
+  },
+  {
+    "level": "hsk 1",
+    "character": "菜",
+    "pinyin": "cài",
+    "english": "dish (type of food); vegetables"
+  },
+  {
+    "level": "hsk 1",
+    "character": "茶",
+    "pinyin": "chá",
+    "english": "tea"
+  },
+  {
+    "level": "hsk 1",
+    "character": "吃",
+    "pinyin": "chī",
+    "english": "eat"
+  },
+  {
+    "level": "hsk 1",
+    "character": "出租车",
+    "pinyin": "chūzūchē",
+    "english": "taxi; cab"
+  },
+  {
+    "level": "hsk 1",
+    "character": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "english": "make a phone call"
+  },
+  {
+    "level": "hsk 1",
+    "character": "大",
+    "pinyin": "dà",
+    "english": "big; large"
+  },
+  {
+    "level": "hsk 1",
+    "character": "的",
+    "pinyin": "de",
+    "english": "indicates possession, like adding 's to a noun"
+  },
+  {
+    "level": "hsk 1",
+    "character": "点",
+    "pinyin": "diǎn",
+    "english": "a dot; a little; o'clock"
+  },
+  {
+    "level": "hsk 1",
+    "character": "电脑",
+    "pinyin": "diànnǎo",
+    "english": "computer"
+  },
+  {
+    "level": "hsk 1",
+    "character": "电视",
+    "pinyin": "diànshì",
+    "english": "television; TV"
+  },
+  {
+    "level": "hsk 1",
+    "character": "电影",
+    "pinyin": "diànyǐng",
+    "english": "movie; film"
+  },
+  {
+    "level": "hsk 1",
+    "character": "东西",
+    "pinyin": "dōngxi",
+    "english": "things; stuff"
+  },
+  {
+    "level": "hsk 1",
+    "character": "都",
+    "pinyin": "dōu",
+    "english": "all; both"
+  },
+  {
+    "level": "hsk 1",
+    "character": "读",
+    "pinyin": "dú",
+    "english": "to read; to study"
+  },
+  {
+    "level": "hsk 1",
+    "character": "对不起",
+    "pinyin": "duìbuqǐ",
+    "english": "sorry"
+  },
+  {
+    "level": "hsk 1",
+    "character": "多",
+    "pinyin": "duō",
+    "english": "many"
+  },
+  {
+    "level": "hsk 1",
+    "character": "多少",
+    "pinyin": "duōshao",
+    "english": "how much?; how many?"
+  },
+  {
+    "level": "hsk 1",
+    "character": "儿子",
+    "pinyin": "érzi",
+    "english": "son"
+  },
+  {
+    "level": "hsk 1",
+    "character": "二",
+    "pinyin": "èr",
+    "english": "two"
+  },
+  {
+    "level": "hsk 1",
+    "character": "饭店",
+    "pinyin": "fàndiàn",
+    "english": "restaurant; hotel"
+  },
+  {
+    "level": "hsk 1",
+    "character": "飞机",
+    "pinyin": "fēijī",
+    "english": "airplane"
+  },
+  {
+    "level": "hsk 1",
+    "character": "分钟",
+    "pinyin": "fēnzhōng",
+    "english": "minute; (measure word for time)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "高兴",
+    "pinyin": "gāoxìng",
+    "english": "happy; glad"
+  },
+  {
+    "level": "hsk 1",
+    "character": "个",
+    "pinyin": "ge",
+    "english": "general measure word"
+  },
+  {
+    "level": "hsk 1",
+    "character": "工作",
+    "pinyin": "gōngzuò",
+    "english": "work; a job"
+  },
+  {
+    "level": "hsk 1",
+    "character": "狗",
+    "pinyin": "gǒu",
+    "english": "dog"
+  },
+  {
+    "level": "hsk 1",
+    "character": "汉语",
+    "pinyin": "Hànyǔ",
+    "english": "Chinese language"
+  },
+  {
+    "level": "hsk 1",
+    "character": "好",
+    "pinyin": "hǎo",
+    "english": "good"
+  },
+  {
+    "level": "hsk 1",
+    "character": "号",
+    "pinyin": "hào",
+    "english": "number; day of a month"
+  },
+  {
+    "level": "hsk 1",
+    "character": "喝",
+    "pinyin": "hē",
+    "english": "to drink"
+  },
+  {
+    "level": "hsk 1",
+    "character": "和",
+    "pinyin": "hé",
+    "english": "and; with"
+  },
+  {
+    "level": "hsk 1",
+    "character": "很",
+    "pinyin": "hěn",
+    "english": "very; quite"
+  },
+  {
+    "level": "hsk 1",
+    "character": "后面",
+    "pinyin": "hòumian",
+    "english": "back; behind"
+  },
+  {
+    "level": "hsk 1",
+    "character": "回",
+    "pinyin": "huí",
+    "english": "to return; to reply; to go back"
+  },
+  {
+    "level": "hsk 1",
+    "character": "会",
+    "pinyin": "huì",
+    "english": "know how to"
+  },
+  {
+    "level": "hsk 1",
+    "character": "几",
+    "pinyin": "jǐ",
+    "english": "how many; several; a few"
+  },
+  {
+    "level": "hsk 1",
+    "character": "家",
+    "pinyin": "jiā",
+    "english": "family; home"
+  },
+  {
+    "level": "hsk 1",
+    "character": "叫",
+    "pinyin": "jiào",
+    "english": "to be called"
+  },
+  {
+    "level": "hsk 1",
+    "character": "今天",
+    "pinyin": "jīntiān",
+    "english": "today"
+  },
+  {
+    "level": "hsk 1",
+    "character": "九",
+    "pinyin": "jiǔ",
+    "english": "nine"
+  },
+  {
+    "level": "hsk 1",
+    "character": "开",
+    "pinyin": "kāi",
+    "english": "to open; to start; to operate (a vehicle)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "看",
+    "pinyin": "kàn",
+    "english": "see; look at; to watch"
+  },
+  {
+    "level": "hsk 1",
+    "character": "看见",
+    "pinyin": "kànjiàn",
+    "english": "see; catch sight of"
+  },
+  {
+    "level": "hsk 1",
+    "character": "块",
+    "pinyin": "kuài",
+    "english": "lump; piece; sum of money"
+  },
+  {
+    "level": "hsk 1",
+    "character": "来",
+    "pinyin": "lái",
+    "english": "come; arrive; ever since; next"
+  },
+  {
+    "level": "hsk 1",
+    "character": "老师",
+    "pinyin": "lǎoshī",
+    "english": "teacher"
+  },
+  {
+    "level": "hsk 1",
+    "character": "了",
+    "pinyin": "le",
+    "english": "indicates a completed or finished action"
+  },
+  {
+    "level": "hsk 1",
+    "character": "冷",
+    "pinyin": "lěng",
+    "english": "cold"
+  },
+  {
+    "level": "hsk 1",
+    "character": "里",
+    "pinyin": "lǐ",
+    "english": "inside; Chinese mile (~.5 km)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "六",
+    "pinyin": "liù",
+    "english": "six"
+  },
+  {
+    "level": "hsk 1",
+    "character": "妈妈",
+    "pinyin": "māma",
+    "english": "mom; mum"
+  },
+  {
+    "level": "hsk 1",
+    "character": "吗",
+    "pinyin": "ma",
+    "english": "indicates a yes/no question (added to a statement)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "买",
+    "pinyin": "mǎi",
+    "english": "to buy"
+  },
+  {
+    "level": "hsk 1",
+    "character": "猫",
+    "pinyin": "māo",
+    "english": "cat"
+  },
+  {
+    "level": "hsk 1",
+    "character": "没关系",
+    "pinyin": "méi guānxi",
+    "english": "it doesn't matter; never mind"
+  },
+  {
+    "level": "hsk 1",
+    "character": "没有",
+    "pinyin": "méiyǒu",
+    "english": "not have; there is not"
+  },
+  {
+    "level": "hsk 1",
+    "character": "米饭",
+    "pinyin": "mǐfàn",
+    "english": "(cooked) rice"
+  },
+  {
+    "level": "hsk 1",
+    "character": "明天",
+    "pinyin": "míngtiān",
+    "english": "tomorrow"
+  },
+  {
+    "level": "hsk 1",
+    "character": "名字",
+    "pinyin": "míngzi",
+    "english": "name"
+  },
+  {
+    "level": "hsk 1",
+    "character": "哪",
+    "pinyin": "nǎa",
+    "english": "which; how"
+  },
+  {
+    "level": "hsk 1",
+    "character": "哪儿",
+    "pinyin": "nǎr",
+    "english": "where? (Beijing accent)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "那",
+    "pinyin": "nà",
+    "english": "that; then"
+  },
+  {
+    "level": "hsk 1",
+    "character": "呢",
+    "pinyin": "ne",
+    "english": "indicates a question; how about...?;"
+  },
+  {
+    "level": "hsk 1",
+    "character": "能",
+    "pinyin": "néng",
+    "english": "can; be able"
+  },
+  {
+    "level": "hsk 1",
+    "character": "你",
+    "pinyin": "nǐ",
+    "english": "you (singular)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "年",
+    "pinyin": "nián",
+    "english": "year"
+  },
+  {
+    "level": "hsk 1",
+    "character": "女儿",
+    "pinyin": "nǚ'ér",
+    "english": "daughter"
+  },
+  {
+    "level": "hsk 1",
+    "character": "朋友",
+    "pinyin": "péngyou",
+    "english": "friend"
+  },
+  {
+    "level": "hsk 1",
+    "character": "漂亮",
+    "pinyin": "piàoliang",
+    "english": "pretty; beautiful"
+  },
+  {
+    "level": "hsk 1",
+    "character": "苹果",
+    "pinyin": "píngguǒ",
+    "english": "apple"
+  },
+  {
+    "level": "hsk 1",
+    "character": "七",
+    "pinyin": "qī",
+    "english": "seven"
+  },
+  {
+    "level": "hsk 1",
+    "character": "钱",
+    "pinyin": "qián",
+    "english": "money; coin"
+  },
+  {
+    "level": "hsk 1",
+    "character": "前面",
+    "pinyin": "qiánmiàn",
+    "english": "in front"
+  },
+  {
+    "level": "hsk 1",
+    "character": "请",
+    "pinyin": "qǐng",
+    "english": "please; invite; to treat someone to something"
+  },
+  {
+    "level": "hsk 1",
+    "character": "去",
+    "pinyin": "qù",
+    "english": "go; to leave"
+  },
+  {
+    "level": "hsk 1",
+    "character": "热",
+    "pinyin": "rè",
+    "english": "heat; hot"
+  },
+  {
+    "level": "hsk 1",
+    "character": "人",
+    "pinyin": "rén",
+    "english": "person; man; people"
+  },
+  {
+    "level": "hsk 1",
+    "character": "认识",
+    "pinyin": "rènshi",
+    "english": "recognize; know (a person)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "三",
+    "pinyin": "sān",
+    "english": "three"
+  },
+  {
+    "level": "hsk 1",
+    "character": "商店",
+    "pinyin": "shāngdiàn",
+    "english": "shop; store"
+  },
+  {
+    "level": "hsk 1",
+    "character": "上",
+    "pinyin": "shàng",
+    "english": "above; up"
+  },
+  {
+    "level": "hsk 1",
+    "character": "上午",
+    "pinyin": "shàngwǔ",
+    "english": "late morning (before noon)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "少",
+    "pinyin": "shǎo",
+    "english": "few; little"
+  },
+  {
+    "level": "hsk 1",
+    "character": "谁",
+    "pinyin": "shéi",
+    "english": "who"
+  },
+  {
+    "level": "hsk 1",
+    "character": "什么",
+    "pinyin": "shénme",
+    "english": "what? (replaces the noun to turn a statement into a question)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "十",
+    "pinyin": "shí",
+    "english": "ten"
+  },
+  {
+    "level": "hsk 1",
+    "character": "时候",
+    "pinyin": "shíhou",
+    "english": "time"
+  },
+  {
+    "level": "hsk 1",
+    "character": "是",
+    "pinyin": "shì",
+    "english": "be; is; are; am"
+  },
+  {
+    "level": "hsk 1",
+    "character": "书",
+    "pinyin": "shū",
+    "english": "book; letter"
+  },
+  {
+    "level": "hsk 1",
+    "character": "水",
+    "pinyin": "shuǐ",
+    "english": "water"
+  },
+  {
+    "level": "hsk 1",
+    "character": "水果",
+    "pinyin": "shuǐguǒ",
+    "english": "fruit"
+  },
+  {
+    "level": "hsk 1",
+    "character": "睡觉",
+    "pinyin": "shuì jiào",
+    "english": "to sleep; go to bed"
+  },
+  {
+    "level": "hsk 1",
+    "character": "说",
+    "pinyin": "shuō",
+    "english": "speak"
+  },
+  {
+    "level": "hsk 1",
+    "character": "四",
+    "pinyin": "sì",
+    "english": "four"
+  },
+  {
+    "level": "hsk 1",
+    "character": "岁",
+    "pinyin": "suì",
+    "english": "years old; age"
+  },
+  {
+    "level": "hsk 1",
+    "character": "他",
+    "pinyin": "tā",
+    "english": "he; him"
+  },
+  {
+    "level": "hsk 1",
+    "character": "她",
+    "pinyin": "tā",
+    "english": "she"
+  },
+  {
+    "level": "hsk 1",
+    "character": "太",
+    "pinyin": "tài",
+    "english": "too (much)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "天气",
+    "pinyin": "tiānqì",
+    "english": "weather"
+  },
+  {
+    "level": "hsk 1",
+    "character": "听",
+    "pinyin": "tīng",
+    "english": "listen; hear"
+  },
+  {
+    "level": "hsk 1",
+    "character": "同学",
+    "pinyin": "tóngxué",
+    "english": "fellow student; schoolmate"
+  },
+  {
+    "level": "hsk 1",
+    "character": "喂",
+    "pinyin": "wèi",
+    "english": "hello (on the phone)"
+  },
+  {
+    "level": "hsk 1",
+    "character": "我",
+    "pinyin": "wǒ",
+    "english": "I; me"
+  },
+  {
+    "level": "hsk 1",
+    "character": "我们",
+    "pinyin": "wǒmen",
+    "english": "we; us"
+  },
+  {
+    "level": "hsk 1",
+    "character": "五",
+    "pinyin": "wǔ",
+    "english": "five"
+  },
+  {
+    "level": "hsk 1",
+    "character": "喜欢",
+    "pinyin": "xǐhuan",
+    "english": "to like"
+  },
+  {
+    "level": "hsk 1",
+    "character": "下",
+    "pinyin": "xià",
+    "english": "fall; below"
+  },
+  {
+    "level": "hsk 1",
+    "character": "下午",
+    "pinyin": "xiàwǔ",
+    "english": "afternoon"
+  },
+  {
+    "level": "hsk 1",
+    "character": "下雨",
+    "pinyin": "xiàyǔ",
+    "english": "to rain"
+  },
+  {
+    "level": "hsk 1",
+    "character": "先生",
+    "pinyin": "xiānsheng",
+    "english": "Mr.; Sir"
+  },
+  {
+    "level": "hsk 1",
+    "character": "现在",
+    "pinyin": "xiànzài",
+    "english": "now"
+  },
+  {
+    "level": "hsk 1",
+    "character": "想",
+    "pinyin": "xiǎng",
+    "english": "think; believe; suppose; would like to"
+  },
+  {
+    "level": "hsk 1",
+    "character": "小",
+    "pinyin": "xiǎo",
+    "english": "small; young"
+  },
+  {
+    "level": "hsk 1",
+    "character": "小姐",
+    "pinyin": "xiǎojie",
+    "english": "young lady; miss; Ms."
+  },
+  {
+    "level": "hsk 1",
+    "character": "些",
+    "pinyin": "xiē",
+    "english": "some; few; several"
+  },
+  {
+    "level": "hsk 1",
+    "character": "写",
+    "pinyin": "xiě",
+    "english": "to write; to compose"
+  },
+  {
+    "level": "hsk 1",
+    "character": "谢谢",
+    "pinyin": "xièxie",
+    "english": "thank you"
+  },
+  {
+    "level": "hsk 1",
+    "character": "星期",
+    "pinyin": "xīngqī",
+    "english": "week"
+  },
+  {
+    "level": "hsk 1",
+    "character": "学生",
+    "pinyin": "xuésheng",
+    "english": "student"
+  },
+  {
+    "level": "hsk 1",
+    "character": "学习",
+    "pinyin": "xuéxí",
+    "english": "learn; to study"
+  },
+  {
+    "level": "hsk 1",
+    "character": "学校",
+    "pinyin": "xuéxiào",
+    "english": "school"
+  },
+  {
+    "level": "hsk 1",
+    "character": "一",
+    "pinyin": "yī",
+    "english": "one; once; a"
+  },
+  {
+    "level": "hsk 1",
+    "character": "衣服",
+    "pinyin": "yīfu",
+    "english": "clothes"
+  },
+  {
+    "level": "hsk 1",
+    "character": "医生",
+    "pinyin": "yīshēng",
+    "english": "doctor"
+  },
+  {
+    "level": "hsk 1",
+    "character": "医院",
+    "pinyin": "yīyuàn",
+    "english": "hospital"
+  },
+  {
+    "level": "hsk 1",
+    "character": "椅子",
+    "pinyin": "yǐzi",
+    "english": "chair"
+  },
+  {
+    "level": "hsk 1",
+    "character": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "english": "a bit; a few"
+  },
+  {
+    "level": "hsk 1",
+    "character": "有",
+    "pinyin": "yǒu",
+    "english": "have"
+  },
+  {
+    "level": "hsk 1",
+    "character": "月",
+    "pinyin": "yuè",
+    "english": "moon; month"
+  },
+  {
+    "level": "hsk 1",
+    "character": "在",
+    "pinyin": "zài",
+    "english": "at; on; in; indicates an action in progress"
+  },
+  {
+    "level": "hsk 1",
+    "character": "再见",
+    "pinyin": "zàijiàn",
+    "english": "goodbye; see you later"
+  },
+  {
+    "level": "hsk 1",
+    "character": "怎么",
+    "pinyin": "zěnme",
+    "english": "how?"
+  },
+  {
+    "level": "hsk 1",
+    "character": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "english": "how about?; how is/was it?"
+  },
+  {
+    "level": "hsk 1",
+    "character": "这",
+    "pinyin": "zhè",
+    "english": "this"
+  },
+  {
+    "level": "hsk 1",
+    "character": "中国",
+    "pinyin": "Zhōngguó",
+    "english": "China"
+  },
+  {
+    "level": "hsk 1",
+    "character": "中午",
+    "pinyin": "zhōngwǔ",
+    "english": "noon; midday"
+  },
+  {
+    "level": "hsk 1",
+    "character": "住",
+    "pinyin": "zhù",
+    "english": "to live; reside; to stop"
+  },
+  {
+    "level": "hsk 1",
+    "character": "桌子",
+    "pinyin": "zhuōzi",
+    "english": "table; desk"
+  },
+  {
+    "level": "hsk 1",
+    "character": "字",
+    "pinyin": "zì",
+    "english": "letter; character"
+  },
+  {
+    "level": "hsk 1",
+    "character": "昨天",
+    "pinyin": "zuótiān",
+    "english": "yesterday"
+  },
+  {
+    "level": "hsk 1",
+    "character": "做",
+    "pinyin": "zuò",
+    "english": "do; make"
+  },
+  {
+    "level": "hsk 1",
+    "character": "坐",
+    "pinyin": "zuò",
+    "english": "sit"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "吧",
+    "pinyin": "ba",
+    "english": "particle indicating polite suggestion; | onomatopoeia | bar (serving drinks, providing internet access, etc.)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "白",
+    "pinyin": "bái",
+    "english": "white; snowy; pure; bright; empty (Kangxi radical 106)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "百",
+    "pinyin": "bǎi",
+    "english": "hundred"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "帮助",
+    "pinyin": "bāngzhù",
+    "english": "help; assist; aid"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "报纸",
+    "pinyin": "bàozhǐ",
+    "english": "newspaper"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "比",
+    "pinyin": "bǐ",
+    "english": "compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "别",
+    "pinyin": "bié",
+    "english": "don't do something; don't | depart; | other; difference; distinguish"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "宾馆",
+    "pinyin": "bīnguǎn",
+    "english": "guesthouse; hotel"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "长",
+    "pinyin": "cháng, zhǎng",
+    "english": "long; length | grow; chief (Kangxi radical 168)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "唱歌",
+    "pinyin": "chànggē",
+    "english": "sing (a song)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "出",
+    "pinyin": "chū",
+    "english": "go out; occur"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "穿",
+    "pinyin": "chuān",
+    "english": "to wear; put on; penetrate"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "次",
+    "pinyin": "cì",
+    "english": "(mw for number of times of occurrence); nth; order"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "从",
+    "pinyin": "cóng",
+    "english": "from; obey; observe"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "错",
+    "pinyin": "cuò",
+    "english": "mistake; error; blunder; miss an opportunity"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "english": "play basketball"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "大家",
+    "pinyin": "dàjiā",
+    "english": "everyone"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "到",
+    "pinyin": "dào",
+    "english": "arrive (at a place); until (a time)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "得",
+    "pinyin": "de",
+    "english": "(complement particle)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "等",
+    "pinyin": "děng",
+    "english": "to wait; rank; equal; etc."
+  },
+  {
+    "level": "hsk2 ",
+    "character": "弟弟",
+    "pinyin": "dìdi",
+    "english": "younger brother"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "第一",
+    "pinyin": "dìyī",
+    "english": "first; number 1"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "懂",
+    "pinyin": "dǒng",
+    "english": "understand; know"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "对",
+    "pinyin": "duì",
+    "english": "correct; a pair; to face; be opposite; to; towards"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "房间",
+    "pinyin": "fángjiān",
+    "english": "room"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "非常",
+    "pinyin": "fēicháng",
+    "english": "extremely; extraordinary; very"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "服务员",
+    "pinyin": "fúwùyuán",
+    "english": "waiter/waitress; server; attendant"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "高",
+    "pinyin": "gāo",
+    "english": "high; tall (Kangxi radical 189)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "告诉",
+    "pinyin": "gàosu",
+    "english": "to tell; inform"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "哥哥",
+    "pinyin": "gēge",
+    "english": "older brother"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "给",
+    "pinyin": "gěi",
+    "english": "to give; to grant; (passive particle)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "公共汽车",
+    "pinyin": "gōnggòng qìchē",
+    "english": "(public) bus"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "公司",
+    "pinyin": "gōngsī",
+    "english": "company; corporation"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "贵",
+    "pinyin": "guì",
+    "english": "expensive; noble; honorable; Guizhou province (abbreviation)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "过",
+    "pinyin": "guò",
+    "english": "to pass; to cross; go over; (indicates a past experience)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "还",
+    "pinyin": "hái",
+    "english": "still; yet; in addition; even"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "孩子",
+    "pinyin": "háizi",
+    "english": "child; children; son or daughter"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "好吃",
+    "pinyin": "hǎochī",
+    "english": "tasty"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "黑",
+    "pinyin": "hēi",
+    "english": "black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "红",
+    "pinyin": "hóng",
+    "english": "red; symbol of success; bonus; popular"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "english": "train station"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "机场",
+    "pinyin": "jīchǎng",
+    "english": "airport; airfield"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "鸡蛋",
+    "pinyin": "jīdàn",
+    "english": "(chicken) egg"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "件",
+    "pinyin": "jiàn",
+    "english": "(mw for things, clothes, and items)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "教室",
+    "pinyin": "jiàoshì",
+    "english": "classroom"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "姐姐",
+    "pinyin": "jiějie",
+    "english": "older sister"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "介绍",
+    "pinyin": "jièshào",
+    "english": "to introduce; recommend; introduction"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "进",
+    "pinyin": "jìn",
+    "english": "enter; come in"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "近",
+    "pinyin": "jìn",
+    "english": "near; close (to)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "就",
+    "pinyin": "jiù",
+    "english": "then; at once; just; only; with regard to"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "觉得",
+    "pinyin": "juéde",
+    "english": "feel; think"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "咖啡",
+    "pinyin": "kāfēi",
+    "english": "coffee"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "开始",
+    "pinyin": "kāishǐ",
+    "english": "begin; to start; beginning"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "考试",
+    "pinyin": "kǎoshì",
+    "english": "test; exam; to give or take a test"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "可能",
+    "pinyin": "kěnéng",
+    "english": "possible; maybe"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "可以",
+    "pinyin": "kěyǐ",
+    "english": "can; may; possible; okay"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "课",
+    "pinyin": "kè",
+    "english": "class; subject; lesson; course"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "快",
+    "pinyin": "kuài",
+    "english": "fast; quick; swift"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "快乐",
+    "pinyin": "kuàilè",
+    "english": "happy"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "累",
+    "pinyin": "lèi",
+    "english": "tired"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "离",
+    "pinyin": "lí",
+    "english": "leave; depart; go away; apart from"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "两",
+    "pinyin": "liǎng",
+    "english": "two; 2; both; (unit of weight equal to 50 grams)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "零",
+    "pinyin": "líng",
+    "english": "zero; remnant"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "路",
+    "pinyin": "lù",
+    "english": "road; path; journey; route"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "旅游",
+    "pinyin": "lǚyóu",
+    "english": "trip; journey; tour"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "卖",
+    "pinyin": "mài",
+    "english": "to sell"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "慢",
+    "pinyin": "màn",
+    "english": "slow"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "忙",
+    "pinyin": "máng",
+    "english": "busy"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "每",
+    "pinyin": "měi",
+    "english": "each; every"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "妹妹",
+    "pinyin": "mèimei",
+    "english": "younger sister"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "门",
+    "pinyin": "mén",
+    "english": "door; opening; gate (Kangxi radical 169)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "面条",
+    "pinyin": "miàntiáo",
+    "english": "noodles"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "男",
+    "pinyin": "nán",
+    "english": "male"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "您",
+    "pinyin": "nín",
+    "english": "you (polite)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "牛奶",
+    "pinyin": "niúnǎi",
+    "english": "cow's milk"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "女",
+    "pinyin": "nǚ",
+    "english": "woman; female (Kangxi radical 38)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "旁边",
+    "pinyin": "pángbiān",
+    "english": "side, beside"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "跑步",
+    "pinyin": "pǎobù",
+    "english": "to run; to jog"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "便宜",
+    "pinyin": "piányi",
+    "english": "cheap"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "票",
+    "pinyin": "piào",
+    "english": "ticket; bank note; a vote"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "妻子",
+    "pinyin": "qīzi",
+    "english": "wife"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "起床",
+    "pinyin": "qǐ chuáng",
+    "english": "get out of bed"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "千",
+    "pinyin": "qiān",
+    "english": "one thousand"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "铅笔",
+    "pinyin": "qiānbǐ",
+    "english": "pencil"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "晴",
+    "pinyin": "qíng",
+    "english": "clear; fine (as of weather)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "去年",
+    "pinyin": "qùnián",
+    "english": "last year"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "让",
+    "pinyin": "ràng",
+    "english": "ask; let; yield"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "日",
+    "pinyin": "rì",
+    "english": "sun; day; date; time (Kangxi radical 72)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "上班",
+    "pinyin": "shàngbān",
+    "english": "go to work; be on duty"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "身体",
+    "pinyin": "shēntǐ",
+    "english": "health; (human) body"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "生病",
+    "pinyin": "shēngbìng",
+    "english": "get sick; fall ill"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "生日",
+    "pinyin": "shēngrì",
+    "english": "birthday"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "时间",
+    "pinyin": "shíjiān",
+    "english": "time; period"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "事情",
+    "pinyin": "shìqing",
+    "english": "matter; affair; thing; business"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "手表",
+    "pinyin": "shǒubiǎo",
+    "english": "wristwatch"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "手机",
+    "pinyin": "shǒujī",
+    "english": "mobile (cell) phone"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "说话",
+    "pinyin": "shuōhuà",
+    "english": "to talk; speak"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "送",
+    "pinyin": "sòng",
+    "english": "deliver; to carry; to give; send"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "虽然",
+    "pinyin": "suīrán",
+    "english": "although; even though"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "但是",
+    "pinyin": "dànshì",
+    "english": "but; however"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "它",
+    "pinyin": "tā",
+    "english": "it"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "踢足球",
+    "pinyin": "tīzúqiú",
+    "english": "to play football/soccer"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "题",
+    "pinyin": "tí",
+    "english": "topic; subject; question on a test or assignment"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "跳舞",
+    "pinyin": "tiàowǔ",
+    "english": "to dance"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "外",
+    "pinyin": "wài",
+    "english": "outer; outside; in addition; foreign"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "完",
+    "pinyin": "wán",
+    "english": "to finish; be over; complete"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "玩",
+    "pinyin": "wán",
+    "english": "to play; have a good time; visit; enjoy"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "晚上",
+    "pinyin": "wǎnshang",
+    "english": "evening; night"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "往",
+    "pinyin": "wǎng",
+    "english": "to go (in a direction); towards; in the past"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "为什么",
+    "pinyin": "wèishénme",
+    "english": "why?; for what reason?"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "问",
+    "pinyin": "wèn",
+    "english": "ask; inquire"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "问题",
+    "pinyin": "wèntí",
+    "english": "question; problem"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "西瓜",
+    "pinyin": "xīguā",
+    "english": "watermelon"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "希望",
+    "pinyin": "xīwàng",
+    "english": "to hope; wish for; to desire"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "洗",
+    "pinyin": "xǐ",
+    "english": "to wash; bathe"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "小时",
+    "pinyin": "xiǎoshí",
+    "english": "hour"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "笑",
+    "pinyin": "xiào",
+    "english": "to laugh; to smile"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "新",
+    "pinyin": "xīn",
+    "english": "new; Xinjiang autonomous region (abbreviation)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "姓",
+    "pinyin": "xìng",
+    "english": "surname; family name"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "休息",
+    "pinyin": "xiūxi",
+    "english": "to rest; take a break"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "雪",
+    "pinyin": "xuě",
+    "english": "snow"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "颜色",
+    "pinyin": "yánsè",
+    "english": "color"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "眼睛",
+    "pinyin": "yǎnjing",
+    "english": "eye"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "羊肉",
+    "pinyin": "yángròu",
+    "english": "mutton; lamb"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "药",
+    "pinyin": "yào",
+    "english": "medicine; drug; cure; chemical"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "要",
+    "pinyin": "yào",
+    "english": "to want; to need; will/shall; important"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "也",
+    "pinyin": "yě",
+    "english": "also; too"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "一起",
+    "pinyin": "yìqǐ",
+    "english": "together; in the same place"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "一下",
+    "pinyin": "yíxià",
+    "english": "a little bit/while; one time; once"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "已经",
+    "pinyin": "yǐjing",
+    "english": "already"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "意思",
+    "pinyin": "yìsi",
+    "english": "meaning; idea; opinion"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "因为",
+    "pinyin": "yīnwèi",
+    "english": "because"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "所以",
+    "pinyin": "suǒyǐ",
+    "english": "so; therefore; as a result"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "阴",
+    "pinyin": "yīn",
+    "english": "cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "游泳",
+    "pinyin": "yóuyǒng",
+    "english": "to swim"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "右边",
+    "pinyin": "yòubian",
+    "english": "the right (as opposed to left) side"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "鱼",
+    "pinyin": "yú",
+    "english": "fish (Kangxi radical 195)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "远",
+    "pinyin": "yuǎn",
+    "english": "far; distant; remote"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "运动",
+    "pinyin": "yùndòng",
+    "english": "(physical) exercise; movement; sports; campaign"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "再",
+    "pinyin": "zài",
+    "english": "again; once more"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "早上",
+    "pinyin": "zǎoshang",
+    "english": "(early) morning"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "丈夫",
+    "pinyin": "zhàngfu",
+    "english": "husband; man"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "找",
+    "pinyin": "zhǎo",
+    "english": "try to find; look for; seek; to give change"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "着",
+    "pinyin": "zhe",
+    "english": "#NAME?"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "真",
+    "pinyin": "zhēn",
+    "english": "real; true; genuine"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "正在",
+    "pinyin": "zhèngzài",
+    "english": "in the process of (doing something); currently"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "知道",
+    "pinyin": "zhīdao",
+    "english": "know; be aware of"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "准备",
+    "pinyin": "zhǔnbèi",
+    "english": "prepare; get ready"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "走",
+    "pinyin": "zǒu",
+    "english": "to walk; to go; to move (Kangxi radical 156)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "最",
+    "pinyin": "zuì",
+    "english": "the most; -est; (indicator for superlative)"
+  },
+  {
+    "level": "hsk2 ",
+    "character": "左边",
+    "pinyin": "zuǒbian",
+    "english": "the left side; the left"
+  },
+  {
+    "level": "hsk3",
+    "character": "阿姨",
+    "pinyin": "āyí",
+    "english": "auntie; step-mother; mother's younger sister"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "啊",
+    "pinyin": "a",
+    "english": "ah; (particle showing elation, doubt, puzzled surprise, or approval)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "矮",
+    "pinyin": "ǎi",
+    "english": "short; low"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "爱好",
+    "pinyin": "àihào",
+    "english": "hobby; fond of; to like; interest"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "安静",
+    "pinyin": "ānjìng",
+    "english": "quiet; peaceful; calm"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "把",
+    "pinyin": "bǎ",
+    "english": "(mw for things with handles); (pretransitive particle); to hold"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "班",
+    "pinyin": "bān",
+    "english": "team; class; squad"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "搬",
+    "pinyin": "bān",
+    "english": "to move; to transport"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "办法",
+    "pinyin": "bànfǎ",
+    "english": "method; way (of doing something)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "办公室",
+    "pinyin": "bàngōngshì",
+    "english": "office"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "半",
+    "pinyin": "bàn",
+    "english": "half; semi-; incomplete"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "帮忙",
+    "pinyin": "bāngmáng",
+    "english": "to help"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "包",
+    "pinyin": "bāo",
+    "english": "to cover; to wrap; to hold; include; (mw for containers, packages, etc.)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "饱",
+    "pinyin": "bǎo",
+    "english": "eat until full; satisfied"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "北方",
+    "pinyin": "běifāng",
+    "english": "north; the northern part of the country"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "被",
+    "pinyin": "bèi",
+    "english": "by (indicates passive voice sentences); a quilt/blanket"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "鼻子",
+    "pinyin": "bízi",
+    "english": "nose"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "比较",
+    "pinyin": "bǐjiào",
+    "english": "compare; contrast; relatively"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "比赛",
+    "pinyin": "bǐsài",
+    "english": "(sports) match; competition"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "笔记本",
+    "pinyin": "bǐjìběn",
+    "english": "notebook"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "必须",
+    "pinyin": "bìxū",
+    "english": "must; have to"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "变化",
+    "pinyin": "biànhuà",
+    "english": "change"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "别人",
+    "pinyin": "biéren",
+    "english": "other people; others"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "冰箱",
+    "pinyin": "bīngxiāng",
+    "english": "refrigerator"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "不但",
+    "pinyin": "búdàn",
+    "english": "not only"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "而且",
+    "pinyin": "érqiě",
+    "english": "moreover; in addition; as well as"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "菜单",
+    "pinyin": "càidān",
+    "english": "menu"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "参加",
+    "pinyin": "cānjiā",
+    "english": "participate; join; take part in"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "草",
+    "pinyin": "cǎo",
+    "english": "grass; straw; draft (of a document)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "层",
+    "pinyin": "céng",
+    "english": "(mw for layers, floors of buildings)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "差",
+    "pinyin": "chà",
+    "english": "differ from; fall short of; poor; inferior"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "超市",
+    "pinyin": "chāoshì",
+    "english": "supermarket"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "衬衫",
+    "pinyin": "chènshān",
+    "english": "shirt; blouse"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "成绩",
+    "pinyin": "chéngjì",
+    "english": "achievement; success; results (of work or study)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "城市",
+    "pinyin": "chéngshì",
+    "english": "city or town"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "迟到",
+    "pinyin": "chídào",
+    "english": "arrive late"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "除了",
+    "pinyin": "chúle",
+    "english": "besides; except for; aside from; in addition to"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "船",
+    "pinyin": "chuán",
+    "english": "a boat; vessel; ship"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "春",
+    "pinyin": "chūn",
+    "english": "spring (season); joyful"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "词典",
+    "pinyin": "cídiǎn",
+    "english": "dictionary"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "聪明",
+    "pinyin": "cōngming",
+    "english": "intelligent; clever; bright; smart"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "打扫",
+    "pinyin": "dǎsǎo",
+    "english": "to clean; to sweep"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "打算",
+    "pinyin": "dǎsuàn",
+    "english": "to plan; intend"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "带",
+    "pinyin": "dài",
+    "english": "band; belt; ribbon; carry; bring; take along; bring up (kids)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "担心",
+    "pinyin": "dānxīn",
+    "english": "to worry; feel anxious"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "蛋糕",
+    "pinyin": "dàngāo",
+    "english": "cake"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "当然",
+    "pinyin": "dāngrán",
+    "english": "of course; naturally"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "地",
+    "pinyin": "dì, de",
+    "english": "earth; ground | (adverbial particle)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "灯",
+    "pinyin": "dēng",
+    "english": "lamp; light"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "地方",
+    "pinyin": "dìfang",
+    "english": "place; space; room; part, (fāng: local; regional)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "地铁",
+    "pinyin": "dìtiě",
+    "english": "subway"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "地图",
+    "pinyin": "dìtú",
+    "english": "map"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "电梯",
+    "pinyin": "diàntī",
+    "english": "elevator"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "电子邮件",
+    "pinyin": "diànzǐ yóujiàn",
+    "english": "email"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "东",
+    "pinyin": "dōng",
+    "english": "East"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "冬",
+    "pinyin": "dōng",
+    "english": "winter"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "动物",
+    "pinyin": "dòngwù",
+    "english": "animal"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "短",
+    "pinyin": "duǎn",
+    "english": "short (in length, duration, or height); lack"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "段",
+    "pinyin": "duàn",
+    "english": "paragraph; segment; section"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "锻炼",
+    "pinyin": "duànliàn",
+    "english": "to exercise; work out; toughen; to temper"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "多么",
+    "pinyin": "duōme",
+    "english": "how (wonderful, etc.); what (a great idea)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "饿",
+    "pinyin": "è",
+    "english": "hungry"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "耳朵",
+    "pinyin": "ěrduo",
+    "english": "ear"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "发",
+    "pinyin": "fā, fà",
+    "english": "send out; to issue; to show (one's feelings) | hair"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "发烧",
+    "pinyin": "fāshāo",
+    "english": "have a fever"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "发现",
+    "pinyin": "fāxiàn",
+    "english": "discover; to find"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "方便",
+    "pinyin": "fāngbiàn",
+    "english": "convenient"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "放",
+    "pinyin": "fàng",
+    "english": "put; to place; to release; to free"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "放心",
+    "pinyin": "fàngxīn",
+    "english": "relax; feel relieved; rest assured"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "分",
+    "pinyin": "fēn, fèn",
+    "english": "divide; part; minute; cent | component; share; ingredient"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "附近",
+    "pinyin": "fùjìn",
+    "english": "(in the) vicinity; nearby; neighboring"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "复习",
+    "pinyin": "fùxí",
+    "english": "revise; to review"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "干净",
+    "pinyin": "gānjìng",
+    "english": "clean; neat and tidy"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "感冒",
+    "pinyin": "gǎnmào",
+    "english": "catch cold; (common) cold"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "感兴趣",
+    "pinyin": "gǎn xìngqù",
+    "english": "be interested in"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "刚才",
+    "pinyin": "gāngcái",
+    "english": "just now; a moment ago"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "个子",
+    "pinyin": "gèzi",
+    "english": "height; stature; build"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "根据",
+    "pinyin": "gēnjù",
+    "english": "according to; based on; basis"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "跟",
+    "pinyin": "gēn",
+    "english": "to follow; go with; heel"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "更",
+    "pinyin": "gèng",
+    "english": "more; even more"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "公斤",
+    "pinyin": "gōngjīn",
+    "english": "kilogram"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "公园",
+    "pinyin": "gōngyuán",
+    "english": "public park"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "故事",
+    "pinyin": "gùshi",
+    "english": "story; tale"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "刮风",
+    "pinyin": "guāfēng",
+    "english": "windy; to blow (wind)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "关",
+    "pinyin": "guān",
+    "english": "to close; shut; concern; relationship; turn off; mountain pass"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "关系",
+    "pinyin": "guānxi",
+    "english": "relation; to concern"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "关心",
+    "pinyin": "guānxīn",
+    "english": "concerned about/with"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "关于",
+    "pinyin": "guānyú",
+    "english": "about; regarding; concerning"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "国家",
+    "pinyin": "guójiā",
+    "english": "country; state; nation"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "过",
+    "pinyin": "guò",
+    "english": "to pass; to cross; go over; (indicates a past experience)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "过去",
+    "pinyin": "guòqù",
+    "english": "in the past; formerly"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "还是",
+    "pinyin": "háishi",
+    "english": "or; still; nevertheless; had better"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "害怕",
+    "pinyin": "hàipà",
+    "english": "afraid of; to fear"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "黑板",
+    "pinyin": "hēibǎn",
+    "english": "blackboard"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "后来",
+    "pinyin": "hòulái",
+    "english": "afterwards; after; later"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "护照",
+    "pinyin": "hùzhào",
+    "english": "passport"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "花",
+    "pinyin": "huā",
+    "english": "flower; blossom; spend money; cost"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "画",
+    "pinyin": "huà",
+    "english": "draw; picture; painting"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "坏",
+    "pinyin": "huài",
+    "english": "bad; broken"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "欢迎",
+    "pinyin": "huānyíng",
+    "english": "to welcome; greet"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "还",
+    "pinyin": "hái",
+    "english": "still; yet; in addition; even"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "环境",
+    "pinyin": "huánjìng",
+    "english": "environment; surroundings"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "换",
+    "pinyin": "huàn",
+    "english": "change; to exchange; to barter; to trade"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "黄河",
+    "pinyin": "huánghé",
+    "english": "Yellow River"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "回答",
+    "pinyin": "huídá",
+    "english": "to reply; to answer"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "会议",
+    "pinyin": "huìyì",
+    "english": "meeting; conference"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "或者",
+    "pinyin": "huòzhě",
+    "english": "or; possible; maybe; perhaps"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "几乎",
+    "pinyin": "jīhū",
+    "english": "almost"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "机会",
+    "pinyin": "jīhuì",
+    "english": "opportunity; chance; occasion"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "极",
+    "pinyin": "jí",
+    "english": "an extreme; pole; very"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "记得",
+    "pinyin": "jìde",
+    "english": "remember"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "季节",
+    "pinyin": "jìjié",
+    "english": "season; time; period"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "检查",
+    "pinyin": "jiǎnchá",
+    "english": "to check; examine; inspect"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "简单",
+    "pinyin": "jiǎndān",
+    "english": "simple; not complicated"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "见面",
+    "pinyin": "jiànmiàn",
+    "english": "meet/see somebody; meeting"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "健康",
+    "pinyin": "jiànkāng",
+    "english": "health; healthy"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "讲",
+    "pinyin": "jiǎng",
+    "english": "to talk; to lecture; to explain; a speech"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "教",
+    "pinyin": "jiāo, jiào",
+    "english": "teach; instruct | religion; teaching"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "角",
+    "pinyin": "jiǎo, jué",
+    "english": "horn; angle; unit of money (1/10 yuan); corner (Kangxi radical 148) | role (theater)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "脚",
+    "pinyin": "jiǎo",
+    "english": "foot (body part)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "接",
+    "pinyin": "jiē",
+    "english": "connect; to meet; to pick up (somebody); to receive"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "街道",
+    "pinyin": "jiēdào",
+    "english": "street"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "节目",
+    "pinyin": "jiémù",
+    "english": "program; item (on a program)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "节日",
+    "pinyin": "jiérì",
+    "english": "holiday; festival"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "结婚",
+    "pinyin": "jiéhūn",
+    "english": "get married"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "结束",
+    "pinyin": "jiéshù",
+    "english": "to end; to finish; conclude"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "解决",
+    "pinyin": "jiějué",
+    "english": "settle (a dispute); resolve; solve"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "借",
+    "pinyin": "jiè",
+    "english": "lend; borrow; excuse"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "经常",
+    "pinyin": "jīngcháng",
+    "english": "often; frequently; daily"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "经过",
+    "pinyin": "jīngguò",
+    "english": "to pass; go through; as a result of"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "经理",
+    "pinyin": "jīnglǐ",
+    "english": "manager; director"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "久",
+    "pinyin": "jiǔ",
+    "english": "long (time)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "旧",
+    "pinyin": "jiù",
+    "english": "old; past; used"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "句子",
+    "pinyin": "jùzi",
+    "english": "sentence"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "决定",
+    "pinyin": "juédìng",
+    "english": "decide; resolve"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "可爱",
+    "pinyin": "kě'ài",
+    "english": "cute; lovely"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "渴",
+    "pinyin": "kě",
+    "english": "thirsty"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "刻",
+    "pinyin": "kè",
+    "english": "quarter (hour); (mw for short time intervals); carve; to cut"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "客人",
+    "pinyin": "kèrén",
+    "english": "guest; customer"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "空调",
+    "pinyin": "kōngtiáo",
+    "english": "air conditioning"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "口",
+    "pinyin": "kǒu",
+    "english": "mouth (Kangxi radical 30)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "哭",
+    "pinyin": "kū",
+    "english": "cry; weep"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "裤子",
+    "pinyin": "kùzi",
+    "english": "pants; trousers"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "筷子",
+    "pinyin": "kuàizi",
+    "english": "chopsticks"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "蓝",
+    "pinyin": "lán",
+    "english": "blue"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "老",
+    "pinyin": "lǎo",
+    "english": "old; aged; tough; often (Kangxi radical 125)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "离开",
+    "pinyin": "líkāi",
+    "english": "leave; depart"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "礼物",
+    "pinyin": "lǐwù",
+    "english": "gift; present"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "历史",
+    "pinyin": "lìshǐ",
+    "english": "history"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "脸",
+    "pinyin": "liǎn",
+    "english": "face"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "练习",
+    "pinyin": "liànxí",
+    "english": "practice; exercise"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "辆",
+    "pinyin": "liàng",
+    "english": "(mw for vehicles)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "聊天",
+    "pinyin": "liáotiān",
+    "english": "to chat"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "了解",
+    "pinyin": "liǎojiě",
+    "english": "comprehend; understand; know; find out"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "邻居",
+    "pinyin": "línjū",
+    "english": "neighbor"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "留学",
+    "pinyin": "liúxué",
+    "english": "study abroad"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "楼",
+    "pinyin": "lóu",
+    "english": "story; floor; (multi-story) building"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "绿",
+    "pinyin": "lǜ",
+    "english": "green"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "马",
+    "pinyin": "mǎ",
+    "english": "horse (Kangxi radical 187)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "马上",
+    "pinyin": "mǎshàng",
+    "english": "at once; immediately; right away"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "满意",
+    "pinyin": "mǎnyì",
+    "english": "satisfied; pleased"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "帽子",
+    "pinyin": "màozi",
+    "english": "hat; cap"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "米",
+    "pinyin": "mǐ",
+    "english": "rice; meter (Kangxi radical 119)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "面包",
+    "pinyin": "miànbāo",
+    "english": "bread"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "明白",
+    "pinyin": "míngbai",
+    "english": "clear; obvious; understand; explicit"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "拿",
+    "pinyin": "ná",
+    "english": "carry in your hand; seize; to catch"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "奶奶",
+    "pinyin": "nǎinai",
+    "english": "grandma; (informal) paternal grandmother"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "南",
+    "pinyin": "nán",
+    "english": "South"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "难",
+    "pinyin": "nán",
+    "english": "difficult"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "难过",
+    "pinyin": "nánguò",
+    "english": "be grieved; be sad; have a hard time"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "年级",
+    "pinyin": "niánjí",
+    "english": "grade; year (in school)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "年轻",
+    "pinyin": "niánqīng",
+    "english": "young"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "鸟",
+    "pinyin": "niǎo",
+    "english": "bird (Kangxi radical 196)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "努力",
+    "pinyin": "nǔlì",
+    "english": "to work hard; to strive"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "爬山",
+    "pinyin": "páshān",
+    "english": "mountain climbing"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "盘子",
+    "pinyin": "pánzi",
+    "english": "plate; dish; tray"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "胖",
+    "pinyin": "pàng",
+    "english": "fat; plump"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "皮鞋",
+    "pinyin": "píxié",
+    "english": "leather shoes"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "啤酒",
+    "pinyin": "píjiǔ",
+    "english": "beer"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "瓶子",
+    "pinyin": "píngzi",
+    "english": "bottle"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "其实",
+    "pinyin": "qíshí",
+    "english": "actually; in fact"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "其他",
+    "pinyin": "qítā",
+    "english": "other; else"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "奇怪",
+    "pinyin": "qíguài",
+    "english": "strange; odd"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "骑",
+    "pinyin": "qí",
+    "english": "to ride (an animal or bike); to sit astride"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "起飞",
+    "pinyin": "qǐfēi",
+    "english": "take off (in an airplane); liftoff"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "起来",
+    "pinyin": "qǐlai",
+    "english": "(beginning or continuing an action); to rise; get up (from bed)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "清楚",
+    "pinyin": "qīngchu",
+    "english": "clear; distinct; be clear about"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "请假",
+    "pinyin": "qǐngjià",
+    "english": "to ask for time off"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "秋",
+    "pinyin": "qiū",
+    "english": "autumn; fall; harvest time"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "裙子",
+    "pinyin": "qúnzi",
+    "english": "skirt"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "然后",
+    "pinyin": "ránhòu",
+    "english": "then; afterwards"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "热情",
+    "pinyin": "rèqíng",
+    "english": "cordial; warm; enthusiastic"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "认为",
+    "pinyin": "rènwéi",
+    "english": "believe; think that"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "认真",
+    "pinyin": "rènzhēn",
+    "english": "serious; earnest; take seriously"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "容易",
+    "pinyin": "róngyì",
+    "english": "easy; likely; liable (to)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "如果",
+    "pinyin": "rúguǒ",
+    "english": "if; in the event that"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "伞",
+    "pinyin": "sǎn",
+    "english": "umbrella; parasol"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "上网",
+    "pinyin": "shàngwǎng",
+    "english": "to surf the web; to go online"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "生气",
+    "pinyin": "shēngqì",
+    "english": "angry; mad"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "声音",
+    "pinyin": "shēngyīn",
+    "english": "sound; voice"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "世界",
+    "pinyin": "shìjiè",
+    "english": "world"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "试",
+    "pinyin": "shì",
+    "english": "to try; to test; examination"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "瘦",
+    "pinyin": "shòu",
+    "english": "thin; tight; lean"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "叔叔",
+    "pinyin": "shūshu",
+    "english": "(informal) father's younger brother; uncle"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "舒服",
+    "pinyin": "shūfu",
+    "english": "comfortable; feeling well"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "树",
+    "pinyin": "shù",
+    "english": "tree"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "数学",
+    "pinyin": "shùxué",
+    "english": "mathematics"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "刷牙",
+    "pinyin": "shuāyá",
+    "english": "brush one's teeth"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "双",
+    "pinyin": "shuāng",
+    "english": "two; double; (mw for pairs)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "水平",
+    "pinyin": "shuǐpíng",
+    "english": "level; standard; horizontal"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "司机",
+    "pinyin": "sījī",
+    "english": "driver; chauffeur"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "太阳",
+    "pinyin": "tàiyáng",
+    "english": "the sun"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "特别",
+    "pinyin": "tèbié",
+    "english": "special; especially; particular"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "疼",
+    "pinyin": "téng",
+    "english": "ache; sore; (it) hurts; love fondly"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "提高",
+    "pinyin": "tígāo",
+    "english": "to raise; heighten; improve"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "体育",
+    "pinyin": "tǐyù",
+    "english": "physical training; sports"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "甜",
+    "pinyin": "tián",
+    "english": "sweet"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "条",
+    "pinyin": "tiáo",
+    "english": "strip; (mw for long thin objects); item"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "同事",
+    "pinyin": "tóngshì",
+    "english": "colleague; co-worker"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "同意",
+    "pinyin": "tóngyì",
+    "english": "agree; to consent; approve"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "头发",
+    "pinyin": "tóufa",
+    "english": "hair (on the head)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "突然",
+    "pinyin": "tūrán",
+    "english": "sudden; abrupt"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "图书馆",
+    "pinyin": "túshūguǎn",
+    "english": "library"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "腿",
+    "pinyin": "tuǐ",
+    "english": "leg"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "完成",
+    "pinyin": "wánchéng",
+    "english": "to complete; accomplish; to fulfill"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "碗",
+    "pinyin": "wǎn",
+    "english": "bowl; cup"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "万",
+    "pinyin": "wàn",
+    "english": "ten thousand"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "忘记",
+    "pinyin": "wàngjì",
+    "english": "forget"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "为",
+    "pinyin": "wèi",
+    "english": "for; because of; to; for the sake of"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "为了",
+    "pinyin": "wèile",
+    "english": "in order to; for the sake of; for the purpose of"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "位",
+    "pinyin": "wèi",
+    "english": "position; location; (polite mw for people)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "文化",
+    "pinyin": "wénhuà",
+    "english": "culture; civilization"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "西",
+    "pinyin": "xī",
+    "english": "West (Kangxi radical 146)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "习惯",
+    "pinyin": "xíguàn",
+    "english": "habit; be accustomed to; usual practice"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "english": "toilet; lavatory; washroom"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "洗澡",
+    "pinyin": "xǐzǎo",
+    "english": "bathe; take a bath or shower; bath or shower"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "夏",
+    "pinyin": "xià",
+    "english": "summer"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "先",
+    "pinyin": "xiān",
+    "english": "first; early; before"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "相信",
+    "pinyin": "xiāngxìn",
+    "english": "believe (sb.); be convinced of"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "english": "banana"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "向",
+    "pinyin": "xiàng",
+    "english": "direction; towards; to turn; to face"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "像",
+    "pinyin": "xiàng",
+    "english": "be like; resemble; appearance; appear"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "小心",
+    "pinyin": "xiǎoxīn",
+    "english": "be careful"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "校长",
+    "pinyin": "xiàozhǎng",
+    "english": "principal (of school, college or university); president; headmaster"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "新闻",
+    "pinyin": "xīnwén",
+    "english": "news"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "新鲜",
+    "pinyin": "xīnxiān",
+    "english": "fresh (experience, food, etc.); new; novel"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "信用卡",
+    "pinyin": "xìnyòngkǎ",
+    "english": "credit card"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "行李箱",
+    "pinyin": "xínglǐxiāng",
+    "english": "trunk; suitcase"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "熊猫",
+    "pinyin": "xióngmāo",
+    "english": "panda"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "需要",
+    "pinyin": "xūyào",
+    "english": "to need; to want; to demand"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "选择",
+    "pinyin": "xuǎnzé",
+    "english": "select; to pick; choose"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "要求",
+    "pinyin": "yāoqiú",
+    "english": "to request; to demand; requirement"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "爷爷",
+    "pinyin": "yéye",
+    "english": "(informal) father's father; paternal grandfather"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "一般",
+    "pinyin": "yìbān",
+    "english": "general; ordinary; common; same"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "一边",
+    "pinyin": "yìbiān",
+    "english": "one side; on the one hand; at the same time"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "一定",
+    "pinyin": "yídìng",
+    "english": "surely; certainly; necessarily; definite"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "一共",
+    "pinyin": "yígòng",
+    "english": "altogether; in total"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "一会儿",
+    "pinyin": "yíhuìr",
+    "english": "a while; a moment"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "一样",
+    "pinyin": "yíyàng",
+    "english": "the same; alike; equal to"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "一直",
+    "pinyin": "yìzhí",
+    "english": "always; all along; straight (in a straight line)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "以前",
+    "pinyin": "yǐqián",
+    "english": "before; formerly; previous"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "音乐",
+    "pinyin": "yīnyuè",
+    "english": "music"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "银行",
+    "pinyin": "yínháng",
+    "english": "bank"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "饮料",
+    "pinyin": "yǐnliào",
+    "english": "beverage; drink"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "应该",
+    "pinyin": "yīnggāi",
+    "english": "should; ought to; must"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "影响",
+    "pinyin": "yǐngxiǎng",
+    "english": "influence; affect; effect"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "用",
+    "pinyin": "yòng",
+    "english": "to use (Kangxi radical 101)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "游戏",
+    "pinyin": "yóuxì",
+    "english": "game; play; recreation"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "有名",
+    "pinyin": "yǒumíng",
+    "english": "famous; well-known"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "又",
+    "pinyin": "yòu",
+    "english": "(once) again; also; both (Kangxi radical 29)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "遇到",
+    "pinyin": "yùdào",
+    "english": "to meet; run into; come across"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "元",
+    "pinyin": "yuán",
+    "english": "Chinese monetary unit; dollar; first; principal"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "愿意",
+    "pinyin": "yuànyì",
+    "english": "be willing; want to; be ready"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "月亮",
+    "pinyin": "yuèliang",
+    "english": "the moon"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "越",
+    "pinyin": "yuè",
+    "english": "even more; the more; exceed"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "站",
+    "pinyin": "zhàn",
+    "english": "stand; a station; be on one's feet; service center"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "张",
+    "pinyin": "zhāng",
+    "english": "(mw for flat objects); to spread out; (common surname)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "长",
+    "pinyin": "cháng, zhǎng",
+    "english": "long; length | grow; chief (Kangxi radical 168)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "着急",
+    "pinyin": "zháojí",
+    "english": "to worry; feel anxious"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "照顾",
+    "pinyin": "zhàogu",
+    "english": "take care of; look after; give consideration"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "照片",
+    "pinyin": "zhàopiàn",
+    "english": "picture; photograph"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "english": "camera"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "只",
+    "pinyin": "zhī, zhǐ",
+    "english": "but; only; merely; just | (mw for birds and certain animals)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "只有",
+    "pinyin": "zhǐyǒu",
+    "english": "only"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "才",
+    "pinyin": "cái",
+    "english": "ability; talent; just now; not until"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "中间",
+    "pinyin": "zhōngjiān",
+    "english": "center; middle; between; among"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "中文",
+    "pinyin": "Zhōngwén",
+    "english": "Chinese (language)"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "终于",
+    "pinyin": "zhōngyú",
+    "english": "at last; in the end; finally"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "种",
+    "pinyin": "zhǒng",
+    "english": "type; breed; race; seed"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "重要",
+    "pinyin": "zhòngyào",
+    "english": "important; significant; major"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "周末",
+    "pinyin": "zhōumò",
+    "english": "weekend"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "主要",
+    "pinyin": "zhǔyào",
+    "english": "main; principal; major"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "注意",
+    "pinyin": "zhùyì",
+    "english": "pay attention to; take notice of; be careful"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "自己",
+    "pinyin": "zìjǐ",
+    "english": "oneself; self"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "自行车",
+    "pinyin": "zìxíngchē",
+    "english": "bike; bicycle"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "总是",
+    "pinyin": "zǒngshì",
+    "english": "always; eventually"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "嘴",
+    "pinyin": "zuǐ",
+    "english": "mouth"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "最后",
+    "pinyin": "zuìhòu",
+    "english": "last; final; ultimately"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "最近",
+    "pinyin": "zuìjìn",
+    "english": "recently; lately; these days"
+  },
+  {
+    "level": "hsk3 ",
+    "character": "作业",
+    "pinyin": "zuòyè",
+    "english": "school assignment; homework; task"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "爱情",
+    "pinyin": "àiqíng",
+    "english": "(romantic) love"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "安排",
+    "pinyin": "ānpái",
+    "english": "arrange; to plan"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "安全",
+    "pinyin": "ānquán",
+    "english": "safe; safety; secure; security"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "按时",
+    "pinyin": "ànshí",
+    "english": "on time; on schedule"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "按照",
+    "pinyin": "ànzhào",
+    "english": "according to; in accordance with; in light of"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "百分之",
+    "pinyin": "bǎifēnzhī",
+    "english": "percent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "棒",
+    "pinyin": "bàng",
+    "english": "stick; club; good; excellent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "包子",
+    "pinyin": "bāozi",
+    "english": "steamed stuffed bun"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "保护",
+    "pinyin": "bǎohù",
+    "english": "to protect; to defend"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "保证",
+    "pinyin": "bǎozhèng",
+    "english": "to guarantee; ensure"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "报名",
+    "pinyin": "bào míng",
+    "english": "sign up; apply"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "抱",
+    "pinyin": "bào",
+    "english": "to hold; to hug; carry in one's arms; to cradle"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "抱歉",
+    "pinyin": "bàoqiàn",
+    "english": "be sorry; feel apologetic; to regret"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "倍",
+    "pinyin": "bèi",
+    "english": "(two, three, etc)-fold; times (multiplier)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "本来",
+    "pinyin": "běnlái",
+    "english": "originally; at first"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "笨",
+    "pinyin": "bèn",
+    "english": "stupid; foolish; silly; dumb; clumsy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "比如",
+    "pinyin": "bǐrú",
+    "english": "for example; for instance; such as"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "毕业",
+    "pinyin": "bì yè",
+    "english": "to graduate; to finish school"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "遍",
+    "pinyin": "biàn",
+    "english": "a time; everywhere; turn; (mw for times or turns)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "标准",
+    "pinyin": "biāozhǔn",
+    "english": "(an official) standard; norm; criterion"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "表格",
+    "pinyin": "biǎogé",
+    "english": "form (document)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "表示",
+    "pinyin": "biǎoshì",
+    "english": "express; show; indicate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "表演",
+    "pinyin": "biǎoyǎn",
+    "english": "perform; to play"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "表扬",
+    "pinyin": "biǎoyáng",
+    "english": "to praise; commend"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "饼干",
+    "pinyin": "bǐnggān",
+    "english": "biscuit; cracker; cookie"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "并且",
+    "pinyin": "bìngqiě",
+    "english": "and; besides; moreover"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "博士",
+    "pinyin": "bóshì",
+    "english": "doctor; PhD"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "不得不",
+    "pinyin": "bù dé bù",
+    "english": "have to; have no choice but to; cannot but"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "不管",
+    "pinyin": "bùguǎn",
+    "english": "no matter (what, how, etc.); regardless of"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "不过",
+    "pinyin": "búguò",
+    "english": "only; merely; but; however"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "不仅",
+    "pinyin": "bùjǐn",
+    "english": "not only; not just"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "部分",
+    "pinyin": "bùfen",
+    "english": "part; share; section"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "擦",
+    "pinyin": "cā",
+    "english": "to wipe; to rub; to polish"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "猜",
+    "pinyin": "cāi",
+    "english": "to guess"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "材料",
+    "pinyin": "cáiliào",
+    "english": "material"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "参观",
+    "pinyin": "cānguān",
+    "english": "to visit (a place, such as a tourist spot); inspect"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "餐厅",
+    "pinyin": "cāntīng",
+    "english": "dining hall; cafeteria; restaurant"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "厕所",
+    "pinyin": "cèsuǒ",
+    "english": "bathroom; toilet; lavatory"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "差不多",
+    "pinyin": "chàbuduō",
+    "english": "almost; about the same"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "长城",
+    "pinyin": "chángchéng",
+    "english": "the Great Wall"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "长江",
+    "pinyin": "Chángjiāng",
+    "english": "the Yangtze River; the Changjiang River"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "尝",
+    "pinyin": "cháng",
+    "english": "to taste; flavor; (past tense marker)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "场",
+    "pinyin": "chǎng",
+    "english": "courtyard; place; field; (mw for games, performances, etc.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "超过",
+    "pinyin": "chāoguò",
+    "english": "surpass; exceed; outstrip"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "成功",
+    "pinyin": "chénggōng",
+    "english": "success; to succeed"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "成为",
+    "pinyin": "chéngwéi",
+    "english": "become; turn into"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "诚实",
+    "pinyin": "chéngshí",
+    "english": "honest; honorable"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "乘坐",
+    "pinyin": "chéngzuò",
+    "english": "ride; get into (a vehicle)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "吃惊",
+    "pinyin": "chī jīng",
+    "english": "be startled; be shocked; be amazed"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "重新",
+    "pinyin": "chóngxīn",
+    "english": "again; anew; once more"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "抽烟",
+    "pinyin": "chōuyān",
+    "english": "to smoke (a cigarette, pipe, etc.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "出差",
+    "pinyin": "chū chāi",
+    "english": "go on a business trip"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "出发",
+    "pinyin": "chūfā",
+    "english": "start out; set off"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "出生",
+    "pinyin": "chūshēng",
+    "english": "be born"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "出现",
+    "pinyin": "chūxiàn",
+    "english": "appear; arise; emerge"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "厨房",
+    "pinyin": "chúfáng",
+    "english": "kitchen"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "传真",
+    "pinyin": "chuánzhēn",
+    "english": "fax; facsimile"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "窗户",
+    "pinyin": "chuānghu",
+    "english": "window"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "词语",
+    "pinyin": "cíyǔ",
+    "english": "words and expressions; terms"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "从来",
+    "pinyin": "cónglái",
+    "english": "always; at all times"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "粗心",
+    "pinyin": "cūxīn",
+    "english": "careless; inadvertent; negligent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "存",
+    "pinyin": "cún",
+    "english": "exist; to deposit; to store"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "错误",
+    "pinyin": "cuòwù",
+    "english": "error; mistake; mistaken"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "答案",
+    "pinyin": "dá'àn",
+    "english": "answer; solution"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "打扮",
+    "pinyin": "dǎban",
+    "english": "dress up; put on make up"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "打扰",
+    "pinyin": "dǎrǎo",
+    "english": "disturb"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "打印",
+    "pinyin": "dǎyìn",
+    "english": "to print"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "打招呼",
+    "pinyin": "dǎzhāohu",
+    "english": "notify; greet; inform"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "打折",
+    "pinyin": "dǎzhé",
+    "english": "sell at a discount"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "打针",
+    "pinyin": "dǎzhēn",
+    "english": "inject; get a shot"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "大概",
+    "pinyin": "dàgài",
+    "english": "probably; roughly; approximate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "大使馆",
+    "pinyin": "dàshǐguǎn",
+    "english": "embassy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "大约",
+    "pinyin": "dàyuē",
+    "english": "approximately; about"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "大夫",
+    "pinyin": "dàifu",
+    "english": "doctor; physician"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "戴",
+    "pinyin": "dài",
+    "english": "put on; to wear; to respect"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "当",
+    "pinyin": "dāng",
+    "english": "should; act as; work as; manage; match; (sound of bells)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "当时",
+    "pinyin": "dāngshí",
+    "english": "then; at that time; while"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "刀",
+    "pinyin": "dāo",
+    "english": "knife; blade (Kangxi radical 18)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "导游",
+    "pinyin": "dǎoyóu",
+    "english": "tour guide"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "到处",
+    "pinyin": "dàochù",
+    "english": "everywhere; in all places; all over"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "到底",
+    "pinyin": "dào dǐ",
+    "english": "after all; in the end (used in a question)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "倒",
+    "pinyin": "dǎo, dào",
+    "english": "to collapse; to fall; fail; to exchange | to pour; contrary to expectations"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "道歉",
+    "pinyin": "dàoqiàn",
+    "english": "apologize; make an apology"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "得意",
+    "pinyin": "déyì",
+    "english": "proud of oneself; complacent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "得",
+    "pinyin": "de",
+    "english": "(complement particle)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "登机牌",
+    "pinyin": "dēngjīpái",
+    "english": "boarding pass"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "等",
+    "pinyin": "děng",
+    "english": "to wait; rank; equal; etc."
+  },
+  {
+    "level": "hsk4 ",
+    "character": "低",
+    "pinyin": "dī",
+    "english": "low; to lower (one's head); droop"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "底",
+    "pinyin": "dǐ",
+    "english": "bottom; background; base"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "地点",
+    "pinyin": "dìdiǎn",
+    "english": "place; site; location"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "地球",
+    "pinyin": "dìqiú",
+    "english": "the Earth; planet"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "地址",
+    "pinyin": "dìzhǐ",
+    "english": "address"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "调查",
+    "pinyin": "diàochá",
+    "english": "investigate; survey; inquiry"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "掉",
+    "pinyin": "diào",
+    "english": "to drop; to fall"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "丢",
+    "pinyin": "diū",
+    "english": "lose (something); throw; put aside"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "动作",
+    "pinyin": "dòngzuò",
+    "english": "movement; motion; action"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "堵车",
+    "pinyin": "dǔchē",
+    "english": "traffic jam"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "肚子",
+    "pinyin": "dùzi",
+    "english": "belly; abdomen; stomach"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "短信",
+    "pinyin": "duǎnxìn",
+    "english": "text message; SMS"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "对话",
+    "pinyin": "duìhuà",
+    "english": "dialogue; conversation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "对面",
+    "pinyin": "duìmiàn",
+    "english": "opposite; across from; the other side"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "对于",
+    "pinyin": "duìyú",
+    "english": "regarding; as far as sth. is concerned; with regards to; for"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "儿童",
+    "pinyin": "értóng",
+    "english": "child; children"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "而",
+    "pinyin": "ér",
+    "english": "and; but; yet; while (Kangxi radical 126)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "发生",
+    "pinyin": "fāshēng",
+    "english": "happen; occur; take place"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "发展",
+    "pinyin": "fāzhǎn",
+    "english": "develop; development; growth"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "法律",
+    "pinyin": "fǎlǜ",
+    "english": "law; statute"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "翻译",
+    "pinyin": "fānyì",
+    "english": "translate; translation; interpret"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "烦恼",
+    "pinyin": "fánnǎo",
+    "english": "worried; vexed"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "反对",
+    "pinyin": "fǎnduì",
+    "english": "oppose; fight against"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "方法",
+    "pinyin": "fāngfǎ",
+    "english": "method; way; means"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "方面",
+    "pinyin": "fāngmiàn",
+    "english": "aspect; field; side"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "方向",
+    "pinyin": "fāngxiàng",
+    "english": "direction; orientation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "房东",
+    "pinyin": "fángdōng",
+    "english": "landlord"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "放弃",
+    "pinyin": "fàngqì",
+    "english": "abandon; renounce; give up"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "放暑假",
+    "pinyin": "fàng shǔjià",
+    "english": "have summer vacation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "放松",
+    "pinyin": "fàngsōng",
+    "english": "relax; loosen; slacken"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "份",
+    "pinyin": "fèn",
+    "english": "part; portion; (mw for documents, papers, jobs, etc.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "丰富",
+    "pinyin": "fēngfù",
+    "english": "rich; enrich; abundant; plentiful"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "否则",
+    "pinyin": "fǒuzé",
+    "english": "if not; otherwise; or else"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "符合",
+    "pinyin": "fúhé",
+    "english": "in keeping with; in accordance with; conform"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "父亲",
+    "pinyin": "fùqin",
+    "english": "father"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "付款",
+    "pinyin": "fù kuǎn",
+    "english": "to pay"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "负责",
+    "pinyin": "fùzé",
+    "english": "responsible for (something); in charge of"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "复印",
+    "pinyin": "fùyìn",
+    "english": "photocopy; duplicate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "复杂",
+    "pinyin": "fùzá",
+    "english": "complicated; complex"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "富",
+    "pinyin": "fù",
+    "english": "wealthy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "改变",
+    "pinyin": "gǎibiàn",
+    "english": "to change; alter; to transform"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "干杯",
+    "pinyin": "gān bēi",
+    "english": "to drink a toast; cheers!; bottoms up!"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "赶",
+    "pinyin": "gǎn",
+    "english": "catch up; overtake; drive away"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "敢",
+    "pinyin": "gǎn",
+    "english": "to dare"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "感动",
+    "pinyin": "gǎndòng",
+    "english": "be moved; to touch emotionally"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "感觉",
+    "pinyin": "gǎnjué",
+    "english": "to feel; become aware of; feeling"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "感情",
+    "pinyin": "gǎnqíng",
+    "english": "feeling; emotion; sensation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "感谢",
+    "pinyin": "gǎnxiè",
+    "english": "thank; be grateful"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "干",
+    "pinyin": "gān",
+    "english": "to concern; shield; dry; clean (Kangxi radical 51)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "刚",
+    "pinyin": "gāng",
+    "english": "just (indicating the immediate past); recently; firm"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "高速公路",
+    "pinyin": "gāosù gōnglù",
+    "english": "highway"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "胳膊",
+    "pinyin": "gēbo",
+    "english": "arm"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "各",
+    "pinyin": "gè",
+    "english": "each; every"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "工资",
+    "pinyin": "gōngzī",
+    "english": "wages; pay; earnings; salary"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "公里",
+    "pinyin": "gōnglǐ",
+    "english": "kilometer"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "功夫",
+    "pinyin": "gōngfu",
+    "english": "kung fu; skill; art; labor"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "共同",
+    "pinyin": "gòngtóng",
+    "english": "together; common; joint"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "购物",
+    "pinyin": "gòuwù",
+    "english": "go shopping; buy goods"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "够",
+    "pinyin": "gòu",
+    "english": "enough; to reach"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "估计",
+    "pinyin": "gūjì",
+    "english": "appraise; estimate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "鼓励",
+    "pinyin": "gǔlì",
+    "english": "encourage; inspire"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "故意",
+    "pinyin": "gùyì",
+    "english": "deliberately; intentional; on purpose"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "顾客",
+    "pinyin": "gùkè",
+    "english": "customer; client"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "挂",
+    "pinyin": "guà",
+    "english": "hang; put up; suspend"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "关键",
+    "pinyin": "guānjiàn",
+    "english": "crucial; key; pivotal"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "观众",
+    "pinyin": "guānzhòng",
+    "english": "spectator; audience"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "管理",
+    "pinyin": "guǎnlǐ",
+    "english": "supervise; manage"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "光",
+    "pinyin": "guāng",
+    "english": "light; ray; bright; only; merely; used up"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "广播",
+    "pinyin": "guǎngbō",
+    "english": "broadcast; on the air"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "广告",
+    "pinyin": "guǎnggào",
+    "english": "advertisement; a commercial"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "逛",
+    "pinyin": "guàng",
+    "english": "to stroll; to visit; go window shopping"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "规定",
+    "pinyin": "guīdìng",
+    "english": "regulation; stipulate; fix; set"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "国籍",
+    "pinyin": "guójí",
+    "english": "nationality"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "国际",
+    "pinyin": "guójì",
+    "english": "international"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "果汁",
+    "pinyin": "guǒzhī",
+    "english": "fruit juice"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "过程",
+    "pinyin": "guòchéng",
+    "english": "course of events; process"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "海洋",
+    "pinyin": "hǎiyáng",
+    "english": "ocean"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "害羞",
+    "pinyin": "hài xiū",
+    "english": "blush; shy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "寒假",
+    "pinyin": "hánjià",
+    "english": "winter vacation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "汗",
+    "pinyin": "hàn",
+    "english": "sweat; perspiration; Khan"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "航班",
+    "pinyin": "hángbān",
+    "english": "scheduled flight; flight number"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "好处",
+    "pinyin": "hǎochu",
+    "english": "benefit; advantage"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "好像",
+    "pinyin": "hǎoxiàng",
+    "english": "as if; seem to be"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "号码",
+    "pinyin": "hàomǎ",
+    "english": "number"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "合格",
+    "pinyin": "hégé",
+    "english": "qualified; up to standard"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "合适",
+    "pinyin": "héshì",
+    "english": "suitable; proper; appropriate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "盒子",
+    "pinyin": "hézi",
+    "english": "box"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "后悔",
+    "pinyin": "hòuhuǐ",
+    "english": "to regret; repent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "厚",
+    "pinyin": "hòu",
+    "english": "thick (for flat things); generous"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "互联网",
+    "pinyin": "Hùliánwǎng",
+    "english": "Internet"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "互相",
+    "pinyin": "hùxiāng",
+    "english": "mutually; with each other"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "护士",
+    "pinyin": "hùshi",
+    "english": "nurse"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "怀疑",
+    "pinyin": "huáiyí",
+    "english": "doubt; to suspect; be skeptical"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "回忆",
+    "pinyin": "huíyì",
+    "english": "to recall; recollect"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "活动",
+    "pinyin": "huódòng",
+    "english": "activity; exercise; move about"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "活泼",
+    "pinyin": "huópo",
+    "english": "lively; vivacious"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "火",
+    "pinyin": "huǒ",
+    "english": "fire (Kangxi radical 86)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "获得",
+    "pinyin": "huòdé",
+    "english": "obtain; acquire; to gain"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "积极",
+    "pinyin": "jījí",
+    "english": "active; positive; energetic"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "积累",
+    "pinyin": "jīlěi",
+    "english": "accumulate; accumulation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "基础",
+    "pinyin": "jīchǔ",
+    "english": "base; foundation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "激动",
+    "pinyin": "jīdòng",
+    "english": "excite; agitate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "及时",
+    "pinyin": "jíshí",
+    "english": "timely; in time; promptly; without delay"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "即使",
+    "pinyin": "jíshǐ",
+    "english": "even if; even though"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "计划",
+    "pinyin": "jìhuà",
+    "english": "plan; project"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "记者",
+    "pinyin": "jìzhě",
+    "english": "reporter; journalist"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "技术",
+    "pinyin": "jìshù",
+    "english": "technology; technique; skill"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "既然",
+    "pinyin": "jìrán",
+    "english": "since; given that; now that"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "继续",
+    "pinyin": "jìxù",
+    "english": "to continue; to go on; to proceed"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "寄",
+    "pinyin": "jì",
+    "english": "send by mail"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "加班",
+    "pinyin": "jiā bān",
+    "english": "work overtime"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "加油站",
+    "pinyin": "jiāyóuzhàn",
+    "english": "gas station"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "家具",
+    "pinyin": "jiājù",
+    "english": "furniture"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "假",
+    "pinyin": "jiǎ, jià",
+    "english": "fake; if; borrow | vacation; holiday"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "价格",
+    "pinyin": "jiàgé",
+    "english": "price"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "坚持",
+    "pinyin": "jiānchí",
+    "english": "persist in; persevere"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "减肥",
+    "pinyin": "jiǎnféi",
+    "english": "go on a diet; lose weight"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "减少",
+    "pinyin": "jiǎnshǎo",
+    "english": "reduce; to decrease"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "建议",
+    "pinyin": "jiànyì",
+    "english": "to propose; to suggest; recommend"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "将来",
+    "pinyin": "jiānglái",
+    "english": "the future"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "奖金",
+    "pinyin": "jiǎngjīn",
+    "english": "bonus"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "降低",
+    "pinyin": "jiàngdī",
+    "english": "reduce; to lower; to drop"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "降落",
+    "pinyin": "jiàngluò",
+    "english": "descend; to land; put down"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "交",
+    "pinyin": "jiāo",
+    "english": "deliver; turn over; intersect; to pay (money); friendship"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "交流",
+    "pinyin": "jiāoliú",
+    "english": "communicate; exchange; give and take; interaction; to alternate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "交通",
+    "pinyin": "jiāotōng",
+    "english": "traffic; transportation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "郊区",
+    "pinyin": "jiāoqū",
+    "english": "suburbs; outskirts"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "骄傲",
+    "pinyin": "jiāo'ào",
+    "english": "proud; arrogant; conceited; take pride in"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "饺子",
+    "pinyin": "jiǎozi",
+    "english": "dumpling; potsticker"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "教授",
+    "pinyin": "jiàoshòu",
+    "english": "professor; instruct; to lecture"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "教育",
+    "pinyin": "jiàoyù",
+    "english": "education"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "接受",
+    "pinyin": "jiēshòu",
+    "english": "accept; receive (honors, etc.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "接着",
+    "pinyin": "jiēzhe",
+    "english": "continue; carry on; to catch; follow"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "节",
+    "pinyin": "jié",
+    "english": "section; part; festival; moral integrity; save; (mw for class periods)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "节约",
+    "pinyin": "jiéyuē",
+    "english": "frugal; to save"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "结果",
+    "pinyin": "jiéguǒ",
+    "english": "result; outcome; finally"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "解释",
+    "pinyin": "jiěshì",
+    "english": "to explain"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "尽管",
+    "pinyin": "jǐnguǎn",
+    "english": "despite; although; even though | freely; without hesitation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "紧张",
+    "pinyin": "jǐnzhāng",
+    "english": "nervous; tension; strain"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "进行",
+    "pinyin": "jìnxíng",
+    "english": "carry on; carry out; undertake"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "禁止",
+    "pinyin": "jìnzhǐ",
+    "english": "to ban; prohibit"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "京剧",
+    "pinyin": "jīngjù",
+    "english": "Beijing Opera"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "经济",
+    "pinyin": "jīngjì",
+    "english": "economy; economic"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "经历",
+    "pinyin": "jīnglì",
+    "english": "undergo; to experience"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "经验",
+    "pinyin": "jīngyàn",
+    "english": "experience"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "精彩",
+    "pinyin": "jīngcǎi",
+    "english": "brilliant; spectacular; wonderful"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "景色",
+    "pinyin": "jǐngsè",
+    "english": "scenery; landscape; scene; view"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "警察",
+    "pinyin": "jǐngchá",
+    "english": "police"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "竞争",
+    "pinyin": "jìngzhēng",
+    "english": "compete"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "竟然",
+    "pinyin": "jìngrán",
+    "english": "unexpectedly; to one's surprise; go so far as to"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "镜子",
+    "pinyin": "jìngzi",
+    "english": "mirror"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "究竟",
+    "pinyin": "jiūjìng",
+    "english": "after all; when all is said and done; actually"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "举",
+    "pinyin": "jǔ",
+    "english": "lift; raise; cite"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "举办",
+    "pinyin": "jǔbàn",
+    "english": "to conduct; to hold"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "举行",
+    "pinyin": "jǔxíng",
+    "english": "convene; to hold (a meeting, ceremony, etc.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "拒绝",
+    "pinyin": "jùjué",
+    "english": "to refuse; to decline; to reject"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "距离",
+    "pinyin": "jùlí",
+    "english": "distance; be apart; away from"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "聚会",
+    "pinyin": "jùhuì",
+    "english": "hold a meeting; get together; a party"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "开玩笑",
+    "pinyin": "kāi wánxiào",
+    "english": "joke; play a joke; make fun of"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "开心",
+    "pinyin": "kāixīn",
+    "english": "feel happy; have a great time; make fun of somebody"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "看法",
+    "pinyin": "kànfǎ",
+    "english": "point of view; opinion"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "考虑",
+    "pinyin": "kǎolǜ",
+    "english": "think over; consider"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "烤鸭",
+    "pinyin": "kǎoyā",
+    "english": "roast duck"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "科学",
+    "pinyin": "kēxué",
+    "english": "science; scientific knowledge"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "棵",
+    "pinyin": "kē",
+    "english": "(mw for plants)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "咳嗽",
+    "pinyin": "késou",
+    "english": "to cough"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "可怜",
+    "pinyin": "kělián",
+    "english": "pitiful; poor; pathetic"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "可是",
+    "pinyin": "kěshì",
+    "english": "but; however"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "可惜",
+    "pinyin": "kěxī",
+    "english": "it's a pity; regrettable; too bad"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "客厅",
+    "pinyin": "kètīng",
+    "english": "living room; parlor"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "肯定",
+    "pinyin": "kěndìng",
+    "english": "sure; definite; affirm; approve"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "空",
+    "pinyin": "kōng, kòng",
+    "english": "empty; sky | leave blank; leisure"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "空气",
+    "pinyin": "kōngqì",
+    "english": "air"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "恐怕",
+    "pinyin": "kǒngpà",
+    "english": "be afraid; to fear; I'm afraid that..."
+  },
+  {
+    "level": "hsk4 ",
+    "character": "苦",
+    "pinyin": "kǔ",
+    "english": "bitter; miserable"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "矿泉水",
+    "pinyin": "kuàngquánshuǐ",
+    "english": "mineral water"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "困",
+    "pinyin": "kùn",
+    "english": "sleepy; surround; hard-pressed"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "困难",
+    "pinyin": "kùnnan",
+    "english": "difficulty; difficult; problem"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "垃圾桶",
+    "pinyin": "lājītǒng",
+    "english": "garbage can"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "拉",
+    "pinyin": "lā",
+    "english": "to pull; to play (string instruments); to drag"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "辣",
+    "pinyin": "là",
+    "english": "hot (spicy)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "来不及",
+    "pinyin": "lái bu jí",
+    "english": "there's not enough time (to do something); it's too late"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "来得及",
+    "pinyin": "lái de jí",
+    "english": "there's still time"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "来自",
+    "pinyin": "láizì",
+    "english": "come from (a place)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "懒",
+    "pinyin": "lǎn",
+    "english": "lazy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "浪费",
+    "pinyin": "làngfèi",
+    "english": "to waste; squander"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "浪漫",
+    "pinyin": "làngmàn",
+    "english": "romantic"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "老虎",
+    "pinyin": "lǎohǔ",
+    "english": "tiger"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "冷静",
+    "pinyin": "lěngjìng",
+    "english": "calm; cool-headed; sober"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "礼拜天",
+    "pinyin": "lǐbàitiān",
+    "english": "Sunday"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "礼貌",
+    "pinyin": "lǐmào",
+    "english": "courtesy; politeness; manners"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "理发",
+    "pinyin": "lǐfà",
+    "english": "a barber, hairdressing; haircut"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "理解",
+    "pinyin": "lǐjiě",
+    "english": "comprehend; understand"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "理想",
+    "pinyin": "lǐxiǎng",
+    "english": "ideal"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "力气",
+    "pinyin": "lìqi",
+    "english": "physical strength; effort"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "厉害",
+    "pinyin": "lìhai",
+    "english": "terrible; formidable; fierce; cool; awesome"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "例如",
+    "pinyin": "lìrú",
+    "english": "for example; for instance"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "俩",
+    "pinyin": "liǎng",
+    "english": "(colloquial) two (people)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "连",
+    "pinyin": "lián",
+    "english": "even; including; join"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "联系",
+    "pinyin": "liánxì",
+    "english": "integrate; link; connection; contact"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "凉快",
+    "pinyin": "liángkuai",
+    "english": "nice and cool; pleasantly cool"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "零钱",
+    "pinyin": "língqián",
+    "english": "small change (of money)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "另外",
+    "pinyin": "lìngwài",
+    "english": "another; in addition; besides"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "留",
+    "pinyin": "liú",
+    "english": "to leave (behind, a message); to retain; to stay"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "流利",
+    "pinyin": "liúlì",
+    "english": "fluent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "流行",
+    "pinyin": "liúxíng",
+    "english": "spread; prevalent; be popular"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "旅行",
+    "pinyin": "lǚxíng",
+    "english": "travel"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "律师",
+    "pinyin": "lǜshī",
+    "english": "lawyer"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "乱",
+    "pinyin": "luàn",
+    "english": "disorder; confusion; arbitrarily"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "麻烦",
+    "pinyin": "máfan",
+    "english": "trouble (someone); troubling; bothersome"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "马虎",
+    "pinyin": "mǎhu",
+    "english": "careless; sloppy; casual"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "满",
+    "pinyin": "mǎn",
+    "english": "full; abbreviation for Manchurian"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "毛",
+    "pinyin": "máo",
+    "english": "hair; fur; feather; dime (Kangxi radical 82)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "毛巾",
+    "pinyin": "máojīn",
+    "english": "towel; washcloth"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "美丽",
+    "pinyin": "měilì",
+    "english": "beautiful"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "梦",
+    "pinyin": "mèng",
+    "english": "to dream"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "迷路",
+    "pinyin": "mílù",
+    "english": "to get lost"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "密码",
+    "pinyin": "mìmǎ",
+    "english": "password; secret code"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "免费",
+    "pinyin": "miǎn fèi",
+    "english": "free (of charge); no cost"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "秒",
+    "pinyin": "miǎo",
+    "english": "second (unit of time or angle)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "民族",
+    "pinyin": "mínzú",
+    "english": "nationality; ethnic group"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "母亲",
+    "pinyin": "mǔqin",
+    "english": "mother"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "目的",
+    "pinyin": "mùdì",
+    "english": "purpose; aim; goal"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "耐心",
+    "pinyin": "nàixīn",
+    "english": "to be patient"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "难道",
+    "pinyin": "nándào",
+    "english": "could it be that ...?; don't tell me ..."
+  },
+  {
+    "level": "hsk4 ",
+    "character": "难受",
+    "pinyin": "nánshòu",
+    "english": "feel unwell; to suffer pain"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "内",
+    "pinyin": "nèi",
+    "english": "inside; inner; internal; within"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "内容",
+    "pinyin": "nèiróng",
+    "english": "content; substance; details"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "能力",
+    "pinyin": "nénglì",
+    "english": "capability; capable; ability"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "年龄",
+    "pinyin": "niánlíng",
+    "english": "(a person's) age"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "弄",
+    "pinyin": "nòng",
+    "english": "do; manage; to handle; make"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "暖和",
+    "pinyin": "nuǎnhuo",
+    "english": "warm; nice and warm"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "偶尔",
+    "pinyin": "ǒu'ěr",
+    "english": "occasionally; once in a while; sometimes"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "排队",
+    "pinyin": "pái duì",
+    "english": "queue; stand in line"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "排列",
+    "pinyin": "páiliè",
+    "english": "arrange; align; permutation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "判断",
+    "pinyin": "pànduàn",
+    "english": "to judge; judgment; to decide"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "陪",
+    "pinyin": "péi",
+    "english": "accompany; keep company"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "批评",
+    "pinyin": "pīpíng",
+    "english": "criticize"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "皮肤",
+    "pinyin": "pífū",
+    "english": "skin"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "脾气",
+    "pinyin": "píqi",
+    "english": "temperament; disposition; temper"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "篇",
+    "pinyin": "piān",
+    "english": "sheet; (mw for articles); piece of writing"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "骗",
+    "pinyin": "piàn",
+    "english": "to cheat; to swindle; deceive"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "乒乓球",
+    "pinyin": "pīngpāngqiú",
+    "english": "ping pong; table tennis"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "平时",
+    "pinyin": "píngshí",
+    "english": "ordinarily; in normal times; in peacetime"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "破",
+    "pinyin": "pò",
+    "english": "broken; damaged; to split"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "葡萄",
+    "pinyin": "pútao",
+    "english": "grape"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "普遍",
+    "pinyin": "pǔbiàn",
+    "english": "common; universal; general; widespread"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "普通话",
+    "pinyin": "pǔtōnghuà",
+    "english": "Mandarin (common language)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "其次",
+    "pinyin": "qícì",
+    "english": "next; secondly"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "其中",
+    "pinyin": "qízhōng",
+    "english": "among; in; included among these"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "气候",
+    "pinyin": "qìhòu",
+    "english": "climate; atmosphere; weather"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "千万",
+    "pinyin": "qiānwàn",
+    "english": "ten million; be sure to; must"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "签证",
+    "pinyin": "qiānzhèng",
+    "english": "visa"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "敲",
+    "pinyin": "qiāo",
+    "english": "knock; blackmail"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "桥",
+    "pinyin": "qiáo",
+    "english": "bridge"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "english": "chocolate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "亲戚",
+    "pinyin": "qīnqi",
+    "english": "a relative (i.e. family relation)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "轻",
+    "pinyin": "qīng",
+    "english": "light; easy; gentle; soft"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "轻松",
+    "pinyin": "qīngsōng",
+    "english": "relaxed; gentle; easygoing"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "情况",
+    "pinyin": "qíngkuàng",
+    "english": "circumstance; state of affairs; situation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "穷",
+    "pinyin": "qióng",
+    "english": "poor; exhausted"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "区别",
+    "pinyin": "qūbié",
+    "english": "difference; distinguish"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "取",
+    "pinyin": "qǔ",
+    "english": "to take; get; choose"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "全部",
+    "pinyin": "quánbù",
+    "english": "whole; entire; complete"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "缺点",
+    "pinyin": "quēdiǎn",
+    "english": "weak point; defect; fault; shortcoming"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "缺少",
+    "pinyin": "quēshǎo",
+    "english": "to lack; be short of; be deficient in"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "却",
+    "pinyin": "què",
+    "english": "but; yet; however"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "确实",
+    "pinyin": "quèshí",
+    "english": "indeed; in truth; reliable"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "然而",
+    "pinyin": "rán'ér",
+    "english": "however; yet; but"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "热闹",
+    "pinyin": "rènao",
+    "english": "bustling; lively; busy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "任何",
+    "pinyin": "rènhé",
+    "english": "any; whatever; whichever"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "任务",
+    "pinyin": "rènwu",
+    "english": "a mission; an assignment; a task"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "扔",
+    "pinyin": "rēng",
+    "english": "to throw; throw away"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "仍然",
+    "pinyin": "réngrán",
+    "english": "still; yet"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "日记",
+    "pinyin": "rìjì",
+    "english": "diary"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "入口",
+    "pinyin": "rùkǒu",
+    "english": "entrance"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "散步",
+    "pinyin": "sàn bù",
+    "english": "to go for a walk"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "森林",
+    "pinyin": "sēnlín",
+    "english": "forest"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "沙发",
+    "pinyin": "shāfā",
+    "english": "sofa"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "伤心",
+    "pinyin": "shāngxīn",
+    "english": "sad; grieve; brokenhearted"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "商量",
+    "pinyin": "shāngliang",
+    "english": "consult; talk over; discuss"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "稍微",
+    "pinyin": "shāowēi",
+    "english": "a little bit; slightly"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "勺子",
+    "pinyin": "sháozi",
+    "english": "spoon; scoop; ladle"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "社会",
+    "pinyin": "shèhuì",
+    "english": "society"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "申请",
+    "pinyin": "shēnqǐng",
+    "english": "apply for; application"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "深",
+    "pinyin": "shēn",
+    "english": "deep; profound; dark (of colors)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "甚至",
+    "pinyin": "shènzhì",
+    "english": "even (to the point of); so much so that"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "生活",
+    "pinyin": "shēnghuó",
+    "english": "life; livelihood; to live"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "生命",
+    "pinyin": "shēngmìng",
+    "english": "life"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "生意",
+    "pinyin": "shēngyi",
+    "english": "business; trade"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "省",
+    "pinyin": "shěng",
+    "english": "to save; economize; omit; province"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "剩",
+    "pinyin": "shèng",
+    "english": "have as remainder; be left over; surplus"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "失败",
+    "pinyin": "shībài",
+    "english": "be defeated; fail; lose"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "失望",
+    "pinyin": "shīwàng",
+    "english": "disappointed; lose hope"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "师傅",
+    "pinyin": "shīfu",
+    "english": "master; qualified worker; teacher"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "十分",
+    "pinyin": "shífēn",
+    "english": "very; fully; 100%"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "实际",
+    "pinyin": "shíjì",
+    "english": "actual; reality; practice"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "实在",
+    "pinyin": "shízài",
+    "english": "honest; in reality; honestly; indeed; certainly"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "使",
+    "pinyin": "shǐ",
+    "english": "to use; to make; to cause; enable; envoy; messenger"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "使用",
+    "pinyin": "shǐyòng",
+    "english": "to use; employ; apply; administer; manipulate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "世纪",
+    "pinyin": "shìjì",
+    "english": "century"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "是否",
+    "pinyin": "shìfǒu",
+    "english": "whether (or not); if"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "适合",
+    "pinyin": "shìhé",
+    "english": "to suit; to fit"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "适应",
+    "pinyin": "shìyìng",
+    "english": "to suit; to fit; adapt"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "收",
+    "pinyin": "shōu",
+    "english": "receive; accept; collect; to harvest"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "收入",
+    "pinyin": "shōurù",
+    "english": "take in; income; revenue"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "收拾",
+    "pinyin": "shōushi",
+    "english": "to tidy; put in order; to repair; to settle with; punish"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "首都",
+    "pinyin": "shǒudū",
+    "english": "capital (city)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "首先",
+    "pinyin": "shǒuxiān",
+    "english": "first (of all); in the first place; firstly"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "受不了",
+    "pinyin": "shòu bu liǎo",
+    "english": "cannot endure; unbearable; can't stand"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "受到",
+    "pinyin": "shòudào",
+    "english": "receive (influence, restriction, etc.); be subjected to"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "售货员",
+    "pinyin": "shòuhuòyuán",
+    "english": "salesclerk; shop assistant"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "输",
+    "pinyin": "shū",
+    "english": "to transport; to lose (a game, etc.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "熟悉",
+    "pinyin": "shúxī",
+    "english": "familiar with; know well"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "数量",
+    "pinyin": "shùliàng",
+    "english": "amount; quantity; number"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "数字",
+    "pinyin": "shùzì",
+    "english": "number; numeral; figure; digit"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "帅",
+    "pinyin": "shuài",
+    "english": "handsome; graceful; commander-in-chief"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "顺便",
+    "pinyin": "shùnbiàn",
+    "english": "conveniently; in passing; on the way"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "顺利",
+    "pinyin": "shùnlì",
+    "english": "go smoothly; without a hitch; successful"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "顺序",
+    "pinyin": "shùnxù",
+    "english": "sequence; order"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "说明",
+    "pinyin": "shuōmíng",
+    "english": "explain; explanation; illustrate; to show"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "硕士",
+    "pinyin": "shuòshì",
+    "english": "Master's degree (M.A.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "死",
+    "pinyin": "sǐ",
+    "english": "to die; dead; fixed; impassible; extremely"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "速度",
+    "pinyin": "sùdù",
+    "english": "speed; rate; velocity"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "塑料袋",
+    "pinyin": "sùliàodài",
+    "english": "plastic bag"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "酸",
+    "pinyin": "suān",
+    "english": "sour; sore; ache"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "随便",
+    "pinyin": "suíbiàn",
+    "english": "as one pleases; informal; random; casual"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "随着",
+    "pinyin": "suízhe",
+    "english": "along with; in the wake of"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "孙子",
+    "pinyin": "sūnzi",
+    "english": "grandson; son's son"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "所有",
+    "pinyin": "suǒyǒu",
+    "english": "all; to have; to possess"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "台",
+    "pinyin": "tái",
+    "english": "platform; Taiwan (abbr.); desk; stage; typhoon; (mw for machines); (classical) you (in letters)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "抬",
+    "pinyin": "tái",
+    "english": "to lift; to raise (with both palms up); carry (together)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "态度",
+    "pinyin": "tàidu",
+    "english": "manner; bearing; attitude"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "谈",
+    "pinyin": "tán",
+    "english": "to talk; to chat; discuss"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "弹钢琴",
+    "pinyin": "tán gāngqín",
+    "english": "play the piano"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "汤",
+    "pinyin": "tāng",
+    "english": "soup; broth"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "糖",
+    "pinyin": "táng",
+    "english": "sugar; candy; sweets"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "躺",
+    "pinyin": "tǎng",
+    "english": "recline; lie down (on back or side)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "趟",
+    "pinyin": "tàng, tāng",
+    "english": "(mw for trips times) | to wade"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "讨论",
+    "pinyin": "tǎolùn",
+    "english": "to discuss; discussion; to talk over"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "讨厌",
+    "pinyin": "tǎoyàn",
+    "english": "to hate; loathe; disgusting; troublesome"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "特点",
+    "pinyin": "tèdiǎn",
+    "english": "a characteristic; trait; feature"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "提",
+    "pinyin": "tí",
+    "english": "to carry; to lift; to raise (an issue)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "提供",
+    "pinyin": "tígōng",
+    "english": "to supply; provide; furnish"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "提前",
+    "pinyin": "tíqián",
+    "english": "shift to an earlier date; bring forward; to advance"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "提醒",
+    "pinyin": "tíxǐng",
+    "english": "remind; call attention to; warn of"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "填空",
+    "pinyin": "tiánkòng",
+    "english": "fill in the blanks; fill a vacancy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "条件",
+    "pinyin": "tiáojiàn",
+    "english": "condition; circumstances; prerequisite"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "停",
+    "pinyin": "tíng",
+    "english": "to stop; to halt; to park (a car)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "挺",
+    "pinyin": "tǐng",
+    "english": "straighten up; stick out; rather (good); very"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "通过",
+    "pinyin": "tōngguò",
+    "english": "by means of; through (a method); pass through; via"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "通知",
+    "pinyin": "tōngzhī",
+    "english": "notify; to inform; notice"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "同情",
+    "pinyin": "tóngqíng",
+    "english": "compassion; sympathy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "同时",
+    "pinyin": "tóngshí",
+    "english": "at the same time; simultaneously"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "推",
+    "pinyin": "tuī",
+    "english": "to push; to scrape; to decline; postpone; elect"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "推迟",
+    "pinyin": "tuīchí",
+    "english": "postpone; defer"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "脱",
+    "pinyin": "tuō",
+    "english": "to shed; take off; to escape"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "袜子",
+    "pinyin": "wàzi",
+    "english": "socks; stockings"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "完全",
+    "pinyin": "wánquán",
+    "english": "complete; whole; totally"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "网球",
+    "pinyin": "wǎngqiú",
+    "english": "tennis; tennis ball"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "网站",
+    "pinyin": "wǎngzhàn",
+    "english": "website"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "往往",
+    "pinyin": "wǎngwǎng",
+    "english": "often; frequently; more often than not"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "危险",
+    "pinyin": "wēixiǎn",
+    "english": "danger; dangerous; perilous"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "卫生间",
+    "pinyin": "wèishēngjiān",
+    "english": "restroom; bathroom; water closet (WC)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "味道",
+    "pinyin": "wèidao",
+    "english": "flavor; taste"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "温度",
+    "pinyin": "wēndù",
+    "english": "temperature"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "文章",
+    "pinyin": "wénzhāng",
+    "english": "article; essay"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "污染",
+    "pinyin": "wūrǎn",
+    "english": "pollution; contamination"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "无",
+    "pinyin": "wú",
+    "english": "have not; without; not (Kangxi radical 71)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "无聊",
+    "pinyin": "wúliáo",
+    "english": "nonsense; bored; silly; stupid"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "无论",
+    "pinyin": "wúlùn",
+    "english": "no matter what; regardless of whether..."
+  },
+  {
+    "level": "hsk4 ",
+    "character": "误会",
+    "pinyin": "wùhuì",
+    "english": "to misunderstand; to mistake"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "西红柿",
+    "pinyin": "xīhóngshì",
+    "english": "tomato"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "吸引",
+    "pinyin": "xīyǐn",
+    "english": "attract (interest, investment, etc.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "咸",
+    "pinyin": "xián",
+    "english": "salty; salted; all"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "现金",
+    "pinyin": "xiànjīn",
+    "english": "cash"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "羡慕",
+    "pinyin": "xiànmù",
+    "english": "to envy; admire"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "相反",
+    "pinyin": "xiāngfǎn",
+    "english": "opposite; contrary"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "相同",
+    "pinyin": "xiāngtóng",
+    "english": "identical; same; alike"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "香",
+    "pinyin": "xiāng",
+    "english": "fragrant; savory (Kangxi radical 186)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "详细",
+    "pinyin": "xiángxì",
+    "english": "detailed; in detail; minute"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "响",
+    "pinyin": "xiǎng",
+    "english": "make a sound; to ring; echo"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "橡皮",
+    "pinyin": "xiàngpí",
+    "english": "rubber; an eraser"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "消息",
+    "pinyin": "xiāoxi",
+    "english": "news; information"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "小吃",
+    "pinyin": "xiǎochī",
+    "english": "snack; refreshments"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "小伙子",
+    "pinyin": "xiǎohuǒzi",
+    "english": "young man; lad; youngster"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "小说",
+    "pinyin": "xiǎoshuō",
+    "english": "novel; fiction"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "笑话",
+    "pinyin": "xiàohua",
+    "english": "joke; laugh at"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "效果",
+    "pinyin": "xiàoguǒ",
+    "english": "effect; result"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "心情",
+    "pinyin": "xīnqíng",
+    "english": "mood; state of mind"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "辛苦",
+    "pinyin": "xīnkǔ",
+    "english": "hard; exhausting; toilsome; laborious"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "信封",
+    "pinyin": "xìnfēng",
+    "english": "envelope"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "信息",
+    "pinyin": "xìnxī",
+    "english": "information; news; message"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "信心",
+    "pinyin": "xìnxīn",
+    "english": "confidence; faith (in sb. or sth.)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "兴奋",
+    "pinyin": "xīngfèn",
+    "english": "excitement； be excited"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "行",
+    "pinyin": "xíng",
+    "english": "walk; be current; do; will do; okay"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "醒",
+    "pinyin": "xǐng",
+    "english": "wake up"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "幸福",
+    "pinyin": "xìngfú",
+    "english": "happy; blessed; fortunate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "性别",
+    "pinyin": "xìngbié",
+    "english": "gender; sex; sexual distinction"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "性格",
+    "pinyin": "xìnggé",
+    "english": "nature; personality; temperament"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "修理",
+    "pinyin": "xiūlǐ",
+    "english": "to repair; perform maintenance; to overhaul"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "许多",
+    "pinyin": "xǔduō",
+    "english": "many; a lot; much"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "学期",
+    "pinyin": "xuéqī",
+    "english": "semester; school term"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "压力",
+    "pinyin": "yālì",
+    "english": "pressure; stress"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "呀",
+    "pinyin": "ya",
+    "english": "ah; oh; (used for 啊 after words ending with a, e, i, o, or ü)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "牙膏",
+    "pinyin": "yágāo",
+    "english": "toothpaste"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "亚洲",
+    "pinyin": "Yàzhōu",
+    "english": "Asia"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "严格",
+    "pinyin": "yángé",
+    "english": "strict; stringent; tight"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "严重",
+    "pinyin": "yánzhòng",
+    "english": "grave; serious; critical"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "研究",
+    "pinyin": "yánjiū",
+    "english": "to study; to research"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "盐",
+    "pinyin": "yán",
+    "english": "salt"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "眼镜",
+    "pinyin": "yǎnjìng",
+    "english": "glasses; spectacles"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "演出",
+    "pinyin": "yǎnchū",
+    "english": "to act (in a play); to perform; to put on a show; performance"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "演员",
+    "pinyin": "yǎnyuán",
+    "english": "actor or actress; performer"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "阳光",
+    "pinyin": "yángguāng",
+    "english": "sunshine; sunlight"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "养成",
+    "pinyin": "yǎngchéng",
+    "english": "cultivate; acquire; to form"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "样子",
+    "pinyin": "yàngzi",
+    "english": "manner; air; appearance; looks"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "邀请",
+    "pinyin": "yāoqǐng",
+    "english": "to invite"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "要是",
+    "pinyin": "yàoshi",
+    "english": "if; suppose; in case"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "钥匙",
+    "pinyin": "yàoshi",
+    "english": "key"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "也许",
+    "pinyin": "yěxǔ",
+    "english": "perhaps; probably; maybe"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "叶子",
+    "pinyin": "yèzi",
+    "english": "leaves"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "页",
+    "pinyin": "yè",
+    "english": "page; leaf (Kangxi radical 181)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "一切",
+    "pinyin": "yíqiè",
+    "english": "all; every; everything"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "以",
+    "pinyin": "yǐ",
+    "english": "to use; according to; so as to; for; by"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "以为",
+    "pinyin": "yǐwéi",
+    "english": "think (mistakenly); consider (that); believe"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "艺术",
+    "pinyin": "yìshù",
+    "english": "art"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "意见",
+    "pinyin": "yìjiàn",
+    "english": "opinion; view; suggestion; complaint"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "因此",
+    "pinyin": "yīncǐ",
+    "english": "therefore; thus; that is why; because of this"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "引起",
+    "pinyin": "yǐnqǐ",
+    "english": "give rise to; lead to; to cause; arouse"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "印象",
+    "pinyin": "yìnxiàng",
+    "english": "impression"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "赢",
+    "pinyin": "yíng",
+    "english": "to win; to beat; to profit"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "应聘",
+    "pinyin": "yìngpìn",
+    "english": "accept a job offer; to apply for a job"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "永远",
+    "pinyin": "yǒngyuǎn",
+    "english": "forever; eternal; always"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "勇敢",
+    "pinyin": "yǒnggǎn",
+    "english": "brave; courageous"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "优点",
+    "pinyin": "yōudiǎn",
+    "english": "merit; good point; a strength; a benefit"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "优秀",
+    "pinyin": "yōuxiù",
+    "english": "outstanding; excellent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "幽默",
+    "pinyin": "yōumò",
+    "english": "humorous"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "尤其",
+    "pinyin": "yóuqí",
+    "english": "especially; particularly"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "由",
+    "pinyin": "yóu",
+    "english": "follow; from; by; through"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "由于",
+    "pinyin": "yóuyú",
+    "english": "due to; owing to; as a result of; thanks to"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "邮局",
+    "pinyin": "yóujú",
+    "english": "post office"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "友好",
+    "pinyin": "yǒuhǎo",
+    "english": "friendly (relations); close friends"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "友谊",
+    "pinyin": "yǒuyì",
+    "english": "friendship; companionship"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "有趣",
+    "pinyin": "yǒuqù",
+    "english": "interesting; fascinating; amusing"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "于是",
+    "pinyin": "yúshì",
+    "english": "as a result; thus; therefore"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "愉快",
+    "pinyin": "yúkuài",
+    "english": "happy; cheerful; delightful"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "与",
+    "pinyin": "yǔ",
+    "english": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "羽毛球",
+    "pinyin": "yǔmáoqiú",
+    "english": "badminton"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "语法",
+    "pinyin": "yǔfǎ",
+    "english": "grammar"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "语言",
+    "pinyin": "yǔyán",
+    "english": "language"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "预习",
+    "pinyin": "yùxí",
+    "english": "(of students) prepare a lesson before class; preview"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "原来",
+    "pinyin": "yuánlái",
+    "english": "original; former; as it turns out"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "原谅",
+    "pinyin": "yuánliàng",
+    "english": "to excuse; forgive; to pardon"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "原因",
+    "pinyin": "yuányīn",
+    "english": "cause; reason"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "约会",
+    "pinyin": "yuēhuì",
+    "english": "appointment; engagement; date"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "阅读",
+    "pinyin": "yuèdú",
+    "english": "read; reading"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "云",
+    "pinyin": "yún",
+    "english": "cloud; Yunnan province | say; speak"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "允许",
+    "pinyin": "yǔnxǔ",
+    "english": "to permit; allow"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "杂志",
+    "pinyin": "zázhì",
+    "english": "magazine"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "咱们",
+    "pinyin": "zánmen",
+    "english": "we (including the listener); us; our"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "暂时",
+    "pinyin": "zànshí",
+    "english": "temporary; transient; for the moment"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "脏",
+    "pinyin": "zāng",
+    "english": "filthy; dirty"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "责任",
+    "pinyin": "zérèn",
+    "english": "responsibility; blame; duty"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "增加",
+    "pinyin": "zēngjiā",
+    "english": "to increase; to raise; add"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "占线",
+    "pinyin": "zhànxiàn",
+    "english": "the (phone) line is busy"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "招聘",
+    "pinyin": "zhāopìn",
+    "english": "recruitment; take job applications for a job"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "照",
+    "pinyin": "zhào",
+    "english": "to shine; illuminate; according to"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "真正",
+    "pinyin": "zhēnzhèng",
+    "english": "genuine; real; true"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "整理",
+    "pinyin": "zhěnglǐ",
+    "english": "put in order; arrange; straighten up; to tidy; to pack (luggage)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "正常",
+    "pinyin": "zhèngcháng",
+    "english": "normal; regular; ordinary"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "正好",
+    "pinyin": "zhènghǎo",
+    "english": "just (in time); just right; just enough; happen to; by chance"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "正确",
+    "pinyin": "zhèngquè",
+    "english": "correct; proper"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "正式",
+    "pinyin": "zhèngshì",
+    "english": "formal; official"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "证明",
+    "pinyin": "zhèngmíng",
+    "english": "proof; testify; confirm; certificate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "之",
+    "pinyin": "zhī",
+    "english": "(literary equivalent to 的); (pronoun); of"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "支持",
+    "pinyin": "zhīchí",
+    "english": "sustain; hold out; | support; stand by (e.g. international support)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "知识",
+    "pinyin": "zhīshi",
+    "english": "knowledge; intellectual"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "直接",
+    "pinyin": "zhíjiē",
+    "english": "direct; immediate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "值得",
+    "pinyin": "zhíde",
+    "english": "be worth; deserve"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "职业",
+    "pinyin": "zhíyè",
+    "english": "profession; occupation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "植物",
+    "pinyin": "zhíwù",
+    "english": "plant; botanical; vegetation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "只好",
+    "pinyin": "zhǐhǎo",
+    "english": "have to; be forced to"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "只要",
+    "pinyin": "zhǐyào",
+    "english": "so long as; if only; provided that"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "指",
+    "pinyin": "zhǐ",
+    "english": "finger; to point (at, to, out); refer to"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "至少",
+    "pinyin": "zhìshǎo",
+    "english": "at least; (to say the) least"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "质量",
+    "pinyin": "zhìliàng",
+    "english": "quality; mass (physics)"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "重",
+    "pinyin": "zhòng",
+    "english": "heavy; serious; important"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "重点",
+    "pinyin": "zhòngdiǎn",
+    "english": "emphasis; main point"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "重视",
+    "pinyin": "zhòngshì",
+    "english": "to value; take seriously"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "周围",
+    "pinyin": "zhōuwéi",
+    "english": "surroundings; vicinity; environment"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "主意",
+    "pinyin": "zhǔyi",
+    "english": "plan; idea; decision"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "祝贺",
+    "pinyin": "zhùhè",
+    "english": "congratulate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "著名",
+    "pinyin": "zhùmíng",
+    "english": "famous; well-known; celebration"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "专门",
+    "pinyin": "zhuānmén",
+    "english": "specialized"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "专业",
+    "pinyin": "zhuānyè",
+    "english": "profession; specialized field of study; major"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "转",
+    "pinyin": "zhuǎn, zhuàn",
+    "english": "to turn; to change; pass on | revolve; rotate"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "赚",
+    "pinyin": "zhuàn",
+    "english": "earn; make a profit"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "准确",
+    "pinyin": "zhǔnquè",
+    "english": "accurate; precise"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "准时",
+    "pinyin": "zhǔnshí",
+    "english": "punctually; on time"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "仔细",
+    "pinyin": "zǐxì",
+    "english": "careful; attentive; cautious"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "自然",
+    "pinyin": "zìrán",
+    "english": "nature; natural"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "自信",
+    "pinyin": "zìxìn",
+    "english": "self-confidence"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "总结",
+    "pinyin": "zǒngjié",
+    "english": "summarize; conclude"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "租",
+    "pinyin": "zū",
+    "english": "to rent"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "最好",
+    "pinyin": "zuìhǎo",
+    "english": "the best; had better ...; it would be best"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "尊重",
+    "pinyin": "zūnzhòng",
+    "english": "esteem; to respect; to value; to honor"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "左右",
+    "pinyin": "zuǒyòu",
+    "english": "about; approximate; around | left and right"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "作家",
+    "pinyin": "zuòjiā",
+    "english": "author; writer"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "作用",
+    "pinyin": "zuòyòng",
+    "english": "action; activity; effect"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "作者",
+    "pinyin": "zuòzhě",
+    "english": "author; writer"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "座",
+    "pinyin": "zuò",
+    "english": "(mw for mountains, bridges, tall buildings, etc.); | seat; base; stand; constellation"
+  },
+  {
+    "level": "hsk4 ",
+    "character": "座位",
+    "pinyin": "zuòwèi",
+    "english": "seat; place"
+  }
+]
