@@ -4083,9 +4083,16 @@
   {
     "level": "HSK3",
     "character": "只",
-    "pinyin": "zhī, zhǐ",
-    "english_translation": "but; only; merely; just | (mw for birds and certain animals)",
-    "arabic_translation": "لكن؛ فقط؛ مجرد | (كلمة قياس للطيور وبعض الحيوانات)"
+    "pinyin": "zhī",
+    "english_translation": "mw for birds and certain animals",
+    "arabic_translation": " كلمة قياس للطيور وبعض الحيوانات"
+  },
+{
+    "level": "HSK3",
+    "character": "只",
+    "pinyin": "zhǐ",
+    "english_translation": "but; only; merely; just",
+    "arabic_translation": "لكن؛ فقط؛ مجرد "
   },
   {
     "level": "HSK3",
