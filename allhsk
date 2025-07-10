@@ -2550,9 +2550,16 @@
   {
     "level": "HSK3",
     "character": "发",
-    "pinyin": "fā, fà",
-    "english_translation": "send out; to issue; to show (one's feelings) | hair",
-    "arabic_translation": "يرسل؛ يصدر؛ يظهر (مشاعره) | شعر"
+    "pinyin": "fā",
+    "english_translation": "send out; to issue; to show (one's feelings)",
+    "arabic_translation": "يرسل؛ يصدر؛ يظهر (مشاعره) "
+  },
+ {
+    "level": "HSK3",
+    "character": "发",
+    "pinyin": "fà",
+    "english_translation": "hair",
+    "arabic_translation": " شعر"
   },
   {
     "level": "HSK3",
@@ -2592,9 +2599,16 @@
   {
     "level": "HSK3",
     "character": "分",
+    "pinyin": "fēn",
+    "english_translation": "divide; part; minute; cent ",
+    "arabic_translation": "يقسم؛ جزء؛ دقيقة؛ سنت "
+  },
+{
+    "level": "HSK3",
+    "character": "份",
     "pinyin": "fēn, fèn",
-    "english_translation": "divide; part; minute; cent | component; share; ingredient",
-    "arabic_translation": "يقسم؛ جزء؛ دقيقة؛ سنت | مكون؛ حصة؛ عنصر"
+    "english_translation": "component; share; ingredient",
+    "arabic_translation": " مكون؛ حصة؛ عنصر"
   },
   {
     "level": "HSK3",
