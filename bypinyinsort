@@ -2510,8 +2510,14 @@
   {
     "level": "hsk3 ",
     "character": "教",
-    "pinyin": "jiāo, jiào",
-    "english": "teach; instruct | religion; teaching"
+    "pinyin": "jiāo",
+    "english": "teach; instruct"
+  },
+{
+    "level": "hsk3 ",
+    "character": "教",
+    "pinyin": "jiào",
+    "english": "religion; teaching"
   },
   {
     "level": "hsk3 ",
@@ -5162,8 +5168,14 @@
   {
     "level": "hsk4 ",
     "character": "空",
-    "pinyin": "kōng, kòng",
-    "english": "empty; sky | leave blank; leisure"
+    "pinyin": "kōng",
+    "english": "empty; sky "
+  },
+{
+    "level": "hsk4 ",
+    "character": "空",
+    "pinyin": "kòng",
+    "english": "leave blank; leisure"
   },
   {
     "level": "hsk4 ",
@@ -6164,8 +6176,14 @@
   {
     "level": "hsk4 ",
     "character": "趟",
-    "pinyin": "tàng, tāng",
-    "english": "(mw for trips times) | to wade"
+    "pinyin": "tāng",
+    "english": "to wade"
+  },
+{
+    "level": "hsk4 ",
+    "character": "趟",
+    "pinyin": "tàng",
+    "english": "(mw for trips times)"
   },
   {
     "level": "hsk4 ",
