@@ -2516,7 +2516,7 @@
   {
     "level": "hsk3 ",
     "character": "角",
-    "pinyin": "jiǎo, jué",
+    "pinyin": "jiǎo",
     "english": "horn; angle; unit of money (1/10 yuan); corner (Kangxi radical 148) | role (theater)"
   },
   {
@@ -4808,8 +4808,14 @@
   {
     "level": "hsk4 ",
     "character": "假",
-    "pinyin": "jiǎ, jià",
-    "english": "fake; if; borrow | vacation; holiday"
+    "pinyin": "jiǎ",
+    "english": "fake; if; borrow"
+  },
+{
+    "level": "hsk4 ",
+    "character": "假",
+    "pinyin": "jià",
+    "english": "vacation; holiday"
   },
   {
     "level": "hsk4 ",
