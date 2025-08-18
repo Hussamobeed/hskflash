@@ -1108,9 +1108,16 @@
   {
     "level": "HSK2",
     "character": "长",
-    "pinyin": "cháng, zhǎng",
-    "english_translation": "long; length | grow; chief (Kangxi radical 168)",
-    "arabic_translation": "طويل؛ طول | ينمو؛ رئيس (جذر كانغشي 168)"
+    "pinyin": "cháng",
+    "english_translation": "long; length ",
+    "arabic_translation": "طويل؛ طول "
+  },
+{
+    "level": "HSK2",
+    "character": "长",
+    "pinyin": "zhǎng",
+    "english_translation": " grow; chief (Kangxi radical 168)",
+    "arabic_translation": " ينمو؛ رئيس (جذر كانغشي 168)"
   },
   {
     "level": "HSK2",
